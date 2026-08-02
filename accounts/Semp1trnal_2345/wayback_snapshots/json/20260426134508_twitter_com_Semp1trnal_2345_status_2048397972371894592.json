@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2048309638123364516",
+    "created_at": "2026-04-26T13:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T14:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048397972371894592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1645454737817444353",
+          "start": 0,
+          "username": "justLustluck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048397972371894592",
+    "in_reply_to_user_id": "1645454737817444353",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048396220952113593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@justLustluck 🚬🚬🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2048309638123364516",
+        "created_at": "2026-04-26T13:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048397972371894592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1645454737817444353",
+              "start": 0,
+              "username": "justLustluck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048397972371894592",
+        "in_reply_to_user_id": "1645454737817444353",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048396220952113593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@justLustluck 🚬🚬🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645454737817444353",
+        "conversation_id": "2048309638123364516",
+        "created_at": "2026-04-26T13:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048396220952113593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048396220952113593",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048395596512600348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 以后能趁早转行就赶紧转吧🚬🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034491183356059648/QYnwDQiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 100,
+          "like_count": 10675,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 3508
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-10T15:52:51.000Z",
+        "description": "我的心是一杯调和过的咖啡@Lukmiiin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "Lukmiiin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/justlustluck",
+                "end": 23,
+                "expanded_url": "https://ngl.link/justlustluck",
+                "start": 0,
+                "url": "https://t.co/eWPTLThHi6"
+              }
+            ]
+          }
+        },
+        "id": "1645454737817444353",
+        "location": "4i dom｜v只给互关",
+        "name": "m8",
+        "pinned_tweet_id": "2031393457391153373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031419504409063430/w1K2WqJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1493,
+          "following_count": 93,
+          "like_count": 8678,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 3279
+        },
+        "url": "https://t.co/eWPTLThHi6",
+        "username": "justLustluck",
+        "verified": false
+      }
+    ]
+  }
+}

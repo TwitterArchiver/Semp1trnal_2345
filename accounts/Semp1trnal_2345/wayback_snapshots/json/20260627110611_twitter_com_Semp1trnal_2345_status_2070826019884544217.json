@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070826012263510016"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2070826019884544217",
+    "created_at": "2026-06-27T11:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T12:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070826019884544217"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/k6cVGey7MY",
+          "end": 28,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2070826019884544217/photo/1",
+          "media_key": "3_2070826012263510016",
+          "start": 5,
+          "url": "https://t.co/k6cVGey7MY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070826019884544217",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "心爱之糖 https://t.co/k6cVGey7MY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070826012263510016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0NSVSa8AANRSW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070826012263510016"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070826019884544217",
+        "created_at": "2026-06-27T11:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070826019884544217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k6cVGey7MY",
+              "end": 28,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2070826019884544217/photo/1",
+              "media_key": "3_2070826012263510016",
+              "start": 5,
+              "url": "https://t.co/k6cVGey7MY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070826019884544217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心爱之糖 https://t.co/k6cVGey7MY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2056740509717250518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 100,
+          "like_count": 13329,
+          "listed_count": 1,
+          "media_count": 466,
+          "tweet_count": 4408
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

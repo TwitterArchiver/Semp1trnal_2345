@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067987701320859648"
+      ],
+      "media_source_tweet_id": [
+        "2067987709122220539"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2068198117523198266",
+    "created_at": "2026-06-20T05:03:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T06:03:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068198117523198266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nQkZc9jX0a",
+          "end": 34,
+          "expanded_url": "https://x.com/hgds0/status/2067987709122220539/photo/1",
+          "media_key": "3_2067987701320859648",
+          "start": 11,
+          "url": "https://t.co/nQkZc9jX0a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068198117523198266",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067987709122220539",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: https://t.co/nQkZc9jX0a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 430,
+        "media_key": "3_2067987701320859648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLL325EbQAARaCh.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067987701320859648"
+          ],
+          "media_source_tweet_id": [
+            "2067987709122220539"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2068198117523198266",
+        "created_at": "2026-06-20T05:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068198117523198266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nQkZc9jX0a",
+              "end": 34,
+              "expanded_url": "https://x.com/hgds0/status/2067987709122220539/photo/1",
+              "media_key": "3_2067987701320859648",
+              "start": 11,
+              "url": "https://t.co/nQkZc9jX0a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068198117523198266",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067987709122220539",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: https://t.co/nQkZc9jX0a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067987701320859648"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "2067987709122220539",
+        "created_at": "2026-06-19T15:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067987709122220539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nQkZc9jX0a",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds0/status/2067987709122220539/photo/1",
+              "media_key": "3_2067987701320859648",
+              "start": 0,
+              "url": "https://t.co/nQkZc9jX0a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067987709122220539",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 10769,
+          "like_count": 347,
+          "quote_count": 9,
+          "reply_count": 13,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nQkZc9jX0a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 99,
+          "like_count": 13213,
+          "listed_count": 1,
+          "media_count": 446,
+          "tweet_count": 4259
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "2048632363241152830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97483,
+          "following_count": 2438,
+          "like_count": 44879,
+          "listed_count": 143,
+          "media_count": 4421,
+          "tweet_count": 8831
+        },
+        "url": "",
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

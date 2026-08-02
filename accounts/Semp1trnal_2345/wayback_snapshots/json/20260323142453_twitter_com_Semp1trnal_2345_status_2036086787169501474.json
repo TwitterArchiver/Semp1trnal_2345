@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2036071786832711696",
+    "created_at": "2026-03-23T14:24:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T15:24:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036086787169501474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1832308955852500995",
+          "start": 0,
+          "username": "hikari_11111111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036086787169501474",
+    "in_reply_to_user_id": "1832308955852500995",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036071786832711696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hikari_11111111 我大腿粗的堪比七十年老树"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2036071786832711696].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2036071786832711696",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2036071786832711696"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2036071786832711696",
+        "created_at": "2026-03-23T14:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T15:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036086787169501474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1832308955852500995",
+              "start": 0,
+              "username": "hikari_11111111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036086787169501474",
+        "in_reply_to_user_id": "1832308955852500995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036071786832711696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hikari_11111111 我大腿粗的堪比七十年老树"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "我真的不会画画QwQ",
+        "pinned_tweet_id": "2032352051586613370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034491183356059648/QYnwDQiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 99,
+          "like_count": 9645,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 3064
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-07T06:44:41.000Z",
+        "description": "北京 男 之后可能很少出cos了…如果想入我门直接私信我就好了 🚪52/150 想和我聊天也可以私信和我聊 私信都会回的 我话真的特别多 谢谢你们！ 这个是我的提问箱https://t.co/3GY8ZKfTkj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akira19923",
+                "end": 106,
+                "expanded_url": "https://ngl.link/akira19923",
+                "start": 83,
+                "url": "https://t.co/3GY8ZKfTkj"
+              }
+            ]
+          }
+        },
+        "id": "1832308955852500995",
+        "name": "太阳雨",
+        "pinned_tweet_id": "2015062038540890326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024389844026445824/RM3Lvm7m_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 208,
+          "like_count": 2009,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 1788
+        },
+        "username": "hikari_11111111",
+        "verified": false
+      }
+    ]
+  }
+}

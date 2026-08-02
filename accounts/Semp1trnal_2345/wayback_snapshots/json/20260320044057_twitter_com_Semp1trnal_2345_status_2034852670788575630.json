@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2034845378936545587",
+    "created_at": "2026-03-20T04:40:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T05:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034852670788575630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1952302490218831872",
+          "start": 0,
+          "username": "cooulaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034852670788575630",
+    "in_reply_to_user_id": "1952302490218831872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034852162854060288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cooulaaa 就是很帅吧！！！我当时穿他们都说不好看。。。人家后来就没再穿过了😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2034845378936545587",
+        "created_at": "2026-03-20T04:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T05:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034852670788575630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1952302490218831872",
+              "start": 0,
+              "username": "cooulaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034852670788575630",
+        "in_reply_to_user_id": "1952302490218831872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034852162854060288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cooulaaa 就是很帅吧！！！我当时穿他们都说不好看。。。人家后来就没再穿过了😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952302490218831872",
+        "conversation_id": "2034845378936545587",
+        "created_at": "2026-03-20T04:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T05:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034852162854060288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034852162854060288",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034845378936545587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 bape确实帅呀！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "我真的不会画画QwQ",
+        "pinned_tweet_id": "2032352051586613370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034491183356059648/QYnwDQiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 100,
+          "like_count": 9181,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 2898
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T09:36:11.000Z",
+        "description": "我只是个懵逼的单细胞生物草履虫呀。                                   08高二在读｜暴露癖小号@chng1089971 只过互关or🚪（谨慎关注 目前里面只有色图。｜提问箱👉https://t.co/RBn9R5a4wy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "chng1089971"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8D%89%E5%B…",
+                "end": 127,
+                "expanded_url": "https://ngl.link/%E8%8D%89%E5%B1%A5%E8%99%AB",
+                "start": 104,
+                "url": "https://t.co/RBn9R5a4wy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.tz86.vip/#/register?code=4nDoXVYO",
+                "start": 0,
+                "url": "https://t.co/fplUYhn3rj"
+              }
+            ]
+          }
+        },
+        "id": "1952302490218831872",
+        "location": "有🚪",
+        "name": "忧郁萌神草履虫",
+        "pinned_tweet_id": "2027423487170916519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028332698625003521/i3elCBTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3554,
+          "following_count": 294,
+          "like_count": 592,
+          "listed_count": 9,
+          "media_count": 165,
+          "tweet_count": 915
+        },
+        "url": "https://t.co/fplUYhn3rj",
+        "username": "cooulaaa",
+        "verified": false
+      }
+    ]
+  }
+}

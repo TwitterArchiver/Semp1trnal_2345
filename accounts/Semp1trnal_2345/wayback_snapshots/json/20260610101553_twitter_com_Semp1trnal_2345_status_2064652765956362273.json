@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2064562461286760617",
+    "created_at": "2026-06-10T10:15:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:15:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064652765956362273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1774039267557179392",
+          "start": 0,
+          "username": "ynjnq5469281"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064652765956362273",
+    "in_reply_to_user_id": "1774039267557179392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064649476657336341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ynjnq5469281 关机了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2064562461286760617",
+        "created_at": "2026-06-10T10:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064652765956362273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1774039267557179392",
+              "start": 0,
+              "username": "ynjnq5469281"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064652765956362273",
+        "in_reply_to_user_id": "1774039267557179392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064649476657336341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ynjnq5469281 关机了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774039267557179392",
+        "conversation_id": "2064562461286760617",
+        "created_at": "2026-06-10T10:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064649476657336341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064649476657336341",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064562461286760617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 怎么做到的 关机么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1490,
+          "following_count": 103,
+          "like_count": 12759,
+          "listed_count": 1,
+          "media_count": 421,
+          "tweet_count": 4084
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T11:41:51.000Z",
+        "description": "自由",
+        "id": "1774039267557179392",
+        "name": "bobbidi boo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011464554384109568/zUfEVR5i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 106,
+          "like_count": 8003,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1570
+        },
+        "username": "ynjnq5469281",
+        "verified": false
+      }
+    ]
+  }
+}

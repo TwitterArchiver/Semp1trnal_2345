@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2059988645810237506",
+    "created_at": "2026-05-28T13:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059988645810237506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1787173411179110400",
+          "start": 3,
+          "username": "jlee_526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059988645810237506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059335310648189251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jlee_526: 我的少女心事是fps游戏没有天赋。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2059988645810237506",
+        "created_at": "2026-05-28T13:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059988645810237506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1787173411179110400",
+              "start": 3,
+              "username": "jlee_526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059988645810237506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059335310648189251",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jlee_526: 我的少女心事是fps游戏没有天赋。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787173411179110400",
+        "conversation_id": "2059335310648189251",
+        "created_at": "2026-05-26T18:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T19:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059335310648189251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059335310648189251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 27643,
+          "like_count": 394,
+          "quote_count": 11,
+          "reply_count": 66,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "我的少女心事是fps游戏没有天赋。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1444,
+          "following_count": 98,
+          "like_count": 12230,
+          "listed_count": 0,
+          "media_count": 403,
+          "tweet_count": 3944
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T17:32:08.000Z",
+        "description": "听爱轰鸣.",
+        "id": "1787173411179110400",
+        "location": "距你0.1km",
+        "name": "yee",
+        "pinned_tweet_id": "1811809923665477821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009486103859118080/YNGy-1OU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1869,
+          "following_count": 40,
+          "like_count": 2516,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 1640
+        },
+        "username": "jlee_526",
+        "verified": false
+      }
+    ]
+  }
+}

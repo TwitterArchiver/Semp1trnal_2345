@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2066000306736075094",
+    "created_at": "2026-06-14T06:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T07:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066043628074774743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1912840253624520704",
+          "start": 0,
+          "username": "wobujiaowei7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066043628074774743",
+    "in_reply_to_user_id": "1912840253624520704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066033881908961388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wobujiaowei7777 好呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2066000306736075094",
+        "created_at": "2026-06-14T06:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066043628074774743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1912840253624520704",
+              "start": 0,
+              "username": "wobujiaowei7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066043628074774743",
+        "in_reply_to_user_id": "1912840253624520704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066033881908961388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wobujiaowei7777 好呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912840253624520704",
+        "conversation_id": "2066000306736075094",
+        "created_at": "2026-06-14T05:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T06:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066033881908961388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066033881908961388",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066000306736075094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 野炊！星露谷！喷三！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 101,
+          "like_count": 12939,
+          "listed_count": 1,
+          "media_count": 430,
+          "tweet_count": 4148
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T12:08:45.000Z",
+        "description": "做全世界最幸福的废话大王🐱\n                                                         \n✉️https://t.co/3DLSLK7Mdq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wobujiaowei777…",
+                "end": 97,
+                "expanded_url": "https://ngl.link/wobujiaowei77772",
+                "start": 74,
+                "url": "https://t.co/3DLSLK7Mdq"
+              }
+            ]
+          }
+        },
+        "id": "1912840253624520704",
+        "location": "鹈鹕小镇",
+        "name": "春困秋乏夏打盹",
+        "pinned_tweet_id": "2062742584863387918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035424321230057472/WN9xSVXL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15195,
+          "following_count": 438,
+          "like_count": 12252,
+          "listed_count": 68,
+          "media_count": 406,
+          "tweet_count": 2729
+        },
+        "username": "wobujiaowei7777",
+        "verified": false
+      }
+    ]
+  }
+}

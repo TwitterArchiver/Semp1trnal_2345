@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2074097320950636852",
+    "created_at": "2026-07-07T03:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T04:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074333447846584599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2061374223310827522",
+          "start": 0,
+          "username": "jiujiuguiyi23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074333447846584599",
+    "in_reply_to_user_id": "2061374223310827522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074204707107774890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiujiuguiyi23 总结就是你长得不够帅声音不够好听身材不够好坤不够大也不太会说话 男的起号无比容易 女的圈十块八块的要被bro追着骂 男的有人闭着眼睛捂着耳朵捧 你坤续吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2074097320950636852",
+        "created_at": "2026-07-07T03:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074333447846584599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061374223310827522",
+              "start": 0,
+              "username": "jiujiuguiyi23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074333447846584599",
+        "in_reply_to_user_id": "2061374223310827522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074204707107774890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiujiuguiyi23 总结就是你长得不够帅声音不够好听身材不够好坤不够大也不太会说话 男的起号无比容易 女的圈十块八块的要被bro追着骂 男的有人闭着眼睛捂着耳朵捧 你坤续吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061374223310827522",
+        "conversation_id": "2074097320950636852",
+        "created_at": "2026-07-06T18:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T19:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074204707107774890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074204707107774890",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074097320950636852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 我是男的 我怎么不知道怎么圈？我要是女的天天在推上卖骚早美美圈米了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 51,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 28,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 76,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 53,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 98,
+          "like_count": 13808,
+          "listed_count": 1,
+          "media_count": 485,
+          "tweet_count": 4598
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-01T09:08:53.000Z",
+        "description": "你好",
+        "id": "2061374223310827522",
+        "location": "中国",
+        "name": "久九",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074214483506118656/vAfxhTUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 16,
+          "like_count": 1834,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 150
+        },
+        "url": "",
+        "username": "jiujiuguiyi23",
+        "verified": false
+      }
+    ]
+  }
+}

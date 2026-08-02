@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055630910243184640"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2055630918724071864",
+    "created_at": "2026-05-16T12:46:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055630918724071864"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fVAPAPS8Zu",
+          "end": 38,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2055630918724071864/photo/1",
+          "media_key": "3_2055630910243184640",
+          "start": 15,
+          "url": "https://t.co/fVAPAPS8Zu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055630918724071864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我同桌这么穿真的很猥琐很恶心 https://t.co/fVAPAPS8Zu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2055630910243184640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcRa_JboAAg5-4.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055630910243184640"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2055630918724071864",
+        "created_at": "2026-05-16T12:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055630918724071864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fVAPAPS8Zu",
+              "end": 38,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2055630918724071864/photo/1",
+              "media_key": "3_2055630910243184640",
+              "start": 15,
+              "url": "https://t.co/fVAPAPS8Zu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055630918724071864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我同桌这么穿真的很猥琐很恶心 https://t.co/fVAPAPS8Zu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2039728281235423570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 101,
+          "like_count": 11506,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 3790
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

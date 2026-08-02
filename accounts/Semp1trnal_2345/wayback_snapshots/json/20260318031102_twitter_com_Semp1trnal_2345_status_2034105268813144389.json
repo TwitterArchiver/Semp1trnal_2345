@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2034087829740130800",
+    "created_at": "2026-03-18T03:11:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T04:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034105268813144389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2028721567862300672",
+          "start": 0,
+          "username": "Drizzlehik"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034105268813144389",
+    "in_reply_to_user_id": "2028721567862300672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034104029446607240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Drizzlehik 是吗！我下次尝尝 我也没吃完嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2034087829740130800",
+        "created_at": "2026-03-18T03:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T04:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034105268813144389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2028721567862300672",
+              "start": 0,
+              "username": "Drizzlehik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034105268813144389",
+        "in_reply_to_user_id": "2028721567862300672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034104029446607240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Drizzlehik 是吗！我下次尝尝 我也没吃完嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028721567862300672",
+        "conversation_id": "2034087829740130800",
+        "created_at": "2026-03-18T03:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T04:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034104029446607240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034104029446607240",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034087829740130800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 wow，这个我之前也吃过，我感觉那个鸡肉的好好吃，就是我吃不完"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "我真的不会画画QwQ",
+        "pinned_tweet_id": "2032828087830974579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026501500391034880/hy0e5UuC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 100,
+          "like_count": 8906,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 2795
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T06:39:07.000Z",
+        "description": "不许吃完大蒜跟我讲话",
+        "id": "2028721567862300672",
+        "name": "Drizzle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028721908427235329/xChAW4g__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 11,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 70
+        },
+        "username": "Drizzlehik",
+        "verified": false
+      }
+    ]
+  }
+}

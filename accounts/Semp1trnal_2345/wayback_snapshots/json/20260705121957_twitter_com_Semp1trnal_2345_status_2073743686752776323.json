@@ -1,0 +1,440 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2073743686752776323",
+    "created_at": "2026-07-05T12:19:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T13:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073743686752776323"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iluvtvt_7/stat…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/iluvtvt_7/status/2073734006752096266",
+          "start": 10,
+          "url": "https://t.co/Yn7AHCtJBd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073743686752776323",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073734006752096266",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "欢迎喜欢偶家小蛋蛋 https://t.co/Yn7AHCtJBd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2073733944290557952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdiCQQbwAAIz9h.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2261,
+        "media_key": "3_2073733969867423744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdiDvibwAAbcW0.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2044,
+        "media_key": "3_2073733987697307648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdiEx9aMAA9SiF.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2073743686752776323",
+        "created_at": "2026-07-05T12:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073743686752776323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iluvtvt_7/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/iluvtvt_7/status/2073734006752096266",
+              "start": 10,
+              "url": "https://t.co/Yn7AHCtJBd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073743686752776323",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073734006752096266",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欢迎喜欢偶家小蛋蛋 https://t.co/Yn7AHCtJBd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073733944290557952",
+            "3_2073733969867423744",
+            "3_2073733987697307648"
+          ]
+        },
+        "author_id": "1682778677912965121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2073734006752096266",
+        "created_at": "2026-07-05T11:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073734006752096266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bBQsyL5r8y",
+              "end": 81,
+              "expanded_url": "https://x.com/iluvTvT_7/status/2073734006752096266/photo/1",
+              "media_key": "3_2073733944290557952",
+              "start": 58,
+              "url": "https://t.co/bBQsyL5r8y"
+            },
+            {
+              "display_url": "pic.x.com/bBQsyL5r8y",
+              "end": 81,
+              "expanded_url": "https://x.com/iluvTvT_7/status/2073734006752096266/photo/1",
+              "media_key": "3_2073733969867423744",
+              "start": 58,
+              "url": "https://t.co/bBQsyL5r8y"
+            },
+            {
+              "display_url": "pic.x.com/bBQsyL5r8y",
+              "end": 81,
+              "expanded_url": "https://x.com/iluvTvT_7/status/2073734006752096266/photo/1",
+              "media_key": "3_2073733987697307648",
+              "start": 58,
+              "url": "https://t.co/bBQsyL5r8y"
+            },
+            {
+              "display_url": "x.com/4ever_keep_mov…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/4ever_keep_move/status/2019815359281512462",
+              "start": 82,
+              "url": "https://t.co/fjuhMJZLg2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073734006752096266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019815359281512462",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "到1054惹！\n互关评论抽一包雪花酥（折现30r）\n一包紫薯棍棍（折现14r）\n三个5.2r\n我让grok给我抽呀 https://t.co/bBQsyL5r8y https://t.co/fjuhMJZLg2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 51,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 28,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 76,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 53,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 100,
+          "like_count": 13707,
+          "listed_count": 1,
+          "media_count": 482,
+          "tweet_count": 4574
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T15:44:45.000Z",
+        "description": "想要的生活是一直躺着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/chicken527ovo",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/chicken527ovo",
+                "start": 0,
+                "url": "https://t.co/7gMcs1ojHs"
+              }
+            ]
+          }
+        },
+        "id": "1682778677912965121",
+        "location": "匿名箱在",
+        "name": "世萌一",
+        "pinned_tweet_id": "2060021041888698741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054719011666239489/pxGq84m6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 98,
+          "like_count": 34621,
+          "listed_count": 3,
+          "media_count": 1023,
+          "tweet_count": 16191
+        },
+        "url": "https://t.co/7gMcs1ojHs",
+        "username": "iluvTvT_7",
+        "verified": false
+      }
+    ]
+  }
+}

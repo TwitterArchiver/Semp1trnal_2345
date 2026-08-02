@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046821589870923776"
+      ],
+      "media_source_tweet_id": [
+        "2046821602348957722"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2047172033608650778",
+    "created_at": "2026-04-23T04:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T05:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047172033608650778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1893030061848305665",
+          "start": 3,
+          "username": "Xyyyy_0324"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8RVhZLO4n8",
+          "end": 45,
+          "expanded_url": "https://x.com/Xyyyy_0324/status/2046821602348957722/photo/1",
+          "media_key": "3_2046821589870923776",
+          "start": 22,
+          "url": "https://t.co/8RVhZLO4n8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047172033608650778",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046821602348957722",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xyyyy_0324: 我要上吊了 https://t.co/8RVhZLO4n8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046821589870923776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGfFZDbbUAAjzPf.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046821589870923776"
+          ],
+          "media_source_tweet_id": [
+            "2046821602348957722"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2047172033608650778",
+        "created_at": "2026-04-23T04:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T05:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047172033608650778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1893030061848305665",
+              "start": 3,
+              "username": "Xyyyy_0324"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8RVhZLO4n8",
+              "end": 45,
+              "expanded_url": "https://x.com/Xyyyy_0324/status/2046821602348957722/photo/1",
+              "media_key": "3_2046821589870923776",
+              "start": 22,
+              "url": "https://t.co/8RVhZLO4n8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047172033608650778",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046821602348957722",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xyyyy_0324: 我要上吊了 https://t.co/8RVhZLO4n8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046821589870923776"
+          ]
+        },
+        "author_id": "1893030061848305665",
+        "conversation_id": "2046821602348957722",
+        "created_at": "2026-04-22T05:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T06:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046821602348957722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8RVhZLO4n8",
+              "end": 29,
+              "expanded_url": "https://x.com/Xyyyy_0324/status/2046821602348957722/photo/1",
+              "media_key": "3_2046821589870923776",
+              "start": 6,
+              "url": "https://t.co/8RVhZLO4n8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046821602348957722",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 11721,
+          "like_count": 117,
+          "quote_count": 10,
+          "reply_count": 41,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我要上吊了 https://t.co/8RVhZLO4n8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2039728281235423570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034491183356059648/QYnwDQiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 99,
+          "like_count": 10375,
+          "listed_count": 0,
+          "media_count": 314,
+          "tweet_count": 3430
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T20:08:42.000Z",
+        "description": "可以叫我小氧^^我有恋哥癖。无🚪只加互关！一个话很多的小女孩^^喜欢大扔扔肌肉男！！夸我的私信看见了会回 不搞h不聊s看见了直接拉黑^^不要恶心我 匿名：https://t.co/uhOO8LUdot",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ooo26894",
+                "end": 100,
+                "expanded_url": "https://ngl.link/ooo26894",
+                "start": 77,
+                "url": "https://t.co/uhOO8LUdot"
+              }
+            ]
+          }
+        },
+        "id": "1893030061848305665",
+        "location": "纯清水推 不搞h不聊s 喜欢我请给我打钱^^",
+        "name": "O₂",
+        "pinned_tweet_id": "2033515930249236669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041143495197675521/2v2-O4Hn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3025,
+          "following_count": 284,
+          "like_count": 6560,
+          "listed_count": 3,
+          "media_count": 256,
+          "tweet_count": 2532
+        },
+        "username": "Xyyyy_0324",
+        "verified": false
+      }
+    ]
+  }
+}

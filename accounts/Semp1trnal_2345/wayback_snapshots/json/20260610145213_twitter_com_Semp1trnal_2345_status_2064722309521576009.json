@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064722301665603584",
+        "3_2064722301661425664",
+        "3_2064722301678186496"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2064722309521576009",
+    "created_at": "2026-06-10T14:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064722309521576009"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ouH6OAzSJT",
+          "end": 93,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2064722309521576009/photo/1",
+          "media_key": "3_2064722301665603584",
+          "start": 70,
+          "url": "https://t.co/ouH6OAzSJT"
+        },
+        {
+          "display_url": "pic.x.com/ouH6OAzSJT",
+          "end": 93,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2064722309521576009/photo/1",
+          "media_key": "3_2064722301661425664",
+          "start": 70,
+          "url": "https://t.co/ouH6OAzSJT"
+        },
+        {
+          "display_url": "pic.x.com/ouH6OAzSJT",
+          "end": 93,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2064722309521576009/photo/1",
+          "media_key": "3_2064722301678186496",
+          "start": 70,
+          "url": "https://t.co/ouH6OAzSJT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064722309521576009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1️⃣随便你发我根本无感。好看不好看都不会挂出来 大概率可能是我看都懒得看。\n2️⃣哈哈哈哈哈\n3️⃣会认识朋友 但是没发东西的不太会。。 https://t.co/ouH6OAzSJT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064722301665603584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdd_naa8AAIV_T.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064722301661425664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdd_nZbMAAr08x.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064722301678186496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdd_nda8AAdIms.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064722301665603584",
+            "3_2064722301661425664",
+            "3_2064722301678186496"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2064722309521576009",
+        "created_at": "2026-06-10T14:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064722309521576009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ouH6OAzSJT",
+              "end": 93,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2064722309521576009/photo/1",
+              "media_key": "3_2064722301665603584",
+              "start": 70,
+              "url": "https://t.co/ouH6OAzSJT"
+            },
+            {
+              "display_url": "pic.x.com/ouH6OAzSJT",
+              "end": 93,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2064722309521576009/photo/1",
+              "media_key": "3_2064722301661425664",
+              "start": 70,
+              "url": "https://t.co/ouH6OAzSJT"
+            },
+            {
+              "display_url": "pic.x.com/ouH6OAzSJT",
+              "end": 93,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2064722309521576009/photo/1",
+              "media_key": "3_2064722301678186496",
+              "start": 70,
+              "url": "https://t.co/ouH6OAzSJT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064722309521576009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1️⃣随便你发我根本无感。好看不好看都不会挂出来 大概率可能是我看都懒得看。\n2️⃣哈哈哈哈哈\n3️⃣会认识朋友 但是没发东西的不太会。。 https://t.co/ouH6OAzSJT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1495,
+          "following_count": 103,
+          "like_count": 12757,
+          "listed_count": 1,
+          "media_count": 423,
+          "tweet_count": 4088
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

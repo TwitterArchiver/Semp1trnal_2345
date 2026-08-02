@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2067989209806463422",
+    "created_at": "2026-06-19T16:09:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T17:09:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068003218240720927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1886452072591298560",
+          "start": 0,
+          "username": "bbei_621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068003218240720927",
+    "in_reply_to_user_id": "1886452072591298560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067989209806463422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbei_621 美得要死。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067989196661493760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLL5N7pakAAqLO5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067989196774735872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLL5N8EagAAu9QR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2067989209806463422",
+        "created_at": "2026-06-19T16:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068003218240720927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886452072591298560",
+              "start": 0,
+              "username": "bbei_621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068003218240720927",
+        "in_reply_to_user_id": "1886452072591298560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067989209806463422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbei_621 美得要死。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067989196661493760",
+            "3_2067989196774735872"
+          ]
+        },
+        "author_id": "1886452072591298560",
+        "conversation_id": "2067989209806463422",
+        "created_at": "2026-06-19T15:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067989209806463422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ar4Zd8teDz",
+              "end": 30,
+              "expanded_url": "https://x.com/bbei_621/status/2067989209806463422/photo/1",
+              "media_key": "3_2067989196661493760",
+              "start": 7,
+              "url": "https://t.co/ar4Zd8teDz"
+            },
+            {
+              "display_url": "pic.x.com/ar4Zd8teDz",
+              "end": 30,
+              "expanded_url": "https://x.com/bbei_621/status/2067989209806463422/photo/1",
+              "media_key": "3_2067989196774735872",
+              "start": 7,
+              "url": "https://t.co/ar4Zd8teDz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067989209806463422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1103,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神一张鬼一张 https://t.co/ar4Zd8teDz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 99,
+          "like_count": 13196,
+          "listed_count": 1,
+          "media_count": 445,
+          "tweet_count": 4248
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T16:30:44.000Z",
+        "description": "4i不1i｜最爱小猫小狗和淡奶油猪yushi｜超级超级颜控",
+        "id": "1886452072591298560",
+        "location": "成都",
+        "name": "周日见",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066905386855419904/x2-uSaSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3539,
+          "following_count": 176,
+          "like_count": 1817,
+          "listed_count": 8,
+          "media_count": 196,
+          "tweet_count": 1989
+        },
+        "url": "",
+        "username": "bbei_621",
+        "verified": false
+      }
+    ]
+  }
+}

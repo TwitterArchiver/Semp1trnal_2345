@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055630139397152768"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2055627798073819324",
+    "created_at": "2026-05-16T12:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055630148389761213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1558346182316896256",
+          "start": 0,
+          "username": "hoxer15"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vtuJklRjYI",
+          "end": 37,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2055630148389761213/photo/1",
+          "media_key": "3_2055630139397152768",
+          "start": 14,
+          "url": "https://t.co/vtuJklRjYI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055630148389761213",
+    "in_reply_to_user_id": "1558346182316896256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055627798073819324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoxer15 我要笑死 https://t.co/vtuJklRjYI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2055630139397152768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcQuHhaoAAcLJo.jpg",
+        "width": 473
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055627795385233408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcOlrZbMAA3Pgt.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055630139397152768"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2055627798073819324",
+        "created_at": "2026-05-16T12:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055630148389761213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1558346182316896256",
+              "start": 0,
+              "username": "hoxer15"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vtuJklRjYI",
+              "end": 37,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2055630148389761213/photo/1",
+              "media_key": "3_2055630139397152768",
+              "start": 14,
+              "url": "https://t.co/vtuJklRjYI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055630148389761213",
+        "in_reply_to_user_id": "1558346182316896256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055627798073819324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoxer15 我要笑死 https://t.co/vtuJklRjYI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055627795385233408"
+          ]
+        },
+        "author_id": "1558346182316896256",
+        "conversation_id": "2055627798073819324",
+        "created_at": "2026-05-16T12:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055627798073819324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6VTdqJtWxo",
+              "end": 37,
+              "expanded_url": "https://x.com/hoxer15/status/2055627798073819324/photo/1",
+              "media_key": "3_2055627795385233408",
+              "start": 14,
+              "url": "https://t.co/6VTdqJtWxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055627798073819324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小鱼我告诉你。你找对人了。 https://t.co/6VTdqJtWxo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2039728281235423570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 101,
+          "like_count": 11506,
+          "listed_count": 0,
+          "media_count": 373,
+          "tweet_count": 3789
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T06:54:23.000Z",
+        "description": "可以叫我小物/4i /ENTP/摩羯/头像是本人/没门",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hoxer",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hoxer",
+                "start": 0,
+                "url": "https://t.co/DmoM7w0LFv"
+              }
+            ]
+          }
+        },
+        "id": "1558346182316896256",
+        "location": "就那个哪呗",
+        "name": "人类是我的兼职",
+        "pinned_tweet_id": "2023236867341103534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047727929317298177/-wMgLHmV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 209,
+          "like_count": 24046,
+          "listed_count": 1,
+          "media_count": 538,
+          "tweet_count": 13004
+        },
+        "url": "https://t.co/DmoM7w0LFv",
+        "username": "hoxer15",
+        "verified": false
+      }
+    ]
+  }
+}

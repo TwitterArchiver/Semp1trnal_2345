@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2053384767908057245",
+    "created_at": "2026-05-10T08:03:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T09:03:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053385444319269334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1682778677912965121",
+          "start": 0,
+          "username": "iluvTvT_7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053385444319269334",
+    "in_reply_to_user_id": "1682778677912965121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053384767908057245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iluvTvT_7 蜜蜜你不要拿被子撒气呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2053384767908057245",
+        "created_at": "2026-05-10T08:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053385444319269334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1682778677912965121",
+              "start": 0,
+              "username": "iluvTvT_7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053385444319269334",
+        "in_reply_to_user_id": "1682778677912965121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053384767908057245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iluvTvT_7 蜜蜜你不要拿被子撒气呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682778677912965121",
+        "conversation_id": "2053384767908057245",
+        "created_at": "2026-05-10T08:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053384767908057245"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053384767908057245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天起床都吸鼻涕因为睡不着就会把被子一脚踢开"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2039728281235423570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049504904532959232/XKSe-cbm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1422,
+          "following_count": 100,
+          "like_count": 11115,
+          "listed_count": 0,
+          "media_count": 356,
+          "tweet_count": 3708
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T15:44:45.000Z",
+        "description": "小心事@EricCole13",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "EricCole13"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/chicken527ovo",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/chicken527ovo",
+                "start": 0,
+                "url": "https://t.co/7gMcs1ojHs"
+              }
+            ]
+          }
+        },
+        "id": "1682778677912965121",
+        "location": "匿名箱在",
+        "name": "世萌一",
+        "pinned_tweet_id": "2048025711093719155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049505156841304065/Q_wYpjcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 112,
+          "like_count": 31845,
+          "listed_count": 2,
+          "media_count": 810,
+          "tweet_count": 13865
+        },
+        "url": "https://t.co/7gMcs1ojHs",
+        "username": "iluvTvT_7",
+        "verified": false
+      }
+    ]
+  }
+}

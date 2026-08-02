@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2064739361825128606",
+    "created_at": "2026-06-10T15:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T16:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064739361825128606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1881975373552111616",
+          "start": 3,
+          "username": "16313xi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064739361825128606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 85
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064151328801345709",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @16313xi: 我算是发现了，长得好看没用，身材好也没用，他妈的命好才有用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2064739361825128606",
+        "created_at": "2026-06-10T15:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064739361825128606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1881975373552111616",
+              "start": 3,
+              "username": "16313xi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064739361825128606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 85
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064151328801345709",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @16313xi: 我算是发现了，长得好看没用，身材好也没用，他妈的命好才有用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881975373552111616",
+        "conversation_id": "2064151328801345709",
+        "created_at": "2026-06-09T01:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T02:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064151328801345709"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064151328801345709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 49496,
+          "like_count": 1183,
+          "quote_count": 11,
+          "reply_count": 149,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "我算是发现了，长得好看没用，身材好也没用，他妈的命好才有用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 102,
+          "like_count": 12767,
+          "listed_count": 1,
+          "media_count": 423,
+          "tweet_count": 4091
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T08:01:21.000Z",
+        "description": "",
+        "id": "1881975373552111616",
+        "name": "小面",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006865381525213184/gxBlFND3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4738,
+          "following_count": 103,
+          "like_count": 1061,
+          "listed_count": 13,
+          "media_count": 1,
+          "tweet_count": 145
+        },
+        "username": "16313xi",
+        "verified": false
+      }
+    ]
+  }
+}

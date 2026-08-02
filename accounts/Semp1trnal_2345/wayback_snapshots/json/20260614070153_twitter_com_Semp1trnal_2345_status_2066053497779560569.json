@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2066053497779560569",
+    "created_at": "2026-06-14T07:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T08:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066053497779560569"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/semp1trnal_234…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/semp1trnal_2345/status/2066000306736075094",
+          "start": 61,
+          "url": "https://t.co/TSa1xMKzls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066053497779560569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066000306736075094",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宝子们我买了野炊和星露谷 喷3太吃操作了不适合我这只猪。动森和人森纠结中。。。还有数字版的买了好几个游戏 人家要狠狠玩！ https://t.co/TSa1xMKzls"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2066053497779560569",
+        "created_at": "2026-06-14T07:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066053497779560569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/semp1trnal_234…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/semp1trnal_2345/status/2066000306736075094",
+              "start": 61,
+              "url": "https://t.co/TSa1xMKzls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066053497779560569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066000306736075094",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝子们我买了野炊和星露谷 喷3太吃操作了不适合我这只猪。动森和人森纠结中。。。还有数字版的买了好几个游戏 人家要狠狠玩！ https://t.co/TSa1xMKzls"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2066000306736075094",
+        "created_at": "2026-06-14T03:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066000306736075094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066000306736075094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1058,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闺蜜们给我推点switch好玩必玩能从早上玩到第二天早上的游戏！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 101,
+          "like_count": 12940,
+          "listed_count": 1,
+          "media_count": 430,
+          "tweet_count": 4150
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

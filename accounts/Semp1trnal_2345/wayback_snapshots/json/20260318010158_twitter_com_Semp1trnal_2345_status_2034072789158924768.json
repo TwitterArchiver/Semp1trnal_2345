@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034072780829036546"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2034072789158924768",
+    "created_at": "2026-03-18T01:01:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T02:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034072789158924768"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6OguSRz1y3",
+          "end": 75,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2034072789158924768/photo/1",
+          "media_key": "3_2034072780829036546",
+          "start": 52,
+          "url": "https://t.co/6OguSRz1y3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034072789158924768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我呢等会就发一个收款码 然后说一些我过的很惨的话 你们呢就往那个码里扫点钱 然后说一些安慰我的话懂了吗 https://t.co/6OguSRz1y3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1166,
+        "media_key": "3_2034072780829036546",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDp6asybEAI_Cwx.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034072780829036546"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2034072789158924768",
+        "created_at": "2026-03-18T01:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T02:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034072789158924768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6OguSRz1y3",
+              "end": 75,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2034072789158924768/photo/1",
+              "media_key": "3_2034072780829036546",
+              "start": 52,
+              "url": "https://t.co/6OguSRz1y3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034072789158924768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我呢等会就发一个收款码 然后说一些我过的很惨的话 你们呢就往那个码里扫点钱 然后说一些安慰我的话懂了吗 https://t.co/6OguSRz1y3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "我真的不会画画QwQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026501500391034880/hy0e5UuC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 100,
+          "like_count": 8876,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 2776
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

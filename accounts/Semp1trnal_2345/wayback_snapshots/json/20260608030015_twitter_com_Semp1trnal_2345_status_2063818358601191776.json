@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2063653319336423510",
+    "created_at": "2026-06-08T03:00:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T04:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063818358601191776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1886452072591298560",
+          "start": 0,
+          "username": "zhubibi166213"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063818358601191776",
+    "in_reply_to_user_id": "1886452072591298560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063653319336423510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhubibi166213 美的我好那个。。。。。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2063653319336423510].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2063653319336423510",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2063653319336423510"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2063653319336423510",
+        "created_at": "2026-06-08T03:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063818358601191776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1886452072591298560",
+              "start": 0,
+              "username": "zhubibi166213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063818358601191776",
+        "in_reply_to_user_id": "1886452072591298560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063653319336423510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhubibi166213 美的我好那个。。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2061813949893595488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 101,
+          "like_count": 12672,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 4067
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T16:30:44.000Z",
+        "description": "4i不1i｜最爱小猫小狗和淡奶油猪yushi｜超级超级颜控",
+        "id": "1886452072591298560",
+        "location": "成都",
+        "name": "周日见",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034308241996537856/E3VTiBW8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3430,
+          "following_count": 161,
+          "like_count": 1757,
+          "listed_count": 8,
+          "media_count": 182,
+          "tweet_count": 1934
+        },
+        "username": "zhubibi166213",
+        "verified": false
+      }
+    ]
+  }
+}

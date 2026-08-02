@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2048268370261495910",
+    "created_at": "2026-04-26T05:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T06:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048269907385786517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1984460148338044928",
+          "start": 0,
+          "username": "FovoeY_0822"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048269907385786517",
+    "in_reply_to_user_id": "1984460148338044928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048269012337856705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FovoeY_0822 我要把你封为皇帝。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2048268370261495910",
+        "created_at": "2026-04-26T05:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048269907385786517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1984460148338044928",
+              "start": 0,
+              "username": "FovoeY_0822"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048269907385786517",
+        "in_reply_to_user_id": "1984460148338044928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048269012337856705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FovoeY_0822 我要把你封为皇帝。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984460148338044928",
+        "conversation_id": "2048268370261495910",
+        "created_at": "2026-04-26T05:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048269012337856705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048269012337856705",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048268370261495910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 完全美萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034491183356059648/QYnwDQiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1359,
+          "following_count": 100,
+          "like_count": 10588,
+          "listed_count": 0,
+          "media_count": 317,
+          "tweet_count": 3489
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T03:19:10.000Z",
+        "description": "大号@AugustJos_22 直男 07 🇬🇧留子 坐标江苏 小号清水推 记录日常和碎碎念",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "AugustJos_22"
+              }
+            ]
+          }
+        },
+        "id": "1984460148338044928",
+        "location": "Manchester, England",
+        "name": "藤原拓海",
+        "pinned_tweet_id": "2021570185522499634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984460313849196544/uM-2b7t3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2516,
+          "following_count": 147,
+          "like_count": 943,
+          "listed_count": 4,
+          "media_count": 83,
+          "tweet_count": 1014
+        },
+        "username": "FovoeY_0822",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2060219585404797298",
+    "created_at": "2026-05-29T04:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T05:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060219585404797298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1670476237213667329",
+          "start": 3,
+          "username": "ririan_iris"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060219585404797298",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 587
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059958186397114592",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @ririan_iris: 舌引っ張られながらごめんなさい言わされるのえろ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2060219585404797298",
+        "created_at": "2026-05-29T04:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060219585404797298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1670476237213667329",
+              "start": 3,
+              "username": "ririan_iris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060219585404797298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 587
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059958186397114592",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @ririan_iris: 舌引っ張られながらごめんなさい言わされるのえろ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670476237213667329",
+        "conversation_id": "2059958186397114592",
+        "created_at": "2026-05-28T11:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059958186397114592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059958186397114592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 947,
+          "impression_count": 239371,
+          "like_count": 6670,
+          "quote_count": 142,
+          "reply_count": 7,
+          "retweet_count": 587
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "舌引っ張られながらごめんなさい言わされるのえろ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 98,
+          "like_count": 12292,
+          "listed_count": 0,
+          "media_count": 403,
+          "tweet_count": 3958
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-18T16:59:19.000Z",
+        "description": "うらあか┊︎まぞ︎┊︎成人済み┊︎欲望吐き出し┊︎いらま┊︎ばちぼこ┊︎惨めで可哀想なのがすき┊︎DMはリプで絡んだことある人だけ⚠️返信フォロバ気まぐれです⋈*.。",
+        "id": "1670476237213667329",
+        "name": "ひより",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873012787682918405/fPOBNiaI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2713,
+          "following_count": 81,
+          "like_count": 2423,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 906
+        },
+        "username": "ririan_iris",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2034481647836647606",
+    "created_at": "2026-03-19T10:08:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T11:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034572691802603876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1985694991633788928",
+          "start": 0,
+          "username": "xiaobi1021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034572691802603876",
+    "in_reply_to_user_id": "1985694991633788928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034570485292531841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaobi1021 好崩溃！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2034481647836647606",
+        "created_at": "2026-03-19T10:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034572691802603876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1985694991633788928",
+              "start": 0,
+              "username": "xiaobi1021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034572691802603876",
+        "in_reply_to_user_id": "1985694991633788928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034570485292531841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaobi1021 好崩溃！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985694991633788928",
+        "conversation_id": "2034481647836647606",
+        "created_at": "2026-03-19T09:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T10:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034570485292531841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034570485292531841",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034481647836647606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 好崩溃啊现在分数线咋这么高..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "我真的不会画画QwQ",
+        "pinned_tweet_id": "2032352051586613370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034491183356059648/QYnwDQiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 100,
+          "like_count": 9073,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 2869
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T13:06:02.000Z",
+        "description": "08天秤小废话精｜喜欢自言自语和发疯｜能量过剩需要出口｜情绪价值批发商 ｜赞赏⬆️⬆️｜过🚪👉🏻 @zhaozhao1021",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "zhaozhao1021"
+              }
+            ]
+          }
+        },
+        "id": "1985694991633788928",
+        "location": "🚪520",
+        "name": "昭昭兔",
+        "pinned_tweet_id": "2032769578649137642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029864120452009986/80QSCpUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2212,
+          "following_count": 91,
+          "like_count": 10194,
+          "listed_count": 8,
+          "media_count": 83,
+          "tweet_count": 1527
+        },
+        "username": "xiaobi1021",
+        "verified": false
+      }
+    ]
+  }
+}

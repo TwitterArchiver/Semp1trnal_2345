@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061438064883560448"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2061438077277782323",
+    "created_at": "2026-06-01T13:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T14:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061438077277782323"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d4g7Q71g5Z",
+          "end": 36,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2061438077277782323/photo/1",
+          "media_key": "3_2061438064883560448",
+          "start": 13,
+          "url": "https://t.co/d4g7Q71g5Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061438077277782323",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我装忧郁by bike： https://t.co/d4g7Q71g5Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1016,
+        "media_key": "3_2061438064883560448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuy_3_acAAkmBq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061438064883560448"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2061438077277782323",
+        "created_at": "2026-06-01T13:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061438077277782323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d4g7Q71g5Z",
+              "end": 36,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2061438077277782323/photo/1",
+              "media_key": "3_2061438064883560448",
+              "start": 13,
+              "url": "https://t.co/d4g7Q71g5Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061438077277782323",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我装忧郁by bike： https://t.co/d4g7Q71g5Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 99,
+          "like_count": 12473,
+          "listed_count": 1,
+          "media_count": 410,
+          "tweet_count": 4009
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2067624819005571386",
+    "created_at": "2026-06-19T02:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T03:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067802014512517255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2038792815405142016",
+          "start": 0,
+          "username": "GoodbyApathy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067802014512517255",
+    "in_reply_to_user_id": "2038792815405142016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067797746367836170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GoodbyApathy 耳垂也还好吧！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2067624819005571386",
+        "created_at": "2026-06-19T02:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T03:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067802014512517255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2038792815405142016",
+              "start": 0,
+              "username": "GoodbyApathy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067802014512517255",
+        "in_reply_to_user_id": "2038792815405142016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067797746367836170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GoodbyApathy 耳垂也还好吧！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038792815405142016",
+        "conversation_id": "2067624819005571386",
+        "created_at": "2026-06-19T02:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T03:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067797746367836170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067797746367836170",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067624819005571386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 等开学军训完了再打，主要是难护理，容易发炎什么的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1545,
+          "following_count": 101,
+          "like_count": 13151,
+          "listed_count": 1,
+          "media_count": 442,
+          "tweet_count": 4233
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T01:38:02.000Z",
+        "description": "由春天将我的心分开，像是昼夜，像枚橙子那样，有哪位先知会从中走来？他不必告诉我幸福在哪里，但它是谁的、到底是什么，会是什么呢？",
+        "id": "2038792815405142016",
+        "location": "辽阔的虚无",
+        "name": "好不容易等到放晴，阳光努力地拨开云雾，又时不时被掩盖，你却早已习惯这漫长的雨季，抬手遮挡洒下的温暖。",
+        "pinned_tweet_id": "2042382365490888873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038794320804024320/BDW_iUzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 324,
+          "like_count": 8847,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1352
+        },
+        "url": "",
+        "username": "GoodbyApathy",
+        "verified": false
+      }
+    ]
+  }
+}

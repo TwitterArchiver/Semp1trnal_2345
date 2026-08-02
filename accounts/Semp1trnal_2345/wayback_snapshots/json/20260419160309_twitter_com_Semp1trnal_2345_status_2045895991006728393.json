@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2045881412839227598",
+    "created_at": "2026-04-19T16:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T17:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045895991006728393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1682778677912965121",
+          "start": 0,
+          "username": "iluvTvT_7"
+        },
+        {
+          "end": 19,
+          "id": "1558346182316896256",
+          "start": 11,
+          "username": "hoxer15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045895991006728393",
+    "in_reply_to_user_id": "1682778677912965121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045881412839227598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iluvTvT_7 @hoxer15 我快笑死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045881394342326272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRuSeJa8AAkDK3.jpg",
+        "width": 922
+      },
+      {
+        "duration_ms": 7670,
+        "height": 1280,
+        "media_key": "7_2045881397278339072",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2045881397278339072/pu/img/OV3bHXoYahAtYOno.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045881397278339072/pu/vid/avc1/320x710/8eY3Y5uuNb6BmOck.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045881397278339072/pu/vid/avc1/480x1066/YG_2iQYtfQDgwbm7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045881397278339072/pu/vid/avc1/576x1280/BP_NAd0oi6pTw1sv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2045881397278339072/pu/pl/Lo_3SlJoG78tTnb3.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2045881412839227598",
+        "created_at": "2026-04-19T16:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T17:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045895991006728393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1682778677912965121",
+              "start": 0,
+              "username": "iluvTvT_7"
+            },
+            {
+              "end": 19,
+              "id": "1558346182316896256",
+              "start": 11,
+              "username": "hoxer15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045895991006728393",
+        "in_reply_to_user_id": "1682778677912965121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045881412839227598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iluvTvT_7 @hoxer15 我快笑死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045881394342326272",
+            "7_2045881397278339072"
+          ]
+        },
+        "author_id": "1682778677912965121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2045881412839227598",
+        "created_at": "2026-04-19T15:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045881412839227598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1558346182316896256",
+              "start": 4,
+              "username": "hoxer15"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d8Wh0bdccm",
+              "end": 36,
+              "expanded_url": "https://x.com/iluvTvT_7/status/2045881412839227598/video/1",
+              "media_key": "3_2045881394342326272",
+              "start": 13,
+              "url": "https://t.co/d8Wh0bdccm"
+            },
+            {
+              "display_url": "pic.x.com/d8Wh0bdccm",
+              "end": 36,
+              "expanded_url": "https://x.com/iluvTvT_7/status/2045881412839227598/video/1",
+              "media_key": "7_2045881397278339072",
+              "start": 13,
+              "url": "https://t.co/d8Wh0bdccm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045881412839227598",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喂喂喂。@hoxer15 https://t.co/d8Wh0bdccm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2039728281235423570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034491183356059648/QYnwDQiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 98,
+          "like_count": 10103,
+          "listed_count": 0,
+          "media_count": 305,
+          "tweet_count": 3361
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T15:44:45.000Z",
+        "description": "我是蛋蛋！我只是想在这里说很多废话…恶毒人格@EricCole13",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "EricCole13"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/chicken527ovo",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/chicken527ovo",
+                "start": 0,
+                "url": "https://t.co/7gMcs1nLRU"
+              }
+            ]
+          }
+        },
+        "id": "1682778677912965121",
+        "location": "私信只回口令 有问题移步提问箱^^",
+        "name": "于你而言",
+        "pinned_tweet_id": "2019986953467515083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034491268026527744/TDGXsgQQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 132,
+          "like_count": 29605,
+          "listed_count": 4,
+          "media_count": 712,
+          "tweet_count": 12516
+        },
+        "url": "https://t.co/7gMcs1nLRU",
+        "username": "iluvTvT_7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T06:54:23.000Z",
+        "description": "可以叫我小物/4i /ENTP/摩羯/头像是本人/没门",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hoxer",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hoxer",
+                "start": 0,
+                "url": "https://t.co/DmoM7w0LFv"
+              }
+            ]
+          }
+        },
+        "id": "1558346182316896256",
+        "location": "就那个哪呗",
+        "name": "人类是我的兼职",
+        "pinned_tweet_id": "2023236867341103534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035701620970037248/F4J5qIFq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1616,
+          "following_count": 223,
+          "like_count": 22298,
+          "listed_count": 1,
+          "media_count": 462,
+          "tweet_count": 11909
+        },
+        "url": "https://t.co/DmoM7w0LFv",
+        "username": "hoxer15",
+        "verified": false
+      }
+    ]
+  }
+}

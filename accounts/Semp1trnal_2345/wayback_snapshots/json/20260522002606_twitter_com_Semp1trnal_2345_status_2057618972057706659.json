@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2057363576797667737",
+    "created_at": "2026-05-22T00:26:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T01:26:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057618972057706659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1500044783875674113",
+          "start": 0,
+          "username": "yiei_05_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057618972057706659",
+    "in_reply_to_user_id": "1500044783875674113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057504434897261027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yiei_05_11 他们家淘宝叫优等生 这个T恤质感还挺好的！是纯棉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2057363576797667737",
+        "created_at": "2026-05-22T00:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T01:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057618972057706659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1500044783875674113",
+              "start": 0,
+              "username": "yiei_05_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057618972057706659",
+        "in_reply_to_user_id": "1500044783875674113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057504434897261027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiei_05_11 他们家淘宝叫优等生 这个T恤质感还挺好的！是纯棉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1500044783875674113",
+        "conversation_id": "2057363576797667737",
+        "created_at": "2026-05-21T16:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057504434897261027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057504434897261027",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057363576797667737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 这个半袖！有链接吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 99,
+          "like_count": 11911,
+          "listed_count": 0,
+          "media_count": 391,
+          "tweet_count": 3869
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-05T09:45:29.000Z",
+        "description": "05｜随便玩玩｜匿名提问⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yiei_05_10",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yiei_05_10",
+                "start": 0,
+                "url": "https://t.co/nfD63zwnj0"
+              }
+            ]
+          }
+        },
+        "id": "1500044783875674113",
+        "location": "你家",
+        "name": "yiei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055637841179271169/E6KoFEUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 216,
+          "like_count": 654,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 38
+        },
+        "url": "https://t.co/nfD63zwnj0",
+        "username": "yiei_05_11",
+        "verified": false
+      }
+    ]
+  }
+}

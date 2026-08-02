@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2069511211260235888",
+    "created_at": "2026-06-25T09:54:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T10:54:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070083145165308065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2057828146922344448",
+          "start": 0,
+          "username": "Reset12580"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070083145165308065",
+    "in_reply_to_user_id": "2057828146922344448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069511211260235888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Reset12580 不要死呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2069511211260235888",
+        "created_at": "2026-06-25T09:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T10:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070083145165308065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057828146922344448",
+              "start": 0,
+              "username": "Reset12580"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070083145165308065",
+        "in_reply_to_user_id": "2057828146922344448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069511211260235888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reset12580 不要死呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057828146922344448",
+        "conversation_id": "2069511211260235888",
+        "created_at": "2026-06-23T20:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T21:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069511211260235888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069511211260235888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要么顺利去死要么顺利毕业，总让我成功一个吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2056740509717250518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 100,
+          "like_count": 13559,
+          "listed_count": 1,
+          "media_count": 461,
+          "tweet_count": 4384
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T14:19:03.000Z",
+        "description": "INFP 天蝎\n特殊高雅皮上女。",
+        "id": "2057828146922344448",
+        "name": "旧情人常问是否 是否",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057828910717599744/Y3yoYWno_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 43,
+          "like_count": 1228,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 421
+        },
+        "url": "",
+        "username": "Reset12580",
+        "verified": false
+      }
+    ]
+  }
+}

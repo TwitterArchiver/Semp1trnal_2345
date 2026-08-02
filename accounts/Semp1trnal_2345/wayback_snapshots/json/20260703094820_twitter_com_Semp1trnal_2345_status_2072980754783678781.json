@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2072977482647851413",
+    "created_at": "2026-07-03T09:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T10:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072980754783678781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2002241057241907200",
+          "start": 0,
+          "username": "xiaoxiongOvO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072980754783678781",
+    "in_reply_to_user_id": "2002241057241907200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072980116473540763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxiongOvO_ 我好那个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2072977482647851413",
+        "created_at": "2026-07-03T09:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072980754783678781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2002241057241907200",
+              "start": 0,
+              "username": "xiaoxiongOvO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072980754783678781",
+        "in_reply_to_user_id": "2002241057241907200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072980116473540763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxiongOvO_ 我好那个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002241057241907200",
+        "conversation_id": "2072977482647851413",
+        "created_at": "2026-07-03T09:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072980116473540763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072980116473540763",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072977482647851413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 我不行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 51,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 28,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 76,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 53,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071888396360794595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1563,
+          "following_count": 101,
+          "like_count": 13602,
+          "listed_count": 1,
+          "media_count": 478,
+          "tweet_count": 4503
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T04:54:10.000Z",
+        "description": "鹅鸭杀梦女 可爱宝宝和我互fo好吗",
+        "id": "2002241057241907200",
+        "location": "纯绿🚪88",
+        "name": "小熊（Aaa烛台批发）",
+        "pinned_tweet_id": "2048320026298679803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069263550909239296/sWE89YIw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 54,
+          "like_count": 12903,
+          "listed_count": 2,
+          "media_count": 367,
+          "tweet_count": 7142
+        },
+        "url": "",
+        "username": "xiaoxiongOvO_",
+        "verified": false
+      }
+    ]
+  }
+}

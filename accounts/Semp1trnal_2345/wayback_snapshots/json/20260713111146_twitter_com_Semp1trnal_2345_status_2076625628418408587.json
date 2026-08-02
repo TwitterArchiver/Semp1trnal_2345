@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076625343881084928",
+        "3_2076625344027938816",
+        "3_2076625343960788992",
+        "3_2076625343969210368"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2076625628418408587",
+    "created_at": "2026-07-13T11:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T12:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076625628418408587"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/k777VmVc82",
+          "end": 28,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2076625628418408587/photo/1",
+          "media_key": "3_2076625343881084928",
+          "start": 5,
+          "url": "https://t.co/k777VmVc82"
+        },
+        {
+          "display_url": "pic.x.com/k777VmVc82",
+          "end": 28,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2076625628418408587/photo/1",
+          "media_key": "3_2076625344027938816",
+          "start": 5,
+          "url": "https://t.co/k777VmVc82"
+        },
+        {
+          "display_url": "pic.x.com/k777VmVc82",
+          "end": 28,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2076625628418408587/photo/1",
+          "media_key": "3_2076625343960788992",
+          "start": 5,
+          "url": "https://t.co/k777VmVc82"
+        },
+        {
+          "display_url": "pic.x.com/k777VmVc82",
+          "end": 28,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2076625628418408587/photo/1",
+          "media_key": "3_2076625343969210368",
+          "start": 5,
+          "url": "https://t.co/k777VmVc82"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076625628418408587",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃饭饭哟 https://t.co/k777VmVc82"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076625343881084928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGnv3GbAAAJzWd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076625344027938816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGnv3pb0AApwVW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076625343960788992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGnv3ZbMAATf-y.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1349,
+        "media_key": "3_2076625343969210368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGnv3bbsAA1EDT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076625343881084928",
+            "3_2076625344027938816",
+            "3_2076625343960788992",
+            "3_2076625343969210368"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2076625628418408587",
+        "created_at": "2026-07-13T11:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076625628418408587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k777VmVc82",
+              "end": 28,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2076625628418408587/photo/1",
+              "media_key": "3_2076625343881084928",
+              "start": 5,
+              "url": "https://t.co/k777VmVc82"
+            },
+            {
+              "display_url": "pic.x.com/k777VmVc82",
+              "end": 28,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2076625628418408587/photo/1",
+              "media_key": "3_2076625344027938816",
+              "start": 5,
+              "url": "https://t.co/k777VmVc82"
+            },
+            {
+              "display_url": "pic.x.com/k777VmVc82",
+              "end": 28,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2076625628418408587/photo/1",
+              "media_key": "3_2076625343960788992",
+              "start": 5,
+              "url": "https://t.co/k777VmVc82"
+            },
+            {
+              "display_url": "pic.x.com/k777VmVc82",
+              "end": 28,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2076625628418408587/photo/1",
+              "media_key": "3_2076625343969210368",
+              "start": 5,
+              "url": "https://t.co/k777VmVc82"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076625628418408587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃饭饭哟 https://t.co/k777VmVc82"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 91,
+          "like_count": 14030,
+          "listed_count": 1,
+          "media_count": 502,
+          "tweet_count": 4695
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": true
+      }
+    ]
+  }
+}

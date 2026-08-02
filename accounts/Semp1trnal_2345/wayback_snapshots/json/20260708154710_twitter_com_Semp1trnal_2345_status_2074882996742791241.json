@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2074859522808828180",
+    "created_at": "2026-07-08T15:47:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T16:47:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074882996742791241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1886452072591298560",
+          "start": 0,
+          "username": "bbei_621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074882996742791241",
+    "in_reply_to_user_id": "1886452072591298560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074859522808828180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbei_621 我亲亲我亲亲亲亲亲亲亲亲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074859508166434816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMthuscaIAAZXXa.jpg",
+        "width": 1538
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074859508166459392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMthuscagAAVb2g.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2074859522808828180",
+        "created_at": "2026-07-08T15:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074882996742791241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886452072591298560",
+              "start": 0,
+              "username": "bbei_621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074882996742791241",
+        "in_reply_to_user_id": "1886452072591298560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074859522808828180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbei_621 我亲亲我亲亲亲亲亲亲亲亲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074859508166434816",
+            "3_2074859508166459392"
+          ]
+        },
+        "author_id": "1886452072591298560",
+        "conversation_id": "2074859522808828180",
+        "created_at": "2026-07-08T14:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074859522808828180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CQUhL2NT4U",
+              "end": 23,
+              "expanded_url": "https://x.com/bbei_621/status/2074859522808828180/photo/1",
+              "media_key": "3_2074859508166434816",
+              "start": 0,
+              "url": "https://t.co/CQUhL2NT4U"
+            },
+            {
+              "display_url": "pic.x.com/CQUhL2NT4U",
+              "end": 23,
+              "expanded_url": "https://x.com/bbei_621/status/2074859522808828180/photo/1",
+              "media_key": "3_2074859508166459392",
+              "start": 0,
+              "url": "https://t.co/CQUhL2NT4U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074859522808828180",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 725,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CQUhL2NT4U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 51,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 28,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 76,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 53,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1577,
+          "following_count": 100,
+          "like_count": 13882,
+          "listed_count": 1,
+          "media_count": 488,
+          "tweet_count": 4625
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-03T16:30:44.000Z",
+        "description": "4i不1i｜最爱小猫小狗和淡奶油猪yushi｜超级超级颜控",
+        "id": "1886452072591298560",
+        "location": "美国",
+        "name": "周日见",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066905386855419904/x2-uSaSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4135,
+          "following_count": 182,
+          "like_count": 2154,
+          "listed_count": 9,
+          "media_count": 229,
+          "tweet_count": 2189
+        },
+        "url": "",
+        "username": "bbei_621",
+        "verified": false
+      }
+    ]
+  }
+}

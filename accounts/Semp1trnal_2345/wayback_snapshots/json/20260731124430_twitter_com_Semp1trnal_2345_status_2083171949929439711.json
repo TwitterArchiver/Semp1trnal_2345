@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2083078712799707473",
+    "created_at": "2026-07-31T12:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T13:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083171949929439711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "95025391",
+          "start": 0,
+          "username": "EricCole13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083171949929439711",
+    "in_reply_to_user_id": "95025391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083167241747701804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EricCole13 看不见。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2083167241747701804].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2083167241747701804",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2083167241747701804"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2083078712799707473",
+        "created_at": "2026-07-31T12:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083171949929439711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "95025391",
+              "start": 0,
+              "username": "EricCole13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083171949929439711",
+        "in_reply_to_user_id": "95025391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083167241747701804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EricCole13 看不见。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 89,
+          "like_count": 14740,
+          "listed_count": 2,
+          "media_count": 543,
+          "tweet_count": 4982
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-06T16:19:54.000Z",
+        "description": "我的世界未经许可不得入内",
+        "id": "95025391",
+        "name": "本宝宝不care任何人谢谢",
+        "pinned_tweet_id": "2041930976092381491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041564400642093056/wZjnW7xA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 15,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 138
+        },
+        "url": "",
+        "username": "EricCole13",
+        "verified": false
+      }
+    ]
+  }
+}

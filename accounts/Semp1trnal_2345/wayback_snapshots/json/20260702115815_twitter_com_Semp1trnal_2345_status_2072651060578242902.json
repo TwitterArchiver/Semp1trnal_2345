@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072264458286821377"
+      ],
+      "media_source_tweet_id": [
+        "2072378450523148654"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2072651060578242902",
+    "created_at": "2026-07-02T11:58:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072651060578242902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "43352138",
+          "start": 3,
+          "username": "heart_jpg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aAVWcpMvZT",
+          "end": 38,
+          "expanded_url": "https://x.com/heart_jpg/status/2072378450523148654/photo/1",
+          "media_key": "3_2072264458286821377",
+          "start": 15,
+          "url": "https://t.co/aAVWcpMvZT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072651060578242902",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 895
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072378450523148654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @heart_jpg: https://t.co/aAVWcpMvZT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2072264458286821377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIpi6TacAEUEyq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072264458286821377"
+          ],
+          "media_source_tweet_id": [
+            "2072378450523148654"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072651060578242902",
+        "created_at": "2026-07-02T11:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072651060578242902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "43352138",
+              "start": 3,
+              "username": "heart_jpg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aAVWcpMvZT",
+              "end": 38,
+              "expanded_url": "https://x.com/heart_jpg/status/2072378450523148654/photo/1",
+              "media_key": "3_2072264458286821377",
+              "start": 15,
+              "url": "https://t.co/aAVWcpMvZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072651060578242902",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 895
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072378450523148654",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @heart_jpg: https://t.co/aAVWcpMvZT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072264458286821377"
+          ]
+        },
+        "author_id": "43352138",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072378450523148654",
+        "created_at": "2026-07-01T17:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072378450523148654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aAVWcpMvZT",
+              "end": 23,
+              "expanded_url": "https://x.com/heart_jpg/status/2072378450523148654/photo/1",
+              "media_key": "3_2072264458286821377",
+              "start": 0,
+              "url": "https://t.co/aAVWcpMvZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072378450523148654",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 156,
+          "impression_count": 135854,
+          "like_count": 4186,
+          "quote_count": 253,
+          "reply_count": 67,
+          "retweet_count": 895
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/aAVWcpMvZT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 51,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 28,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 76,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 53,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071888396360794595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 100,
+          "like_count": 13556,
+          "listed_count": 1,
+          "media_count": 476,
+          "tweet_count": 4484
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-29T15:41:23.000Z",
+        "description": "",
+        "id": "43352138",
+        "name": "♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844735729269927937/8adAg1KF_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222777,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 537,
+          "media_count": 6400,
+          "tweet_count": 6608
+        },
+        "url": "",
+        "username": "heart_jpg",
+        "verified": true
+      }
+    ]
+  }
+}

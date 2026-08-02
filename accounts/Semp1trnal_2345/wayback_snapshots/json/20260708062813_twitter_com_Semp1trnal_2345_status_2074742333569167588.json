@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2074715090000199944",
+    "created_at": "2026-07-08T06:28:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T07:28:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074742333569167588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1507375433368719366",
+          "start": 0,
+          "username": "Ggg34169790wa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074742333569167588",
+    "in_reply_to_user_id": "1507375433368719366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074715090000199944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ggg34169790wa 我巨喜欢这个味道。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074715078897864704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMreXzfakAAhPUG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2074715078872756224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMreXzZbcAApKrH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2074715090000199944",
+        "created_at": "2026-07-08T06:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074742333569167588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1507375433368719366",
+              "start": 0,
+              "username": "Ggg34169790wa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074742333569167588",
+        "in_reply_to_user_id": "1507375433368719366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074715090000199944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ggg34169790wa 我巨喜欢这个味道。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074715078897864704",
+            "3_2074715078872756224"
+          ]
+        },
+        "author_id": "1507375433368719366",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074715090000199944",
+        "created_at": "2026-07-08T04:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074715090000199944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xxz20KqGd1",
+              "end": 36,
+              "expanded_url": "https://x.com/Ggg34169790wa/status/2074715090000199944/photo/1",
+              "media_key": "3_2074715078897864704",
+              "start": 13,
+              "url": "https://t.co/Xxz20KqGd1"
+            },
+            {
+              "display_url": "pic.x.com/Xxz20KqGd1",
+              "end": 36,
+              "expanded_url": "https://x.com/Ggg34169790wa/status/2074715090000199944/photo/1",
+              "media_key": "3_2074715078872756224",
+              "start": 13,
+              "url": "https://t.co/Xxz20KqGd1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074715090000199944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 589,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发明天才的人真是伊利牧场 https://t.co/Xxz20KqGd1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 51,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 28,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 76,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 53,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 100,
+          "like_count": 13851,
+          "listed_count": 1,
+          "media_count": 486,
+          "tweet_count": 4615
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-25T15:14:56.000Z",
+        "description": "俺不中了3.0 @abzl3_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "abzl3_0"
+              }
+            ]
+          }
+        },
+        "id": "1507375433368719366",
+        "location": "infp 金牛座",
+        "name": "去spa！",
+        "pinned_tweet_id": "2022199081247150290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032961979992911872/S9hYQY6d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 398,
+          "like_count": 14062,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 3204
+        },
+        "url": "",
+        "username": "Ggg34169790wa",
+        "verified": false
+      }
+    ]
+  }
+}

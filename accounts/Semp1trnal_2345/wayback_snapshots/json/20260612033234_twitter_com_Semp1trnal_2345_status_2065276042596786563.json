@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2065138225963036703",
+    "created_at": "2026-06-12T03:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T04:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065276042596786563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2026708454258409472",
+          "start": 0,
+          "username": "Sweet_XiaoYin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065276042596786563",
+    "in_reply_to_user_id": "2026708454258409472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065138225963036703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sweet_XiaoYin 迪士尼公主人设！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2065138225963036703",
+        "created_at": "2026-06-12T03:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065276042596786563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2026708454258409472",
+              "start": 0,
+              "username": "Sweet_XiaoYin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065276042596786563",
+        "in_reply_to_user_id": "2026708454258409472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065138225963036703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sweet_XiaoYin 迪士尼公主人设！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026708454258409472",
+        "conversation_id": "2065138225963036703",
+        "created_at": "2026-06-11T18:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065138225963036703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065138225963036703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1950,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只会和小动物打交道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 102,
+          "like_count": 12803,
+          "listed_count": 1,
+          "media_count": 425,
+          "tweet_count": 4103
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T17:18:58.000Z",
+        "description": "碎碎念 ｜ 这里是我的pyq ｜ 173/105 ｜ infp ｜ 头像是本人 ｜脾气很糟 跟我说话做好挨骂准备 ｜ 妹宝找我互关呀",
+        "id": "2026708454258409472",
+        "location": "我不好",
+        "name": "Sweet",
+        "pinned_tweet_id": "2061702923315556444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062146083896336385/gFfULE77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2977,
+          "following_count": 27,
+          "like_count": 346,
+          "listed_count": 3,
+          "media_count": 34,
+          "tweet_count": 311
+        },
+        "username": "Sweet_XiaoYin",
+        "verified": false
+      }
+    ]
+  }
+}

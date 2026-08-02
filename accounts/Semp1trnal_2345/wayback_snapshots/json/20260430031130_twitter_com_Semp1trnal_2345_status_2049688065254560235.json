@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2049688065254560235",
+    "created_at": "2026-04-30T03:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T04:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049688065254560235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1817286603787948032",
+          "start": 3,
+          "username": "21Savage714"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049688065254560235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 194
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049195931824992626",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @21Savage714: 你不要用很轻松的语气讲话然后自己偷偷哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2049688065254560235",
+        "created_at": "2026-04-30T03:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T04:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049688065254560235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1817286603787948032",
+              "start": 3,
+              "username": "21Savage714"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049688065254560235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 194
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049195931824992626",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @21Savage714: 你不要用很轻松的语气讲话然后自己偷偷哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817286603787948032",
+        "conversation_id": "2049195931824992626",
+        "created_at": "2026-04-28T18:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T19:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049195931824992626"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049195931824992626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 31483,
+          "like_count": 1143,
+          "quote_count": 29,
+          "reply_count": 59,
+          "retweet_count": 194
+        },
+        "reply_settings": "everyone",
+        "text": "你不要用很轻松的语气讲话然后自己偷偷哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049504904532959232/XKSe-cbm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 100,
+          "like_count": 10824,
+          "listed_count": 0,
+          "media_count": 326,
+          "tweet_count": 3534
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T19:51:13.000Z",
+        "description": "09 高中生巨蟹  infp  Khalil  21Savage Haruki Murakami  情绪垃圾桶\n        \n                                                                                我菠萝吹雪，吹的不是雪，是血",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/easonpang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/easonpang",
+                "start": 0,
+                "url": "https://t.co/457myJQUE7"
+              }
+            ]
+          }
+        },
+        "id": "1817286603787948032",
+        "location": "国境以南 太阳以西",
+        "name": "菠萝吹雪.",
+        "pinned_tweet_id": "1937907728791589028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027428874158854144/r33COlwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 170,
+          "like_count": 8094,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1203
+        },
+        "url": "https://t.co/457myJQUE7",
+        "username": "21Savage714",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2071537230129115272",
+    "created_at": "2026-06-29T10:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T11:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071537230129115272"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/semp1trnal_234…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/semp1trnal_2345/status/2071530527748763661",
+          "start": 9,
+          "url": "https://t.co/zn5BBNjBE7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071537230129115272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071530527748763661",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我饿过劲了 谢谢 https://t.co/zn5BBNjBE7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2071537230129115272",
+        "created_at": "2026-06-29T10:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071537230129115272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/semp1trnal_234…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/semp1trnal_2345/status/2071530527748763661",
+              "start": 9,
+              "url": "https://t.co/zn5BBNjBE7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071537230129115272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071530527748763661",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我饿过劲了 谢谢 https://t.co/zn5BBNjBE7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2071530527748763661",
+        "created_at": "2026-06-29T09:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071530527748763661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071530527748763661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那个 很严肃的一件事\n我饿了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2056740509717250518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 100,
+          "like_count": 13412,
+          "listed_count": 1,
+          "media_count": 470,
+          "tweet_count": 4432
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

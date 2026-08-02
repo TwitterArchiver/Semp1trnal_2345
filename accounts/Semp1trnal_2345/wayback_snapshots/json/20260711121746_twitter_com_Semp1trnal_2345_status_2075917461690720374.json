@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2075917461690720374",
+    "created_at": "2026-07-11T12:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T13:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075917461690720374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1457787217741373443",
+          "start": 3,
+          "username": "luwwwu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075917461690720374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075594121344102812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luwwwu_: 从来不觉得男的给我发消息是因为喜欢我，我觉得他们只是足够无聊，真的喜欢为什么不让我感觉到，暗戳戳试探什么好没意思。因为足够喜欢自己所以当然知道喜欢我应该是什么样子，有一句没一句的聊天不是喜欢，招猫逗狗的玩笑不是喜欢，要很喜欢最喜欢才是喜欢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2075917461690720374",
+        "created_at": "2026-07-11T12:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075917461690720374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1457787217741373443",
+              "start": 3,
+              "username": "luwwwu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075917461690720374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075594121344102812",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luwwwu_: 从来不觉得男的给我发消息是因为喜欢我，我觉得他们只是足够无聊，真的喜欢为什么不让我感觉到，暗戳戳试探什么好没意思。因为足够喜欢自己所以当然知道喜欢我应该是什么样子，有一句没一句的聊天不是喜欢，招猫逗狗的玩笑不是喜欢，要很喜欢最喜欢才是喜欢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457787217741373443",
+        "conversation_id": "2075594121344102812",
+        "created_at": "2026-07-10T14:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075594121344102812"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075594121344102812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 8983,
+          "like_count": 257,
+          "quote_count": 3,
+          "reply_count": 17,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "从来不觉得男的给我发消息是因为喜欢我，我觉得他们只是足够无聊，真的喜欢为什么不让我感觉到，暗戳戳试探什么好没意思。因为足够喜欢自己所以当然知道喜欢我应该是什么样子，有一句没一句的聊天不是喜欢，招猫逗狗的玩笑不是喜欢，要很喜欢最喜欢才是喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 91,
+          "like_count": 13961,
+          "listed_count": 1,
+          "media_count": 497,
+          "tweet_count": 4672
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-08T19:09:09.000Z",
+        "description": "推文只是记录作用，不需要礼貌回关，🈲转照片会屏蔽",
+        "id": "1457787217741373443",
+        "location": "人类死光光神教",
+        "name": "鹿云",
+        "pinned_tweet_id": "2053869799793652216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748283317483683840/XzKhRQ02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21293,
+          "following_count": 922,
+          "like_count": 136201,
+          "listed_count": 46,
+          "media_count": 1536,
+          "tweet_count": 26811
+        },
+        "url": "",
+        "username": "luwwwu_",
+        "verified": true
+      }
+    ]
+  }
+}

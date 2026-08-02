@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2052202800101413260",
+    "created_at": "2026-05-07T01:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T02:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052202800101413260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1517900846117359616",
+          "start": 3,
+          "username": "sakuyaLuv01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052202800101413260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 109
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051747331549409380",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakuyaLuv01: 地球online有个第三视角功能就好了，我要是知道别人对我付出的是怎样的感情又是怎么评价我的话，我将不会付出任何真心去热脸贴冷屁股了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2052202800101413260",
+        "created_at": "2026-05-07T01:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T02:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052202800101413260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1517900846117359616",
+              "start": 3,
+              "username": "sakuyaLuv01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052202800101413260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 109
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051747331549409380",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sakuyaLuv01: 地球online有个第三视角功能就好了，我要是知道别人对我付出的是怎样的感情又是怎么评价我的话，我将不会付出任何真心去热脸贴冷屁股了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1517900846117359616",
+        "conversation_id": "2051747331549409380",
+        "created_at": "2026-05-05T19:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T20:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051747331549409380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051747331549409380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 16798,
+          "like_count": 778,
+          "quote_count": 6,
+          "reply_count": 42,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "地球online有个第三视角功能就好了，我要是知道别人对我付出的是怎样的感情又是怎么评价我的话，我将不会付出任何真心去热脸贴冷屁股了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2039728281235423570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049504904532959232/XKSe-cbm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 100,
+          "like_count": 10818,
+          "listed_count": 0,
+          "media_count": 343,
+          "tweet_count": 3638
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-23T16:19:09.000Z",
+        "description": "",
+        "id": "1517900846117359616",
+        "name": "R",
+        "pinned_tweet_id": "2040685695610892674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022022033958486016/tYGNlakS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15072,
+          "following_count": 165,
+          "like_count": 2332,
+          "listed_count": 61,
+          "media_count": 965,
+          "tweet_count": 5868
+        },
+        "url": "",
+        "username": "sakuyaLuv01",
+        "verified": false
+      }
+    ]
+  }
+}

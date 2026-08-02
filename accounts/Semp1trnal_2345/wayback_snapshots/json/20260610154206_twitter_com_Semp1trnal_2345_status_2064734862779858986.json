@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064164469572526080"
+      ],
+      "media_source_tweet_id": [
+        "2064164478552543460"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2064734862779858986",
+    "created_at": "2026-06-10T15:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T16:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064734862779858986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1952044125454475264",
+          "start": 3,
+          "username": "Neflibata0626"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RCBpJ046SH",
+          "end": 42,
+          "expanded_url": "https://x.com/Neflibata0626/status/2064164478552543460/photo/1",
+          "media_key": "3_2064164469572526080",
+          "start": 19,
+          "url": "https://t.co/RCBpJ046SH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064734862779858986",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064164478552543460",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Neflibata0626: https://t.co/RCBpJ046SH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1259,
+        "media_key": "3_2064164469572526080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVipg7aYAAFWeW.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064164469572526080"
+          ],
+          "media_source_tweet_id": [
+            "2064164478552543460"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2064734862779858986",
+        "created_at": "2026-06-10T15:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064734862779858986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1952044125454475264",
+              "start": 3,
+              "username": "Neflibata0626"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RCBpJ046SH",
+              "end": 42,
+              "expanded_url": "https://x.com/Neflibata0626/status/2064164478552543460/photo/1",
+              "media_key": "3_2064164469572526080",
+              "start": 19,
+              "url": "https://t.co/RCBpJ046SH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064734862779858986",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064164478552543460",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Neflibata0626: https://t.co/RCBpJ046SH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064164469572526080"
+          ]
+        },
+        "author_id": "1952044125454475264",
+        "conversation_id": "2064164478552543460",
+        "created_at": "2026-06-09T01:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T02:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064164478552543460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RCBpJ046SH",
+              "end": 23,
+              "expanded_url": "https://x.com/Neflibata0626/status/2064164478552543460/photo/1",
+              "media_key": "3_2064164469572526080",
+              "start": 0,
+              "url": "https://t.co/RCBpJ046SH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064164478552543460",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4558,
+          "like_count": 198,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RCBpJ046SH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1495,
+          "following_count": 103,
+          "like_count": 12764,
+          "listed_count": 1,
+          "media_count": 423,
+          "tweet_count": 4090
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T16:29:42.000Z",
+        "description": "日子总是时坏时好好好好好好好好(๑-ㅅ-๑)...zZ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%8B%9C%E8%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%8B%9C%E8%A7%81%E5%8E%A8%E5%B8%88%E9%95%BF%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/qioAo4tmJ1"
+              }
+            ]
+          }
+        },
+        "id": "1952044125454475264",
+        "location": "距离你钱包的-1cm处",
+        "name": "拜见厨师长大王",
+        "pinned_tweet_id": "2032375733717528673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057096784305094657/FSIKXdtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 114,
+          "like_count": 11997,
+          "listed_count": 1,
+          "media_count": 529,
+          "tweet_count": 5827
+        },
+        "url": "https://t.co/qioAo4tmJ1",
+        "username": "Neflibata0626",
+        "verified": false
+      }
+    ]
+  }
+}

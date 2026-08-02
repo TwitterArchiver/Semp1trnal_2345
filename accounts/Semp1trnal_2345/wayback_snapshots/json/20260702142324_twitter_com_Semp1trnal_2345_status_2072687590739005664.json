@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2072686464773820694",
+    "created_at": "2026-07-02T14:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T15:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072687590739005664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1682778677912965121",
+          "start": 0,
+          "username": "iluvTvT_7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072687590739005664",
+    "in_reply_to_user_id": "1682778677912965121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072686464773820694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iluvTvT_7 此蛋笑点🤏🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1092,
+        "media_key": "3_2072686451188523008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOpWIXbYAA0uj2.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2072686464773820694",
+        "created_at": "2026-07-02T14:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072687590739005664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1682778677912965121",
+              "start": 0,
+              "username": "iluvTvT_7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072687590739005664",
+        "in_reply_to_user_id": "1682778677912965121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072686464773820694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iluvTvT_7 此蛋笑点🤏🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072686451188523008"
+          ]
+        },
+        "author_id": "1682778677912965121",
+        "conversation_id": "2072686464773820694",
+        "created_at": "2026-07-02T14:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072686464773820694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uUge2kzAQP",
+              "end": 50,
+              "expanded_url": "https://x.com/iluvTvT_7/status/2072686464773820694/photo/1",
+              "media_key": "3_2072686451188523008",
+              "start": 27,
+              "url": "https://t.co/uUge2kzAQP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072686464773820694",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又买了蛋白棒结果压的扁扁的\n一句蛋白片我肚子都笑炸了 https://t.co/uUge2kzAQP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 51,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 28,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 76,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 53,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071888396360794595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1560,
+          "following_count": 100,
+          "like_count": 13569,
+          "listed_count": 1,
+          "media_count": 476,
+          "tweet_count": 4486
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T15:44:45.000Z",
+        "description": "我一直都有公主病 只是我比较识时务 有人惯着我的时候我就作 没人搭理我的时候我就比较老实",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/chicken527ovo",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/chicken527ovo",
+                "start": 0,
+                "url": "https://t.co/7gMcs1ojHs"
+              }
+            ]
+          }
+        },
+        "id": "1682778677912965121",
+        "location": "匿名箱在",
+        "name": "世萌一",
+        "pinned_tweet_id": "2060021041888698741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054719011666239489/pxGq84m6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 97,
+          "like_count": 34649,
+          "listed_count": 2,
+          "media_count": 1012,
+          "tweet_count": 16120
+        },
+        "url": "https://t.co/7gMcs1ojHs",
+        "username": "iluvTvT_7",
+        "verified": false
+      }
+    ]
+  }
+}

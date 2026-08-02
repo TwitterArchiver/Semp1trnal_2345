@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065428836658155520",
+        "3_2065428836662329345",
+        "3_2065428836695826432"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2065428851140997224",
+    "created_at": "2026-06-12T13:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T14:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065428851140997224"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2l2HKtF3K2",
+          "end": 36,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2065428851140997224/photo/1",
+          "media_key": "3_2065428836658155520",
+          "start": 13,
+          "url": "https://t.co/2l2HKtF3K2"
+        },
+        {
+          "display_url": "pic.x.com/2l2HKtF3K2",
+          "end": 36,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2065428851140997224/photo/1",
+          "media_key": "3_2065428836662329345",
+          "start": 13,
+          "url": "https://t.co/2l2HKtF3K2"
+        },
+        {
+          "display_url": "pic.x.com/2l2HKtF3K2",
+          "end": 36,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2065428851140997224/photo/1",
+          "media_key": "3_2065428836695826432",
+          "start": 13,
+          "url": "https://t.co/2l2HKtF3K2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065428851140997224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我并不知道您这是怎么了。 https://t.co/2l2HKtF3K2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2065428836658155520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnglXXbkAAt3O4.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2065428836662329345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnglXYbQAErrm5.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2065428836695826432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnglXgaYAAcXLU.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065428836658155520",
+            "3_2065428836662329345",
+            "3_2065428836695826432"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2065428851140997224",
+        "created_at": "2026-06-12T13:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065428851140997224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2l2HKtF3K2",
+              "end": 36,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2065428851140997224/photo/1",
+              "media_key": "3_2065428836658155520",
+              "start": 13,
+              "url": "https://t.co/2l2HKtF3K2"
+            },
+            {
+              "display_url": "pic.x.com/2l2HKtF3K2",
+              "end": 36,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2065428851140997224/photo/1",
+              "media_key": "3_2065428836662329345",
+              "start": 13,
+              "url": "https://t.co/2l2HKtF3K2"
+            },
+            {
+              "display_url": "pic.x.com/2l2HKtF3K2",
+              "end": 36,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2065428851140997224/photo/1",
+              "media_key": "3_2065428836695826432",
+              "start": 13,
+              "url": "https://t.co/2l2HKtF3K2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065428851140997224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我并不知道您这是怎么了。 https://t.co/2l2HKtF3K2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1516,
+          "following_count": 102,
+          "like_count": 12825,
+          "listed_count": 1,
+          "media_count": 428,
+          "tweet_count": 4111
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

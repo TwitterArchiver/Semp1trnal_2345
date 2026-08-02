@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2064677086862909594",
+    "created_at": "2026-06-10T12:10:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064681596247216466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1646972643206365184",
+          "start": 0,
+          "username": "yanyannbcwx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064681596247216466",
+    "in_reply_to_user_id": "1646972643206365184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064677189220753568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanyannbcwx 这是高中毕业照！！！！画室没这老多人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2064677086862909594",
+        "created_at": "2026-06-10T12:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064681596247216466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1646972643206365184",
+              "start": 0,
+              "username": "yanyannbcwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064681596247216466",
+        "in_reply_to_user_id": "1646972643206365184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064677189220753568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanyannbcwx 这是高中毕业照！！！！画室没这老多人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646972643206365184",
+        "conversation_id": "2064677086862909594",
+        "created_at": "2026-06-10T11:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064677189220753568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064677189220753568",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064677086862909594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 好无语，我集训完也是这么拍的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1491,
+          "following_count": 103,
+          "like_count": 12762,
+          "listed_count": 2,
+          "media_count": 422,
+          "tweet_count": 4086
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-14T20:24:24.000Z",
+        "description": "以前枷锁太多，现在我顺从自己。\n小号 @jiangzhonwen\n承蒙各位喜爱\n推出地陪服务\n主要城市为广州，深圳，佛山，中山，东莞，珠海，江门\n新添国内旅陪，帮您轻松度假\n\n欢迎私信咨询o!!!\n(获取详细信息、客人评价、自我介绍等)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 19,
+                "username": "jiangzhonwen"
+              }
+            ]
+          }
+        },
+        "id": "1646972643206365184",
+        "location": "🚪好友位88-188-288",
+        "name": "𝓐𝖕𝖕、",
+        "pinned_tweet_id": "2058162530888114474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032121230170734595/UutBtkMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4911,
+          "following_count": 81,
+          "like_count": 10560,
+          "listed_count": 9,
+          "media_count": 91,
+          "tweet_count": 2341
+        },
+        "username": "yanyannbcwx",
+        "verified": false
+      }
+    ]
+  }
+}

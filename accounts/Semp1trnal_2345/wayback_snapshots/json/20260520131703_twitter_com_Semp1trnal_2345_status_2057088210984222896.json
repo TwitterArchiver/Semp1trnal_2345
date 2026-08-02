@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2056671459230286237",
+    "created_at": "2026-05-20T13:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T14:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057088210984222896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1530141104229736450",
+          "start": 0,
+          "username": "99xmb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057088210984222896",
+    "in_reply_to_user_id": "1530141104229736450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056981175776977352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@99xmb 我只是买了首饰！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2056671459230286237",
+        "created_at": "2026-05-20T13:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057088210984222896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1530141104229736450",
+              "start": 0,
+              "username": "99xmb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057088210984222896",
+        "in_reply_to_user_id": "1530141104229736450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056981175776977352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@99xmb 我只是买了首饰！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530141104229736450",
+        "conversation_id": "2056671459230286237",
+        "created_at": "2026-05-20T06:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056981175776977352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056981175776977352",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 831,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056671459230286237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 所以你到底干嘛了 我实在是好奇😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2039728281235423570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 98,
+          "like_count": 11819,
+          "listed_count": 0,
+          "media_count": 385,
+          "tweet_count": 3842
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-27T10:57:35.000Z",
+        "description": "明牌",
+        "id": "1530141104229736450",
+        "name": "天黑见.",
+        "pinned_tweet_id": "2028828123777925360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1531629496281059329/xp7bOkjo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 51,
+          "like_count": 2565,
+          "listed_count": 2,
+          "media_count": 343,
+          "tweet_count": 2736
+        },
+        "username": "99xmb",
+        "verified": false
+      }
+    ]
+  }
+}

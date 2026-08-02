@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2069650253381517368",
+    "created_at": "2026-06-24T05:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T06:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069650253381517368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1984128211018829824",
+          "start": 3,
+          "username": "kangkangk520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069650253381517368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069162491419254853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kangkangk520: woc我根本不知道你们那些健康的恋爱关系都是怎么认识的人呀！在哪认识的人呀，如果是在社交软件上那不是一开始就是有目的性的接触吗，不管是见色起意想谈恋爱，还是别的关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2069650253381517368",
+        "created_at": "2026-06-24T05:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T06:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069650253381517368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1984128211018829824",
+              "start": 3,
+              "username": "kangkangk520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069650253381517368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069162491419254853",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kangkangk520: woc我根本不知道你们那些健康的恋爱关系都是怎么认识的人呀！在哪认识的人呀，如果是在社交软件上那不是一开始就是有目的性的接触吗，不管是见色起意想谈恋爱，还是别的关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984128211018829824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2069162491419254853",
+        "created_at": "2026-06-22T20:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T21:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069162491419254853"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069162491419254853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 152318,
+          "like_count": 1057,
+          "quote_count": 8,
+          "reply_count": 164,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "woc我根本不知道你们那些健康的恋爱关系都是怎么认识的人呀！在哪认识的人呀，如果是在社交软件上那不是一开始就是有目的性的接触吗，不管是见色起意想谈恋爱，还是别的关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2056740509717250518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 99,
+          "like_count": 13472,
+          "listed_count": 1,
+          "media_count": 454,
+          "tweet_count": 4332
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T05:20:18.000Z",
+        "description": "碎碎念 梦想当恋爱博主（switch）\n男的找我说话卡颜 卡身材 不约炮 不聊骚 不扩列 给我发吧唧和盗图死全家私信有兴趣的会（单取双取的别找我互，盗图的和空白号也滚）\n女生互关可＋v",
+        "id": "1984128211018829824",
+        "location": "爱我就给我转账",
+        "name": "猫猫头",
+        "pinned_tweet_id": "2068386736397598953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048819201020997632/FnWNeDhR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 33,
+          "like_count": 3422,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 914
+        },
+        "url": "",
+        "username": "kangkangk520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2061969363104924060",
+    "created_at": "2026-06-03T00:33:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T01:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061969363104924060"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061969363104924060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朋友的拖鞋上有个烫出来的痕迹 我说这是烟头烫的吗 她说对\n前面的男生转头过来慢悠悠说了一句好羡慕\n然后朋友说你有病啊 给你腋毛点了\n男生：你还点上香薰了\n他那种淡淡的慢慢的说这种话特别搞笑所以我一巴掌就扇上去了 我说你啥时候这么贱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2061969363104924060",
+        "created_at": "2026-06-03T00:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T01:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061969363104924060"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061969363104924060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友的拖鞋上有个烫出来的痕迹 我说这是烟头烫的吗 她说对\n前面的男生转头过来慢悠悠说了一句好羡慕\n然后朋友说你有病啊 给你腋毛点了\n男生：你还点上香薰了\n他那种淡淡的慢慢的说这种话特别搞笑所以我一巴掌就扇上去了 我说你啥时候这么贱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 99,
+          "like_count": 12525,
+          "listed_count": 1,
+          "media_count": 415,
+          "tweet_count": 4026
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

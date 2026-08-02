@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2072199186896888213",
+    "created_at": "2026-07-01T06:13:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T07:13:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072201859297595847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1646972643206365184",
+          "start": 0,
+          "username": "yanyannbcwx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072201859297595847",
+    "in_reply_to_user_id": "1646972643206365184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072201650337415667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanyannbcwx 给我无语的不行！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2072199186896888213",
+        "created_at": "2026-07-01T06:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072201859297595847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1646972643206365184",
+              "start": 0,
+              "username": "yanyannbcwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072201859297595847",
+        "in_reply_to_user_id": "1646972643206365184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072201650337415667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanyannbcwx 给我无语的不行！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646972643206365184",
+        "conversation_id": "2072199186896888213",
+        "created_at": "2026-07-01T06:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072201650337415667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072201650337415667",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072199374994641366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 咋这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071888396360794595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 100,
+          "like_count": 13491,
+          "listed_count": 1,
+          "media_count": 474,
+          "tweet_count": 4459
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-14T20:24:24.000Z",
+        "description": "以前枷锁太多，现在我顺从自己。\n地陪服务在小号 @jiangzhonwen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "jiangzhonwen"
+              }
+            ]
+          }
+        },
+        "id": "1646972643206365184",
+        "location": "🚪好友位88-188-288",
+        "name": "𝓐𝖕𝖕",
+        "pinned_tweet_id": "2058162530888114474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032121230170734595/UutBtkMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4904,
+          "following_count": 82,
+          "like_count": 11919,
+          "listed_count": 9,
+          "media_count": 115,
+          "tweet_count": 2518
+        },
+        "url": "",
+        "username": "yanyannbcwx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2080142953939611785",
+    "created_at": "2026-07-23T04:08:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T05:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080142953939611785"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 112,
+          "start": 103,
+          "tag": "tellonym"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "tellonym.me/mo1ania/answer…",
+          "end": 137,
+          "expanded_url": "https://tellonym.me/mo1ania/answer/7234532545",
+          "start": 114,
+          "status": 200,
+          "unwound_url": "https://tellonym.me/mo1ania/answer/7234532545",
+          "url": "https://t.co/yMLO9XjUzh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080142953939611785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "❓ 你用什么洗护用品\n💬 我洗发水是丝蕴那个柚子味的 但是蛋蛋说同一个洗发水用久了就不管用了 所以我打算换掉 沐浴露刚换的aēsop我觉得还行吧！身体乳一个用的是那个大白罐 还有一个是蛋蛋给我买的她同款哟 #tellonym  https://t.co/yMLO9XjUzh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2080142953939611785",
+        "created_at": "2026-07-23T04:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T05:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080142953939611785"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 112,
+              "start": 103,
+              "tag": "tellonym"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "tellonym.me/mo1ania/answer…",
+              "end": 137,
+              "expanded_url": "https://tellonym.me/mo1ania/answer/7234532545",
+              "start": 114,
+              "status": 200,
+              "unwound_url": "https://tellonym.me/mo1ania/answer/7234532545",
+              "url": "https://t.co/yMLO9XjUzh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080142953939611785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "❓ 你用什么洗护用品\n💬 我洗发水是丝蕴那个柚子味的 但是蛋蛋说同一个洗发水用久了就不管用了 所以我打算换掉 沐浴露刚换的aēsop我觉得还行吧！身体乳一个用的是那个大白罐 还有一个是蛋蛋给我买的她同款哟 #tellonym  https://t.co/yMLO9XjUzh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 89,
+          "like_count": 14397,
+          "listed_count": 2,
+          "media_count": 521,
+          "tweet_count": 4842
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2054764535291240604",
+    "created_at": "2026-05-14T03:46:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T04:46:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054770315977507087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1952302490218831872",
+          "start": 0,
+          "username": "cooulaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054770315977507087",
+    "in_reply_to_user_id": "1952302490218831872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054764535291240604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cooulaaa 我们班上次有个女生历史抄成全市第一。我说文化生要是知道都不活了 笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2054764535291240604",
+        "created_at": "2026-05-14T03:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T04:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054770315977507087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1952302490218831872",
+              "start": 0,
+              "username": "cooulaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054770315977507087",
+        "in_reply_to_user_id": "1952302490218831872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054764535291240604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cooulaaa 我们班上次有个女生历史抄成全市第一。我说文化生要是知道都不活了 笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952302490218831872",
+        "conversation_id": "2054764535291240604",
+        "created_at": "2026-05-14T03:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T04:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054764535291240604"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054764535291240604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽我们班一个常年倒数三四百的女生这次考了年级前二十\n小姐姐求求你把买答案的渠道也分享给我好吗…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2039728281235423570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 98,
+          "like_count": 11377,
+          "listed_count": 0,
+          "media_count": 362,
+          "tweet_count": 3762
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T09:36:11.000Z",
+        "description": "我只是个懵逼的单细胞生物草履虫呀。 \n\n小号@chng1089971 只过互关or🚪（谨慎关注 目前里面只有色图。｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "chng1089971"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.tz86.vip/#/register?code=4nDoXVYO",
+                "start": 0,
+                "url": "https://t.co/fplUYhn3rj"
+              }
+            ]
+          }
+        },
+        "id": "1952302490218831872",
+        "location": "🚪188纯绿/520",
+        "name": "忧郁萌神草履虫",
+        "pinned_tweet_id": "2053572466296193468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028332698625003521/i3elCBTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3498,
+          "following_count": 397,
+          "like_count": 914,
+          "listed_count": 9,
+          "media_count": 304,
+          "tweet_count": 1566
+        },
+        "url": "https://t.co/fplUYhn3rj",
+        "username": "cooulaaa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2069694466521481520",
+    "created_at": "2026-06-25T06:17:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T07:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070028633339838677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2041547685153710080",
+          "start": 0,
+          "username": "Suansuanpig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070028633339838677",
+    "in_reply_to_user_id": "2041547685153710080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070027941044748729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suansuanpig 你赢了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2069694466521481520",
+        "created_at": "2026-06-25T06:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T07:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070028633339838677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2041547685153710080",
+              "start": 0,
+              "username": "Suansuanpig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070028633339838677",
+        "in_reply_to_user_id": "2041547685153710080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070027941044748729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suansuanpig 你赢了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041547685153710080",
+        "conversation_id": "2069694466521481520",
+        "created_at": "2026-06-25T06:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T07:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070027941044748729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070027941044748729",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069694466521481520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 60。险胜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2056740509717250518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1557,
+          "following_count": 100,
+          "like_count": 13548,
+          "listed_count": 1,
+          "media_count": 461,
+          "tweet_count": 4379
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T16:05:16.000Z",
+        "description": "朋友圈没发的都在这了\n简中/繁中 欢迎互关\n07 infj        来找我玩👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/suan56210",
+                "end": 23,
+                "expanded_url": "https://ngl.link/suan56210",
+                "start": 0,
+                "url": "https://t.co/wmW8xy2wTM"
+              }
+            ]
+          }
+        },
+        "id": "2041547685153710080",
+        "location": "fujian",
+        "name": "Suan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041550325904297984/_XxQ4spn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 83,
+          "like_count": 2456,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1124
+        },
+        "url": "https://t.co/wmW8xy2wTM",
+        "username": "Suansuanpig",
+        "verified": false
+      }
+    ]
+  }
+}

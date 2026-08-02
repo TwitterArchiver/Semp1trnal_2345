@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2069017555877146842",
+    "created_at": "2026-06-22T12:32:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T13:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069035715409887638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2002241057241907200",
+          "start": 0,
+          "username": "xiaoxiongOvO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069035715409887638",
+    "in_reply_to_user_id": "2002241057241907200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069017555877146842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxiongOvO_ 卧槽我看到这个了我要笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2069017555877146842",
+        "created_at": "2026-06-22T12:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069035715409887638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2002241057241907200",
+              "start": 0,
+              "username": "xiaoxiongOvO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069035715409887638",
+        "in_reply_to_user_id": "2002241057241907200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069017555877146842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxiongOvO_ 卧槽我看到这个了我要笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002241057241907200",
+        "conversation_id": "2069017555877146842",
+        "created_at": "2026-06-22T11:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069017555877146842"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069017555877146842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话是这么说，上班的话我就是乖乖男，主管和别人说什么我就去干 说话我自己都觉得好有礼貌，下班就是别人叫我甩个眼神自己体会，然后转头点根烟这样，上班还不戴耳环下班什么戴带上了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2056740509717250518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 99,
+          "like_count": 13392,
+          "listed_count": 1,
+          "media_count": 454,
+          "tweet_count": 4311
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T04:54:10.000Z",
+        "description": "鹅鸭杀梦女 可爱宝宝和我互fo好吗",
+        "id": "2002241057241907200",
+        "location": "纯绿🚪88",
+        "name": "小熊（鹅鸭杀的主人）",
+        "pinned_tweet_id": "2048320026298679803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066816217474805760/V4RUc-GG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 52,
+          "like_count": 12337,
+          "listed_count": 2,
+          "media_count": 337,
+          "tweet_count": 6955
+        },
+        "url": "",
+        "username": "xiaoxiongOvO_",
+        "verified": false
+      }
+    ]
+  }
+}

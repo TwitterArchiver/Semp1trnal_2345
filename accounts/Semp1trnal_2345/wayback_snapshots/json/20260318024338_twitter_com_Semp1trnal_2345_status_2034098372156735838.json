@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2034079733420593237",
+    "created_at": "2026-03-18T02:43:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T03:43:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034098372156735838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1984632480947998720",
+          "start": 0,
+          "username": "youyoushowme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034098372156735838",
+    "in_reply_to_user_id": "1984632480947998720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034098013619294372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youyoushowme 这是谐音梗考试吗！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2034079733420593237",
+        "created_at": "2026-03-18T02:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T03:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034098372156735838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1984632480947998720",
+              "start": 0,
+              "username": "youyoushowme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034098372156735838",
+        "in_reply_to_user_id": "1984632480947998720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034098013619294372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youyoushowme 这是谐音梗考试吗！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984632480947998720",
+        "conversation_id": "2034079733420593237",
+        "created_at": "2026-03-18T02:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T03:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034098013619294372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034098013619294372",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034094997444927875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 那为啥米酒上街被抓走了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "我真的不会画画QwQ",
+        "pinned_tweet_id": "2032828087830974579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026501500391034880/hy0e5UuC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 100,
+          "like_count": 8900,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 2788
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T14:44:09.000Z",
+        "description": "在杭读研的男的｜私信都会回｜我是m｜梦想是有人能喜欢我\nhttps://t.co/VIuSemnFXX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/youyou96379",
+                "end": 51,
+                "expanded_url": "https://ngl.link/youyou96379",
+                "start": 28,
+                "url": "https://t.co/VIuSemnFXX"
+              }
+            ]
+          }
+        },
+        "id": "1984632480947998720",
+        "location": "杭州",
+        "name": "悠悠",
+        "pinned_tweet_id": "1992979828442800574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011733160321540098/X3FKw3Aj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 144,
+          "like_count": 37680,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 2054
+        },
+        "username": "youyoushowme",
+        "verified": false
+      }
+    ]
+  }
+}

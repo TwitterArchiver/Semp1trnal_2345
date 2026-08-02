@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2072654067625857455",
+    "created_at": "2026-07-02T12:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T13:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072654067625857455"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/f0odhub/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/f0odhub/status/2072204850037715363",
+          "start": 6,
+          "url": "https://t.co/qHPi8OVRyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072654067625857455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072204850037715363",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想吃这个 https://t.co/qHPi8OVRyg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2072204847433048064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHzVGkW4AAlvQt.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2072654067625857455",
+        "created_at": "2026-07-02T12:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072654067625857455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/f0odhub/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/f0odhub/status/2072204850037715363",
+              "start": 6,
+              "url": "https://t.co/qHPi8OVRyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072654067625857455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072204850037715363",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想吃这个 https://t.co/qHPi8OVRyg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072204847433048064"
+          ]
+        },
+        "author_id": "1786413884473008128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072204850037715363",
+        "created_at": "2026-07-01T06:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072204850037715363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YFBjDXJjqp",
+              "end": 23,
+              "expanded_url": "https://x.com/F0ODHub/status/2072204850037715363/photo/1",
+              "media_key": "3_2072204847433048064",
+              "start": 0,
+              "url": "https://t.co/YFBjDXJjqp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072204850037715363",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 8551,
+          "like_count": 699,
+          "quote_count": 3,
+          "reply_count": 17,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YFBjDXJjqp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 51,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 28,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 76,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 53,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071888396360794595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 100,
+          "like_count": 13560,
+          "listed_count": 1,
+          "media_count": 476,
+          "tweet_count": 4485
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T15:14:17.000Z",
+        "description": "Serving up deliciousness one plate at a time. From recipes to food trends, join us on a flavorful journey!",
+        "id": "1786413884473008128",
+        "location": "Egypt",
+        "name": "Food Hub",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913567752981250048/cQPKQ_IA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140987,
+          "following_count": 6102,
+          "like_count": 490,
+          "listed_count": 190,
+          "media_count": 4469,
+          "tweet_count": 5578
+        },
+        "url": "",
+        "username": "F0ODHub",
+        "verified": true
+      }
+    ]
+  }
+}

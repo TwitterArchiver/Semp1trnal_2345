@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2065382740112101543",
+    "created_at": "2026-06-13T04:17:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T05:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065649811622400244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1998435044936003585",
+          "start": 0,
+          "username": "Li0756069943862"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065649811622400244",
+    "in_reply_to_user_id": "1998435044936003585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065642516469424537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Li0756069943862 还堵车。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2065382740112101543",
+        "created_at": "2026-06-13T04:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065649811622400244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1998435044936003585",
+              "start": 0,
+              "username": "Li0756069943862"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065649811622400244",
+        "in_reply_to_user_id": "1998435044936003585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065642516469424537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Li0756069943862 还堵车。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998435044936003585",
+        "conversation_id": "2065382740112101543",
+        "created_at": "2026-06-13T03:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065642516469424537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065642516469424537",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065382740112101543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 北京通勤时间太长了…从海淀去哪都好远"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1516,
+          "following_count": 101,
+          "like_count": 12869,
+          "listed_count": 1,
+          "media_count": 428,
+          "tweet_count": 4121
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-09T16:50:27.000Z",
+        "description": "178｜58｜手很好看｜来找我聊天\n每个人都有他逃不开的深渊\n\nhttps://t.co/Vn794tESLO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huaxiangdie",
+                "end": 55,
+                "expanded_url": "https://ngl.link/huaxiangdie",
+                "start": 32,
+                "url": "https://t.co/Vn794tESLO"
+              }
+            ]
+          }
+        },
+        "id": "1998435044936003585",
+        "name": "Ygritte",
+        "pinned_tweet_id": "2065640453266178165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064887714286338048/ehKjYJ5h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 4,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 37
+        },
+        "username": "Li0756069943862",
+        "verified": false
+      }
+    ]
+  }
+}

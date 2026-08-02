@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2059994494347735544",
+    "created_at": "2026-05-28T13:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059994494347735544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1581937806435573760",
+          "start": 3,
+          "username": "fadai202202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059994494347735544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059692454417510788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fadai202202: 我谈不成对象的原因\n1.圈子太干净\n2.不太会叫爸爸\n3.太早睡不能陪男孩子熬夜\n4.因为很少跟男孩接触导致情商低\n5.太单纯不会调情\n6.我的钱自己都不够花\n7.我喜欢的看不上我\n8.我不爱说话\n9.我总是太粘人而被讨厌\n10.喜欢吃醋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2059994494347735544",
+        "created_at": "2026-05-28T13:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059994494347735544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1581937806435573760",
+              "start": 3,
+              "username": "fadai202202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059994494347735544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059692454417510788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fadai202202: 我谈不成对象的原因\n1.圈子太干净\n2.不太会叫爸爸\n3.太早睡不能陪男孩子熬夜\n4.因为很少跟男孩接触导致情商低\n5.太单纯不会调情\n6.我的钱自己都不够花\n7.我喜欢的看不上我\n8.我不爱说话\n9.我总是太粘人而被讨厌\n10.喜欢吃醋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581937806435573760",
+        "conversation_id": "2059692454417510788",
+        "created_at": "2026-05-27T17:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059692454417510788"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059692454417510788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 17568,
+          "like_count": 350,
+          "quote_count": 6,
+          "reply_count": 103,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "我谈不成对象的原因\n1.圈子太干净\n2.不太会叫爸爸\n3.太早睡不能陪男孩子熬夜\n4.因为很少跟男孩接触导致情商低\n5.太单纯不会调情\n6.我的钱自己都不够花\n7.我喜欢的看不上我\n8.我不爱说话\n9.我总是太粘人而被讨厌\n10.喜欢吃醋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1444,
+          "following_count": 98,
+          "like_count": 12253,
+          "listed_count": 0,
+          "media_count": 404,
+          "tweet_count": 3947
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T09:19:10.000Z",
+        "description": "",
+        "id": "1581937806435573760",
+        "location": "🚪188/520/1314",
+        "name": "呆呆",
+        "pinned_tweet_id": "2048380133195780542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15983,
+          "following_count": 2,
+          "like_count": 1111,
+          "listed_count": 13,
+          "media_count": 142,
+          "tweet_count": 1061
+        },
+        "username": "fadai202202",
+        "verified": false
+      }
+    ]
+  }
+}

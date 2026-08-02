@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2073066767505838428",
+    "created_at": "2026-07-04T10:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T11:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073348420463653195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "256554357",
+          "start": 0,
+          "username": "aoandou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073348420463653195",
+    "in_reply_to_user_id": "256554357",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073336876128428067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoandou 😲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2073066767505838428",
+        "created_at": "2026-07-04T10:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073348420463653195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "256554357",
+              "start": 0,
+              "username": "aoandou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073348420463653195",
+        "in_reply_to_user_id": "256554357",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073336876128428067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoandou 😲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "256554357",
+        "conversation_id": "2073066767505838428",
+        "created_at": "2026-07-04T09:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T10:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073336876128428067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073336876128428067",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073066767505838428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 雌激素是要靠脂肪供应的……声音会变粗的人很可能是本身激素双高，减重后雌激素有所不足了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 51,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 28,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 76,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 53,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1569,
+          "following_count": 101,
+          "like_count": 13676,
+          "listed_count": 1,
+          "media_count": 481,
+          "tweet_count": 4551
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-23T15:46:03.000Z",
+        "description": "40歲,經營MengjieLuan影像工作室和“祈願加油站”飾物店.中國cosplay舞臺劇聯賽評審與賽制工作者(供職於多個聯賽),非盈利cosplay俱樂部\"LuckyCat辣姬猫\"連絡人.業餘cosplay及VideoGame愛好者,最近熱衷ChainSawMan,是P4-Izanagi夢女.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "deviantart.com/aoandou",
+                "end": 23,
+                "expanded_url": "https://www.deviantart.com/aoandou",
+                "start": 0,
+                "url": "https://t.co/htq6coDR4H"
+              }
+            ]
+          }
+        },
+        "id": "256554357",
+        "location": "中国北京",
+        "name": "aoandou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637271469762961408/izJGh8cH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 210,
+          "like_count": 3724,
+          "listed_count": 9,
+          "media_count": 249,
+          "tweet_count": 2122
+        },
+        "url": "https://t.co/htq6coDR4H",
+        "username": "aoandou",
+        "verified": false
+      }
+    ]
+  }
+}

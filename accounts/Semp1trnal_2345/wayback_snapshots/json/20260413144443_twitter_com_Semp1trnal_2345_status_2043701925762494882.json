@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2043700372901085530",
+    "created_at": "2026-04-13T14:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T15:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043701925762494882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1929205667140952064",
+          "start": 0,
+          "username": "Lin_0077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043701925762494882",
+    "in_reply_to_user_id": "1929205667140952064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043701738885283944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lin_0077 就是的！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2043700372901085530",
+        "created_at": "2026-04-13T14:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043701925762494882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1929205667140952064",
+              "start": 0,
+              "username": "Lin_0077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043701925762494882",
+        "in_reply_to_user_id": "1929205667140952064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043701738885283944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lin_0077 就是的！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929205667140952064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2043700372901085530",
+        "created_at": "2026-04-13T14:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043701738885283944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043701738885283944",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043700372901085530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 地理完全没天理来的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2039728281235423570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034491183356059648/QYnwDQiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 99,
+          "like_count": 10134,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 3275
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T15:57:36.000Z",
+        "description": "hihi！我素小霖 金牛｜enfp \n欢迎来到我的碎碎念时间₍˄·͈༝·͈˄₎੭ \n平时可能负能较多见谅🫶！ \n防炸小号@xiaolin_0777匿名👉🏻https://t.co/GS3eSylGlb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "xiaolin_0777"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lin.0077",
+                "end": 100,
+                "expanded_url": "https://ngl.link/lin.0077",
+                "start": 77,
+                "url": "https://t.co/GS3eSylGlb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin.0077",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin.0077",
+                "start": 0,
+                "url": "https://t.co/GS3eSylGlb"
+              }
+            ]
+          }
+        },
+        "id": "1929205667140952064",
+        "location": "祝我永远幸福",
+        "name": "霖^",
+        "pinned_tweet_id": "2043288187762848073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946619921993003008/39Ttal6g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 192,
+          "like_count": 2378,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 601
+        },
+        "url": "https://t.co/GS3eSylGlb",
+        "username": "Lin_0077",
+        "verified": false
+      }
+    ]
+  }
+}

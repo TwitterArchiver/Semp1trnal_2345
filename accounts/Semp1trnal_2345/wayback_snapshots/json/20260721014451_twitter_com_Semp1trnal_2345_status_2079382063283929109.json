@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2079382062038228992"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2079382063283929109",
+    "created_at": "2026-07-21T01:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T02:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079382063283929109"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079382063283929109",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猜猜我朋友几天能刷到我"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-07-22T01:44:51.000Z",
+        "id": "2079382062038228992",
+        "options": [
+          {
+            "label": "三天",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "一周",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "一个月",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "永远刷不到",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2079382062038228992"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2079382063283929109",
+        "created_at": "2026-07-21T01:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079382063283929109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079382063283929109",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猜猜我朋友几天能刷到我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 87,
+          "like_count": 14187,
+          "listed_count": 1,
+          "media_count": 517,
+          "tweet_count": 4782
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": true
+      }
+    ]
+  }
+}

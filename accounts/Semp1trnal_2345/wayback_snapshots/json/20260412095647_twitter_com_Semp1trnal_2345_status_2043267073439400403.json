@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2043267073439400403",
+    "created_at": "2026-04-12T09:56:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T10:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043267073439400403"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 82,
+          "start": 73,
+          "tag": "tellonym"
+        }
+      ],
+      "urls": [
+        {
+          "description": "没有男生喜欢你的话怎么办",
+          "display_url": "tellonym.me/mo1ania/answer…",
+          "end": 107,
+          "expanded_url": "https://tellonym.me/mo1ania/answer/6986366393",
+          "start": 84,
+          "status": 200,
+          "title": "Send me Anonymous Questions! - @mo1ania",
+          "unwound_url": "https://tellonym.me/mo1ania/answer/6986366393",
+          "url": "https://t.co/sMo3hL46bX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043267073439400403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "❓ 没有男生喜欢你的话怎么办\n💬 这有什么怎么办的 我也不是什么妖怪要靠吸取别人喜欢我的能量活着！不喜欢我就不喜欢呗！！！是什么很了不得的东西吗 #tellonym  https://t.co/sMo3hL46bX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2043267073439400403",
+        "created_at": "2026-04-12T09:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T10:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043267073439400403"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 73,
+              "tag": "tellonym"
+            }
+          ],
+          "urls": [
+            {
+              "description": "没有男生喜欢你的话怎么办",
+              "display_url": "tellonym.me/mo1ania/answer…",
+              "end": 107,
+              "expanded_url": "https://tellonym.me/mo1ania/answer/6986366393",
+              "start": 84,
+              "status": 200,
+              "title": "Send me Anonymous Questions! - @mo1ania",
+              "unwound_url": "https://tellonym.me/mo1ania/answer/6986366393",
+              "url": "https://t.co/sMo3hL46bX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043267073439400403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "❓ 没有男生喜欢你的话怎么办\n💬 这有什么怎么办的 我也不是什么妖怪要靠吸取别人喜欢我的能量活着！不喜欢我就不喜欢呗！！！是什么很了不得的东西吗 #tellonym  https://t.co/sMo3hL46bX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2039728281235423570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034491183356059648/QYnwDQiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 102,
+          "like_count": 10029,
+          "listed_count": 0,
+          "media_count": 291,
+          "tweet_count": 3250
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

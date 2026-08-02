@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064677077929070592"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2064677086862909594",
+    "created_at": "2026-06-10T11:52:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T12:52:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064677086862909594"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ttjrx3pe8e",
+          "end": 45,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2064677086862909594/photo/1",
+          "media_key": "3_2064677077929070592",
+          "start": 22,
+          "url": "https://t.co/Ttjrx3pe8e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064677086862909594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和一群不咋认识关系也不咋好的一群人拍毕业照 https://t.co/Ttjrx3pe8e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064677077929070592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKc03P3akAAUZeS.jpg",
+        "width": 1580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064677077929070592"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2064677086862909594",
+        "created_at": "2026-06-10T11:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064677086862909594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ttjrx3pe8e",
+              "end": 45,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2064677086862909594/photo/1",
+              "media_key": "3_2064677077929070592",
+              "start": 22,
+              "url": "https://t.co/Ttjrx3pe8e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064677086862909594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和一群不咋认识关系也不咋好的一群人拍毕业照 https://t.co/Ttjrx3pe8e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1490,
+          "following_count": 103,
+          "like_count": 12760,
+          "listed_count": 1,
+          "media_count": 422,
+          "tweet_count": 4085
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

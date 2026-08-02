@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2061817422836105649",
+    "created_at": "2026-06-02T14:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T15:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061822285426876830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2057418036550750208",
+          "start": 0,
+          "username": "whereeeeislove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061822285426876830",
+    "in_reply_to_user_id": "2057418036550750208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061819621213339959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whereeeeislove 我也讨厌背单词哦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2061817422836105649",
+        "created_at": "2026-06-02T14:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061822285426876830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2057418036550750208",
+              "start": 0,
+              "username": "whereeeeislove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061822285426876830",
+        "in_reply_to_user_id": "2057418036550750208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061819621213339959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whereeeeislove 我也讨厌背单词哦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057418036550750208",
+        "conversation_id": "2061817422836105649",
+        "created_at": "2026-06-02T14:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061819621213339959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061819621213339959",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061817422836105649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 每天背单词背的都想死，还有专业课那一堆难背的名词"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1465,
+          "following_count": 99,
+          "like_count": 12509,
+          "listed_count": 1,
+          "media_count": 415,
+          "tweet_count": 4024
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T11:07:47.000Z",
+        "description": "06男，特别无聊\n这里只是我的情绪垃圾桶和碎碎念\n别封我号了马斯克我求你了",
+        "id": "2057418036550750208",
+        "name": "我会死吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057418143971385344/QWxnPVK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "whereeeeislove",
+        "verified": false
+      }
+    ]
+  }
+}

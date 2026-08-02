@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043707443537211392"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2043706531712290961",
+    "created_at": "2026-04-13T15:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T16:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043707451665711311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1659699719474667521",
+          "start": 0,
+          "username": "Exzuannett66089"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ys2itiEPXt",
+          "end": 56,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2043707451665711311/photo/1",
+          "media_key": "3_2043707443537211392",
+          "start": 33,
+          "url": "https://t.co/Ys2itiEPXt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043707451665711311",
+    "in_reply_to_user_id": "1659699719474667521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043707266805944815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Exzuannett66089 我只能看到你发消息的弹窗。。。 https://t.co/Ys2itiEPXt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043707443537211392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFy1F4TbcAAsekV.jpg",
+        "width": 1423
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043707443537211392"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2043706531712290961",
+        "created_at": "2026-04-13T15:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043707451665711311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1659699719474667521",
+              "start": 0,
+              "username": "Exzuannett66089"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ys2itiEPXt",
+              "end": 56,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2043707451665711311/photo/1",
+              "media_key": "3_2043707443537211392",
+              "start": 33,
+              "url": "https://t.co/Ys2itiEPXt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043707451665711311",
+        "in_reply_to_user_id": "1659699719474667521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043707266805944815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Exzuannett66089 我只能看到你发消息的弹窗。。。 https://t.co/Ys2itiEPXt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659699719474667521",
+        "conversation_id": "2043706531712290961",
+        "created_at": "2026-04-13T15:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043707266805944815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043707266805944815",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043706531712290961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 刚发的也看不到吗哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2039728281235423570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034491183356059648/QYnwDQiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 99,
+          "like_count": 10138,
+          "listed_count": 0,
+          "media_count": 295,
+          "tweet_count": 3281
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-19T23:17:59.000Z",
+        "description": "",
+        "id": "1659699719474667521",
+        "name": "小E",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036121968152555520/VFMQHj88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 335,
+          "like_count": 3269,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 376
+        },
+        "username": "Exzuannett66089",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061394363541053440"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2061394388799160471",
+    "created_at": "2026-06-01T10:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T11:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061394388799160471"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/03IHl86LSe",
+          "end": 103,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2061394388799160471/photo/1",
+          "media_key": "3_2061394363541053440",
+          "start": 80,
+          "url": "https://t.co/03IHl86LSe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061394388799160471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "考完数学我和我朋友说我只能考三十分 她不信 说但凡多一分就打死我\n结果真的只有三十分整\n然后她说 这种大学霸都会控分了\n我差点掐死她\n分低到一定程度我真的会笑 https://t.co/03IHl86LSe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2061394363541053440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuLQHzbYAAF5DO.jpg",
+        "width": 1386
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061394363541053440"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2061394388799160471",
+        "created_at": "2026-06-01T10:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T11:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061394388799160471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/03IHl86LSe",
+              "end": 103,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2061394388799160471/photo/1",
+              "media_key": "3_2061394363541053440",
+              "start": 80,
+              "url": "https://t.co/03IHl86LSe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061394388799160471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "考完数学我和我朋友说我只能考三十分 她不信 说但凡多一分就打死我\n结果真的只有三十分整\n然后她说 这种大学霸都会控分了\n我差点掐死她\n分低到一定程度我真的会笑 https://t.co/03IHl86LSe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 99,
+          "like_count": 12460,
+          "listed_count": 1,
+          "media_count": 408,
+          "tweet_count": 4004
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

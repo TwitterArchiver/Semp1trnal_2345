@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2063619822785843273",
+    "created_at": "2026-06-08T02:59:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T03:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063818249826132432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1935372590060843008",
+          "start": 0,
+          "username": "luobotoumiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063818249826132432",
+    "in_reply_to_user_id": "1935372590060843008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063619822785843273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@luobotoumiao 我他妈真不行了我要笑死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1946,
+        "media_key": "3_2063619810324574208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNzSLHa8AA2uPF.jpg",
+        "width": 1474
+      },
+      {
+        "height": 892,
+        "media_key": "3_2063619810374938625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNzSLTbcAEXJWx.jpg",
+        "width": 658
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2063619822785843273",
+        "created_at": "2026-06-08T02:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063818249826132432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1935372590060843008",
+              "start": 0,
+              "username": "luobotoumiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063818249826132432",
+        "in_reply_to_user_id": "1935372590060843008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063619822785843273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@luobotoumiao 我他妈真不行了我要笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063619810324574208",
+            "3_2063619810374938625"
+          ]
+        },
+        "author_id": "1935372590060843008",
+        "conversation_id": "2063619822785843273",
+        "created_at": "2026-06-07T13:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063619822785843273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JhLJm77woA",
+              "end": 54,
+              "expanded_url": "https://x.com/luobotoumiao/status/2063619822785843273/photo/1",
+              "media_key": "3_2063619810324574208",
+              "start": 31,
+              "url": "https://t.co/JhLJm77woA"
+            },
+            {
+              "display_url": "pic.x.com/JhLJm77woA",
+              "end": 54,
+              "expanded_url": "https://x.com/luobotoumiao/status/2063619822785843273/photo/1",
+              "media_key": "3_2063619810374938625",
+              "start": 31,
+              "url": "https://t.co/JhLJm77woA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063619822785843273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3456,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "让AI给我p个裸照然后AI不认识鸡吧给我p了个雷霆大逼。。。 https://t.co/JhLJm77woA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2061813949893595488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 101,
+          "like_count": 12671,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 4066
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T16:22:54.000Z",
+        "description": "全球可飞",
+        "id": "1935372590060843008",
+        "location": "0.01km",
+        "name": "豆萝",
+        "pinned_tweet_id": "2028395630796980498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054549239599112193/7nwwH9-S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5260,
+          "following_count": 446,
+          "like_count": 7341,
+          "listed_count": 12,
+          "media_count": 169,
+          "tweet_count": 2127
+        },
+        "username": "luobotoumiao",
+        "verified": true
+      }
+    ]
+  }
+}

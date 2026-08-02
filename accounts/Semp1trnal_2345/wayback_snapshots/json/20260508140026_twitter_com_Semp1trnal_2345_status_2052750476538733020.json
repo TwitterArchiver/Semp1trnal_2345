@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2052222953778294824",
+    "created_at": "2026-05-08T14:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052750476538733020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2012520665312841728",
+          "start": 0,
+          "username": "cptbtptphhhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052750476538733020",
+    "in_reply_to_user_id": "2012520665312841728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052714553415516570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cptbtptphhhi 对呀。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2052222953778294824",
+        "created_at": "2026-05-08T14:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052750476538733020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2012520665312841728",
+              "start": 0,
+              "username": "cptbtptphhhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052750476538733020",
+        "in_reply_to_user_id": "2012520665312841728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052714553415516570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cptbtptphhhi 对呀。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012520665312841728",
+        "conversation_id": "2052222953778294824",
+        "created_at": "2026-05-08T11:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052714553415516570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052714553415516570",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052222953778294824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 河南往下都是南了吧...信阳人都说自己是南方人呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2039728281235423570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049504904532959232/XKSe-cbm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1422,
+          "following_count": 99,
+          "like_count": 11004,
+          "listed_count": 0,
+          "media_count": 350,
+          "tweet_count": 3674
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T13:41:48.000Z",
+        "description": "₍ᐢ..ᐢ₎💭",
+        "id": "2012520665312841728",
+        "location": "United States",
+        "name": "dudu",
+        "pinned_tweet_id": "2046259642456781040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026546190947606528/SSz4YjDR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 52,
+          "like_count": 1844,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 720
+        },
+        "username": "cptbtptphhhi",
+        "verified": false
+      }
+    ]
+  }
+}

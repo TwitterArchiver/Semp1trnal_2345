@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2072972532509245737",
+    "created_at": "2026-07-03T09:15:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T10:15:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072972532509245737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1758545032494383104",
+          "start": 3,
+          "username": "bb7680105719539"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072972532509245737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 132
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072327689915216192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bb7680105719539: 我这么骚的人居然私生活这么干净足可以证明我有多洁身自好。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2072972532509245737",
+        "created_at": "2026-07-03T09:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072972532509245737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1758545032494383104",
+              "start": 3,
+              "username": "bb7680105719539"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072972532509245737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 132
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072327689915216192",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bb7680105719539: 我这么骚的人居然私生活这么干净足可以证明我有多洁身自好。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758545032494383104",
+        "conversation_id": "2072327689915216192",
+        "created_at": "2026-07-01T14:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072327689915216192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072327689915216192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 76797,
+          "like_count": 1090,
+          "quote_count": 28,
+          "reply_count": 132,
+          "retweet_count": 132
+        },
+        "reply_settings": "everyone",
+        "text": "我这么骚的人居然私生活这么干净足可以证明我有多洁身自好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 51,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 28,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 76,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 53,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071888396360794595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1563,
+          "following_count": 101,
+          "like_count": 13596,
+          "listed_count": 1,
+          "media_count": 477,
+          "tweet_count": 4498
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T17:33:12.000Z",
+        "description": "再幸运一点吧",
+        "id": "1758545032494383104",
+        "name": "Rbb72",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758546884027678720/Nyh3IVa5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4012,
+          "following_count": 231,
+          "like_count": 1704,
+          "listed_count": 11,
+          "media_count": 71,
+          "tweet_count": 600
+        },
+        "url": "",
+        "username": "bb7680105719539",
+        "verified": false
+      }
+    ]
+  }
+}

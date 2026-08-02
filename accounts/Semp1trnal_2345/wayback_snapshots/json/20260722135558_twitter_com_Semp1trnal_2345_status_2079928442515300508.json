@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079928432742617088",
+        "3_2079928432725839872"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2079928442515300508",
+    "created_at": "2026-07-22T13:55:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T14:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079928442515300508"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ikLZVaJBL7",
+          "end": 50,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2079928442515300508/photo/1",
+          "media_key": "3_2079928432742617088",
+          "start": 27,
+          "url": "https://t.co/ikLZVaJBL7"
+        },
+        {
+          "display_url": "pic.x.com/ikLZVaJBL7",
+          "end": 50,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2079928442515300508/photo/1",
+          "media_key": "3_2079928432725839872",
+          "start": 27,
+          "url": "https://t.co/ikLZVaJBL7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079928442515300508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你好\n喜欢特别喜欢我的男生 对我够好 剩下的看感觉吧 https://t.co/ikLZVaJBL7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079928432742617088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1j47_b0AAujY1.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079928432725839872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1j477b0AA8Z_h.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079928432742617088",
+            "3_2079928432725839872"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2079928442515300508",
+        "created_at": "2026-07-22T13:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079928442515300508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ikLZVaJBL7",
+              "end": 50,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2079928442515300508/photo/1",
+              "media_key": "3_2079928432742617088",
+              "start": 27,
+              "url": "https://t.co/ikLZVaJBL7"
+            },
+            {
+              "display_url": "pic.x.com/ikLZVaJBL7",
+              "end": 50,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2079928442515300508/photo/1",
+              "media_key": "3_2079928432725839872",
+              "start": 27,
+              "url": "https://t.co/ikLZVaJBL7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079928442515300508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你好\n喜欢特别喜欢我的男生 对我够好 剩下的看感觉吧 https://t.co/ikLZVaJBL7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 89,
+          "like_count": 14379,
+          "listed_count": 1,
+          "media_count": 520,
+          "tweet_count": 4837
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": true
+      }
+    ]
+  }
+}

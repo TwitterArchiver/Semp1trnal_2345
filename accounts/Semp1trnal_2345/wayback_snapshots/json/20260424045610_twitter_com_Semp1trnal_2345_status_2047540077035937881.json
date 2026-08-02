@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047268373000826880"
+      ],
+      "media_source_tweet_id": [
+        "2047268379313238180"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2047540077035937881",
+    "created_at": "2026-04-24T04:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T05:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047540077035937881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028814965965312001",
+          "start": 3,
+          "username": "Miiharukawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pA6vT42FtD",
+          "end": 55,
+          "expanded_url": "https://x.com/Miiharukawa/status/2047268379313238180/photo/1",
+          "media_key": "3_2047268373000826880",
+          "start": 32,
+          "url": "https://t.co/pA6vT42FtD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047540077035937881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047268379313238180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miiharukawa: 发个挺好用的梯子，用了几年了 https://t.co/pA6vT42FtD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 160,
+        "media_key": "3_2047268373000826880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlbvQSbMAAsfHF.jpg",
+        "width": 160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047268373000826880"
+          ],
+          "media_source_tweet_id": [
+            "2047268379313238180"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2047540077035937881",
+        "created_at": "2026-04-24T04:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047540077035937881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028814965965312001",
+              "start": 3,
+              "username": "Miiharukawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pA6vT42FtD",
+              "end": 55,
+              "expanded_url": "https://x.com/Miiharukawa/status/2047268379313238180/photo/1",
+              "media_key": "3_2047268373000826880",
+              "start": 32,
+              "url": "https://t.co/pA6vT42FtD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047540077035937881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047268379313238180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miiharukawa: 发个挺好用的梯子，用了几年了 https://t.co/pA6vT42FtD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047268373000826880"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2047268379313238180",
+        "created_at": "2026-04-23T10:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047268379313238180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pA6vT42FtD",
+              "end": 38,
+              "expanded_url": "https://x.com/Miiharukawa/status/2047268379313238180/photo/1",
+              "media_key": "3_2047268373000826880",
+              "start": 15,
+              "url": "https://t.co/pA6vT42FtD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047268379313238180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 75579,
+          "like_count": 1694,
+          "quote_count": 3,
+          "reply_count": 216,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "发个挺好用的梯子，用了几年了 https://t.co/pA6vT42FtD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2039728281235423570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034491183356059648/QYnwDQiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 100,
+          "like_count": 10451,
+          "listed_count": 0,
+          "media_count": 315,
+          "tweet_count": 3451
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "怨是用希\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "Harukayo96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 189,
+          "like_count": 5656,
+          "listed_count": 6,
+          "media_count": 227,
+          "tweet_count": 2046
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

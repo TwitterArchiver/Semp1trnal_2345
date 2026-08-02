@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2072222849805266981",
+    "created_at": "2026-07-01T07:36:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T08:36:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072222849805266981"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/mooooo49172",
+          "end": 31,
+          "expanded_url": "https://ngl.link/mooooo49172",
+          "start": 8,
+          "status": 200,
+          "title": "@mooooo: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/mooooo49172",
+          "url": "https://t.co/6zTrNMzRsi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072222849805266981",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新链接嘛嗯哼哼\nhttps://t.co/6zTrNMzRsi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2072222849805266981",
+        "created_at": "2026-07-01T07:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072222849805266981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/mooooo49172",
+              "end": 31,
+              "expanded_url": "https://ngl.link/mooooo49172",
+              "start": 8,
+              "status": 200,
+              "title": "@mooooo: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/mooooo49172",
+              "url": "https://t.co/6zTrNMzRsi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072222849805266981",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新链接嘛嗯哼哼\nhttps://t.co/6zTrNMzRsi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071888396360794595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 100,
+          "like_count": 13495,
+          "listed_count": 1,
+          "media_count": 474,
+          "tweet_count": 4463
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

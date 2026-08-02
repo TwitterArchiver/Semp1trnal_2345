@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2034559559667487190",
+    "created_at": "2026-03-19T10:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T11:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034584965095264644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1924295627527319552",
+          "start": 0,
+          "username": "viego1387325"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034584965095264644",
+    "in_reply_to_user_id": "1924295627527319552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034580503433740720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@viego1387325 我不想要普通款的...！所以还得找代购！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034580500711710720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDxIL4vboAAdUgm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2034559559667487190",
+        "created_at": "2026-03-19T10:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034584965095264644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1924295627527319552",
+              "start": 0,
+              "username": "viego1387325"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034584965095264644",
+        "in_reply_to_user_id": "1924295627527319552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034580503433740720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@viego1387325 我不想要普通款的...！所以还得找代购！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034580500711710720"
+          ]
+        },
+        "author_id": "1924295627527319552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2034559559667487190",
+        "created_at": "2026-03-19T10:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034580503433740720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E6T7E8Qh1a",
+              "end": 49,
+              "expanded_url": "https://x.com/viego1387325/status/2034580503433740720/photo/1",
+              "media_key": "3_2034580500711710720",
+              "start": 26,
+              "url": "https://t.co/E6T7E8Qh1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034580503433740720",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034559559667487190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 Stanley！ https://t.co/E6T7E8Qh1a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "我真的不会画画QwQ",
+        "pinned_tweet_id": "2032352051586613370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034491183356059648/QYnwDQiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 100,
+          "like_count": 9081,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 2870
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T02:46:48.000Z",
+        "description": "只要淡淡的，就会顺顺的",
+        "id": "1924295627527319552",
+        "location": "等我瘦到85kg就做擦边男",
+        "name": "viego",
+        "pinned_tweet_id": "2012050357762080945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947291709353668608/8aTnY-t7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 102,
+          "like_count": 723,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 249
+        },
+        "username": "viego1387325",
+        "verified": false
+      }
+    ]
+  }
+}

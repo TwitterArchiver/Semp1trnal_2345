@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2057031344417640823",
+    "created_at": "2026-06-22T08:29:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T09:29:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068974736001081721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2054062631405924353",
+          "start": 0,
+          "username": "xxxxxxxxxt10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068974736001081721",
+    "in_reply_to_user_id": "2054062631405924353",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068972379200454859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxxxxxxxt10 😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2057031344417640823",
+        "created_at": "2026-06-22T08:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068974736001081721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2054062631405924353",
+              "start": 0,
+              "username": "xxxxxxxxxt10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068974736001081721",
+        "in_reply_to_user_id": "2054062631405924353",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068972379200454859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxxxxxxxt10 😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054062631405924353",
+        "conversation_id": "2057031344417640823",
+        "created_at": "2026-06-22T08:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068972379200454859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068972379200454859",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057031344417640823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 你是个萌萌的招人喜欢的宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2056740509717250518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 99,
+          "like_count": 13363,
+          "listed_count": 1,
+          "media_count": 453,
+          "tweet_count": 4301
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T04:55:02.000Z",
+        "description": "不约不加微不看屌照 止于推 聊骚kp别找我。腹肌胸肌可以发我嗯嗯！我持续感受！\n有没有高壮男推荐😋高壮男是什么意思呢必须高和壮可以不。\n老的丑的穷的矮的恶臭的有口音的不要。\n不清楚啊我只是一个爱大仍子大肌肉爱口嗨的小女孩！",
+        "id": "2054062631405924353",
+        "location": "天堂",
+        "name": "该账户已注销",
+        "pinned_tweet_id": "2064271254660550903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066621123064692736/WT9bnpEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 129,
+          "like_count": 3680,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 768
+        },
+        "url": "",
+        "username": "xxxxxxxxxt10",
+        "verified": false
+      }
+    ]
+  }
+}

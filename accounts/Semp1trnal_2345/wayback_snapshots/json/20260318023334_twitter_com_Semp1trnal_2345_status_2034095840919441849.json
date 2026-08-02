@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2034095840919441849",
+    "created_at": "2026-03-18T02:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T03:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034095840919441849"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Send 'mo1ania' anonymous questions on Tellonym!",
+          "display_url": "tellonym.me/mo1ania",
+          "end": 29,
+          "expanded_url": "https://tellonym.me/mo1ania",
+          "images": [
+            {
+              "height": 350,
+              "url": "https://pbs.twimg.com/news_img/2030270666289881088/8YK8iO_H?format=jpg&name=orig",
+              "width": 350
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2030270666289881088/8YK8iO_H?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 6,
+          "status": 200,
+          "title": "Send me Anonymous Questions! - @mo1ania",
+          "unwound_url": "https://tellonym.me/mo1ania",
+          "url": "https://t.co/aYL2ukJErn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034095840919441849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "宝宝们🥺🥺\nhttps://t.co/aYL2ukJErn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2034095840919441849",
+        "created_at": "2026-03-18T02:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T03:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034095840919441849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Send 'mo1ania' anonymous questions on Tellonym!",
+              "display_url": "tellonym.me/mo1ania",
+              "end": 29,
+              "expanded_url": "https://tellonym.me/mo1ania",
+              "images": [
+                {
+                  "height": 350,
+                  "url": "https://pbs.twimg.com/news_img/2030270666289881088/8YK8iO_H?format=jpg&name=orig",
+                  "width": 350
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2030270666289881088/8YK8iO_H?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 6,
+              "status": 200,
+              "title": "Send me Anonymous Questions! - @mo1ania",
+              "unwound_url": "https://tellonym.me/mo1ania",
+              "url": "https://t.co/aYL2ukJErn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034095840919441849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝们🥺🥺\nhttps://t.co/aYL2ukJErn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "我真的不会画画QwQ",
+        "pinned_tweet_id": "2032828087830974579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026501500391034880/hy0e5UuC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 100,
+          "like_count": 8899,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 2786
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070536590502531073"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2070536596689211717",
+    "created_at": "2026-06-26T15:56:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T16:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070536596689211717"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OrPLtGIwBp",
+          "end": 75,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2070536596689211717/photo/1",
+          "media_key": "3_2070536590502531073",
+          "start": 52,
+          "url": "https://t.co/OrPLtGIwBp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070536596689211717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "并没有自由 其次我不是很会打游戏 朋友们要不忙着期末考要不就不在北京 总之很没意思 我焦急的等她们回来 https://t.co/OrPLtGIwBp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070536590502531073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwGDxNaEAEur--.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070536590502531073"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2070536596689211717",
+        "created_at": "2026-06-26T15:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070536596689211717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OrPLtGIwBp",
+              "end": 75,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2070536596689211717/photo/1",
+              "media_key": "3_2070536590502531073",
+              "start": 52,
+              "url": "https://t.co/OrPLtGIwBp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070536596689211717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "并没有自由 其次我不是很会打游戏 朋友们要不忙着期末考要不就不在北京 总之很没意思 我焦急的等她们回来 https://t.co/OrPLtGIwBp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2056740509717250518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 99,
+          "like_count": 13307,
+          "listed_count": 1,
+          "media_count": 464,
+          "tweet_count": 4399
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

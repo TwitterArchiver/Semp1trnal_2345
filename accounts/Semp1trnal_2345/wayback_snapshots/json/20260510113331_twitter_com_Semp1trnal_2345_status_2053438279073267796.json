@@ -1,0 +1,114 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053438268944134144"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2053438279073267796",
+    "created_at": "2026-05-10T11:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T12:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053438279073267796"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MrMIw6BN09",
+          "end": 41,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2053438279073267796/photo/1",
+          "media_key": "3_2053438268944134144",
+          "start": 18,
+          "url": "https://t.co/MrMIw6BN09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053438279073267796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我去年穿的这么像个人？！咋回事呢。 https://t.co/MrMIw6BN09"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053438279073267796].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053438279073267796",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053438279073267796"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053438268944134144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9HOdybsAAX3Kk.jpg",
+        "width": 1539
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2039728281235423570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049504904532959232/XKSe-cbm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1421,
+          "following_count": 100,
+          "like_count": 11133,
+          "listed_count": 0,
+          "media_count": 357,
+          "tweet_count": 3712
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

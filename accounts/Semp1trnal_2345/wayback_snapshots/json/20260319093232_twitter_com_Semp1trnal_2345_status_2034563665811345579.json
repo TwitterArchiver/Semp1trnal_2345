@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2034563665811345579",
+    "created_at": "2026-03-19T09:32:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T10:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034563665811345579"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miaw/status/20…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/miaw/status/2034366731628773823",
+          "start": 23,
+          "url": "https://t.co/3K9MCVdiYy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034563665811345579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034366731628773823",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我每次看到都会对着这个格格不入的大拇指笑半天 https://t.co/3K9MCVdiYy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2034147969310797824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDq-zPtaMAAunqr.jpg",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2034563665811345579",
+        "created_at": "2026-03-19T09:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T10:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034563665811345579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miaw/status/20…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/miaw/status/2034366731628773823",
+              "start": 23,
+              "url": "https://t.co/3K9MCVdiYy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034563665811345579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034366731628773823",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我每次看到都会对着这个格格不入的大拇指笑半天 https://t.co/3K9MCVdiYy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034147969310797824"
+          ]
+        },
+        "author_id": "7176332",
+        "conversation_id": "2034366731628773823",
+        "created_at": "2026-03-18T20:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T21:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034366731628773823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4PGa6vxyBn",
+              "end": 35,
+              "expanded_url": "https://x.com/Miaw/status/2034366731628773823/photo/1",
+              "media_key": "3_2034147969310797824",
+              "start": 12,
+              "url": "https://t.co/4PGa6vxyBn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034366731628773823",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 176,
+          "impression_count": 64367,
+          "like_count": 4324,
+          "quote_count": 62,
+          "reply_count": 17,
+          "retweet_count": 738
+        },
+        "reply_settings": "everyone",
+        "text": "could be us https://t.co/4PGa6vxyBn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "我真的不会画画QwQ",
+        "pinned_tweet_id": "2032828087830974579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034491183356059648/QYnwDQiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 100,
+          "like_count": 9060,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 2866
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2007-06-30T20:38:23.000Z",
+        "description": "",
+        "id": "7176332",
+        "location": "🐾",
+        "name": "Miaw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801765217132826624/DvbJoKM1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104659,
+          "following_count": 0,
+          "like_count": 57,
+          "listed_count": 262,
+          "media_count": 2399,
+          "tweet_count": 2426
+        },
+        "username": "Miaw",
+        "verified": true
+      }
+    ]
+  }
+}

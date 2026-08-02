@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061625191881707520",
+        "3_2061625191936233472",
+        "3_2061625191940378624",
+        "3_2061625191927865344"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2061625214119846234",
+    "created_at": "2026-06-02T01:45:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T02:45:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061625214119846234"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oDf6nlH3eQ",
+          "end": 88,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2061625214119846234/photo/1",
+          "media_key": "3_2061625191881707520",
+          "start": 65,
+          "url": "https://t.co/oDf6nlH3eQ"
+        },
+        {
+          "display_url": "pic.x.com/oDf6nlH3eQ",
+          "end": 88,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2061625214119846234/photo/1",
+          "media_key": "3_2061625191936233472",
+          "start": 65,
+          "url": "https://t.co/oDf6nlH3eQ"
+        },
+        {
+          "display_url": "pic.x.com/oDf6nlH3eQ",
+          "end": 88,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2061625214119846234/photo/1",
+          "media_key": "3_2061625191940378624",
+          "start": 65,
+          "url": "https://t.co/oDf6nlH3eQ"
+        },
+        {
+          "display_url": "pic.x.com/oDf6nlH3eQ",
+          "end": 88,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2061625214119846234/photo/1",
+          "media_key": "3_2061625191927865344",
+          "start": 65,
+          "url": "https://t.co/oDf6nlH3eQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061625214119846234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "画画害死我了。我手腕真的要疼死了 从十月份开始每天都是贴着膏药在上课\n我的好朋友把腰画伤了疼的都睡不着觉 前两天去打了封闭\n哎！ https://t.co/oDf6nlH3eQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1303,
+        "media_key": "3_2061625191881707520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxdMGYbEAAW9iU.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1652,
+        "media_key": "3_2061625191936233472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxdMGlbEAAWzQ5.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1643,
+        "media_key": "3_2061625191940378624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxdMGmaUAARX16.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1019,
+        "media_key": "3_2061625191927865344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxdMGjbYAAZxVo.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061625191881707520",
+            "3_2061625191936233472",
+            "3_2061625191940378624",
+            "3_2061625191927865344"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2061625214119846234",
+        "created_at": "2026-06-02T01:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T02:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061625214119846234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oDf6nlH3eQ",
+              "end": 88,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2061625214119846234/photo/1",
+              "media_key": "3_2061625191881707520",
+              "start": 65,
+              "url": "https://t.co/oDf6nlH3eQ"
+            },
+            {
+              "display_url": "pic.x.com/oDf6nlH3eQ",
+              "end": 88,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2061625214119846234/photo/1",
+              "media_key": "3_2061625191936233472",
+              "start": 65,
+              "url": "https://t.co/oDf6nlH3eQ"
+            },
+            {
+              "display_url": "pic.x.com/oDf6nlH3eQ",
+              "end": 88,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2061625214119846234/photo/1",
+              "media_key": "3_2061625191940378624",
+              "start": 65,
+              "url": "https://t.co/oDf6nlH3eQ"
+            },
+            {
+              "display_url": "pic.x.com/oDf6nlH3eQ",
+              "end": 88,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2061625214119846234/photo/1",
+              "media_key": "3_2061625191927865344",
+              "start": 65,
+              "url": "https://t.co/oDf6nlH3eQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061625214119846234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "画画害死我了。我手腕真的要疼死了 从十月份开始每天都是贴着膏药在上课\n我的好朋友把腰画伤了疼的都睡不着觉 前两天去打了封闭\n哎！ https://t.co/oDf6nlH3eQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 99,
+          "like_count": 12496,
+          "listed_count": 1,
+          "media_count": 413,
+          "tweet_count": 4014
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

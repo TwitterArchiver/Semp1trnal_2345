@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059993354373591040",
+        "3_2059993354377760768"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2059993371247317275",
+    "created_at": "2026-05-28T13:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059993371247317275"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/L3wfvgagBN",
+          "end": 90,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2059993371247317275/photo/1",
+          "media_key": "3_2059993354373591040",
+          "start": 67,
+          "url": "https://t.co/L3wfvgagBN"
+        },
+        {
+          "display_url": "pic.x.com/L3wfvgagBN",
+          "end": 90,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2059993371247317275/photo/1",
+          "media_key": "3_2059993354377760768",
+          "start": 67,
+          "url": "https://t.co/L3wfvgagBN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059993371247317275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我最好的男生朋友和他对象复合了没告诉我 还是他今天小号发朋友圈我才知道的。好吧但是其实我也有感情上的事瞒着没告诉他。我也怕他骂我。。 https://t.co/L3wfvgagBN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059993354373591040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaRCp8acAAq82l.jpg",
+        "width": 946
+      },
+      {
+        "height": 1850,
+        "media_key": "3_2059993354377760768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaRCp9aEAA2-eQ.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059993354373591040",
+            "3_2059993354377760768"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059993371247317275",
+        "created_at": "2026-05-28T13:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059993371247317275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L3wfvgagBN",
+              "end": 90,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2059993371247317275/photo/1",
+              "media_key": "3_2059993354373591040",
+              "start": 67,
+              "url": "https://t.co/L3wfvgagBN"
+            },
+            {
+              "display_url": "pic.x.com/L3wfvgagBN",
+              "end": 90,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2059993371247317275/photo/1",
+              "media_key": "3_2059993354377760768",
+              "start": 67,
+              "url": "https://t.co/L3wfvgagBN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059993371247317275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我最好的男生朋友和他对象复合了没告诉我 还是他今天小号发朋友圈我才知道的。好吧但是其实我也有感情上的事瞒着没告诉他。我也怕他骂我。。 https://t.co/L3wfvgagBN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1444,
+          "following_count": 98,
+          "like_count": 12242,
+          "listed_count": 0,
+          "media_count": 404,
+          "tweet_count": 3946
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

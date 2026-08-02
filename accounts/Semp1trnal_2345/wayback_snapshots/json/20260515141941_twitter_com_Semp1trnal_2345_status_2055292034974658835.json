@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055292023251578880",
+        "3_2055292023197069312",
+        "3_2055292023209644034"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2055292034974658835",
+    "created_at": "2026-05-15T14:19:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T15:19:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055292034974658835"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/reNbWM93db",
+          "end": 58,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2055292034974658835/photo/1",
+          "media_key": "3_2055292023251578880",
+          "start": 35,
+          "url": "https://t.co/reNbWM93db"
+        },
+        {
+          "display_url": "pic.x.com/reNbWM93db",
+          "end": 58,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2055292034974658835/photo/1",
+          "media_key": "3_2055292023197069312",
+          "start": 35,
+          "url": "https://t.co/reNbWM93db"
+        },
+        {
+          "display_url": "pic.x.com/reNbWM93db",
+          "end": 58,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2055292034974658835/photo/1",
+          "media_key": "3_2055292023209644034",
+          "start": 35,
+          "url": "https://t.co/reNbWM93db"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055292034974658835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们好我抽了三根烟 我妈说我今天穿的像老太太 可是这个衣服是她给我的 https://t.co/reNbWM93db"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055292023251578880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXdNKuasAAk7Nq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055292023197069312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXdNKha8AAXaIT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055292023209644034",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXdNKka0AIiqiB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055292023251578880",
+            "3_2055292023197069312",
+            "3_2055292023209644034"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2055292034974658835",
+        "created_at": "2026-05-15T14:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055292034974658835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/reNbWM93db",
+              "end": 58,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2055292034974658835/photo/1",
+              "media_key": "3_2055292023251578880",
+              "start": 35,
+              "url": "https://t.co/reNbWM93db"
+            },
+            {
+              "display_url": "pic.x.com/reNbWM93db",
+              "end": 58,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2055292034974658835/photo/1",
+              "media_key": "3_2055292023197069312",
+              "start": 35,
+              "url": "https://t.co/reNbWM93db"
+            },
+            {
+              "display_url": "pic.x.com/reNbWM93db",
+              "end": 58,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2055292034974658835/photo/1",
+              "media_key": "3_2055292023209644034",
+              "start": 35,
+              "url": "https://t.co/reNbWM93db"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055292034974658835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们好我抽了三根烟 我妈说我今天穿的像老太太 可是这个衣服是她给我的 https://t.co/reNbWM93db"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2039728281235423570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1446,
+          "following_count": 100,
+          "like_count": 11449,
+          "listed_count": 0,
+          "media_count": 369,
+          "tweet_count": 3776
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

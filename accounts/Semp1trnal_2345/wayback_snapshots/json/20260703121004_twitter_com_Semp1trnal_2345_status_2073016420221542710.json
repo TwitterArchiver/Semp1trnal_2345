@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2072766320157065687",
+    "created_at": "2026-07-03T12:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T13:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073016420221542710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1632079685436727299",
+          "start": 0,
+          "username": "xxNANAml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073016420221542710",
+    "in_reply_to_user_id": "1632079685436727299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072766320157065687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxNANAml 我有个拼团 她们家做华子的巨闪巨好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15254,
+        "height": 1280,
+        "media_key": "13_2072766256579768320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072766256579768320/img/7jKCGPPKufPIF-6c.jpg",
+        "public_metrics": {
+          "view_count": 1115
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072766256579768320/vid/avc1/320x568/rSev09VpuRFRQkEz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072766256579768320/vid/avc1/480x852/vTSLVw_0-rlYRL6q.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072766256579768320/vid/avc1/720x1280/agJuCuVyV0Eo_Dqr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072766256579768320/pl/4L6SFgPa3zxyJvD4.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2072766320157065687",
+        "created_at": "2026-07-03T12:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T13:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073016420221542710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632079685436727299",
+              "start": 0,
+              "username": "xxNANAml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073016420221542710",
+        "in_reply_to_user_id": "1632079685436727299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072766320157065687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxNANAml 我有个拼团 她们家做华子的巨闪巨好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072766256579768320"
+          ]
+        },
+        "author_id": "1632079685436727299",
+        "conversation_id": "2072766320157065687",
+        "created_at": "2026-07-02T19:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T20:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072766320157065687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DvjlCDlCXU",
+              "end": 45,
+              "expanded_url": "https://x.com/xxNANAml/status/2072766320157065687/video/1",
+              "media_key": "13_2072766256579768320",
+              "start": 22,
+              "url": "https://t.co/DvjlCDlCXU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072766320157065687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3226,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舌钉的膜掉光光了，我准备买新的舌钉来来来。 https://t.co/DvjlCDlCXU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 51,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 28,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 76,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 53,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071888396360794595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1566,
+          "following_count": 101,
+          "like_count": 13607,
+          "listed_count": 1,
+          "media_count": 478,
+          "tweet_count": 4509
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T18:05:03.000Z",
+        "description": "自是人生长恨水长东",
+        "id": "1632079685436727299",
+        "name": "王锦",
+        "pinned_tweet_id": "2061157295976022324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068070792852860928/ii-xR2OT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3384,
+          "following_count": 221,
+          "like_count": 39648,
+          "listed_count": 7,
+          "media_count": 667,
+          "tweet_count": 8415
+        },
+        "url": "",
+        "username": "xxNANAml",
+        "verified": false
+      }
+    ]
+  }
+}

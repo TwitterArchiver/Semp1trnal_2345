@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2069762808477364285",
+    "created_at": "2026-06-24T16:19:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:19:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069817737912930602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1979251596501618688",
+          "start": 0,
+          "username": "foreverabbit77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069817737912930602",
+    "in_reply_to_user_id": "1979251596501618688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069813008470258048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foreverabbit77 忧郁女神。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2069762808477364285",
+        "created_at": "2026-06-24T16:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069817737912930602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1979251596501618688",
+              "start": 0,
+              "username": "foreverabbit77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069817737912930602",
+        "in_reply_to_user_id": "1979251596501618688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069813008470258048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foreverabbit77 忧郁女神。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979251596501618688",
+        "conversation_id": "2069762808477364285",
+        "created_at": "2026-06-24T16:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069813008470258048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069813008470258048",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069762808477364285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 恨嫁了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2056740509717250518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 100,
+          "like_count": 13518,
+          "listed_count": 1,
+          "media_count": 460,
+          "tweet_count": 4360
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T18:22:21.000Z",
+        "description": "谢谢你 被你喜欢和喜欢你都好幸福",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%AC%BA%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%AC%BA%E5%85%94",
+                "start": 0,
+                "url": "https://t.co/J3Ur6oJiUv"
+              }
+            ]
+          }
+        },
+        "id": "1979251596501618688",
+        "location": "世界正中",
+        "name": "欺负一只兔子（摸金版）",
+        "pinned_tweet_id": "2059281369860293004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069379814042312704/83Po2ceW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 137,
+          "like_count": 32243,
+          "listed_count": 1,
+          "media_count": 521,
+          "tweet_count": 11222
+        },
+        "url": "https://t.co/J3Ur6oJiUv",
+        "username": "foreverabbit77",
+        "verified": false
+      }
+    ]
+  }
+}

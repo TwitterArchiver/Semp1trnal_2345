@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064737864395718656"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2064737876563357855",
+    "created_at": "2026-06-10T15:54:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T16:54:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064737876563357855"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fRbH5RZTt8",
+          "end": 27,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2064737876563357855/photo/1",
+          "media_key": "3_2064737864395718656",
+          "start": 4,
+          "url": "https://t.co/fRbH5RZTt8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064737876563357855",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啥嘛！ https://t.co/fRbH5RZTt8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064737864395718656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdsJfGbAAAtOCc.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064737864395718656"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2064737876563357855",
+        "created_at": "2026-06-10T15:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064737876563357855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fRbH5RZTt8",
+              "end": 27,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2064737876563357855/photo/1",
+              "media_key": "3_2064737864395718656",
+              "start": 4,
+              "url": "https://t.co/fRbH5RZTt8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064737876563357855",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啥嘛！ https://t.co/fRbH5RZTt8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1493,
+          "following_count": 102,
+          "like_count": 12765,
+          "listed_count": 1,
+          "media_count": 423,
+          "tweet_count": 4090
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2070055691864457651",
+    "created_at": "2026-06-25T12:04:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T13:04:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070115981817741477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1943313630574878721",
+          "start": 0,
+          "username": "qq1000110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070115981817741477",
+    "in_reply_to_user_id": "1943313630574878721",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070055691864457651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qq1000110 qq！！！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2070055691864457651",
+        "created_at": "2026-06-25T12:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070115981817741477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1943313630574878721",
+              "start": 0,
+              "username": "qq1000110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070115981817741477",
+        "in_reply_to_user_id": "1943313630574878721",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070055691864457651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qq1000110 qq！！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943313630574878721",
+        "conversation_id": "2070055691864457651",
+        "created_at": "2026-06-25T08:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070055691864457651"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070055691864457651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1308,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在的公司不用🪜可以看推看脆看ig哼哼哼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2056740509717250518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 100,
+          "like_count": 13562,
+          "listed_count": 1,
+          "media_count": 461,
+          "tweet_count": 4386
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-10T14:17:42.000Z",
+        "description": "呆萌的度过我的每一天 ｜已有对象 除互关外不闲聊 给我发吊的去死｜@poppoop00小号 只过眼熟互关 不通过不要来问我为什么｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "poppoop00"
+              }
+            ]
+          }
+        },
+        "id": "1943313630574878721",
+        "location": "🦴",
+        "name": "qq",
+        "pinned_tweet_id": "2041351443580440637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006997201981976577/STquAVHv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 177,
+          "like_count": 3447,
+          "listed_count": 1,
+          "media_count": 340,
+          "tweet_count": 3518
+        },
+        "url": "",
+        "username": "qq1000110",
+        "verified": false
+      }
+    ]
+  }
+}

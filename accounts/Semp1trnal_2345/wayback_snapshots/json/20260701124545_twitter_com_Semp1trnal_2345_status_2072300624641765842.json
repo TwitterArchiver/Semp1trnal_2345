@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071888386097303552"
+      ],
+      "media_source_tweet_id": [
+        "2071888396360794595"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2072300624641765842",
+    "created_at": "2026-07-01T12:45:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T13:45:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072300624641765842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1970515784762859520",
+          "start": 3,
+          "username": "Semp1trnal_2345"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7seaCCzBc9",
+          "end": 44,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2071888396360794595/photo/1",
+          "media_key": "3_2071888386097303552",
+          "start": 21,
+          "url": "https://t.co/7seaCCzBc9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072300624641765842",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071888396360794595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Semp1trnal_2345: https://t.co/7seaCCzBc9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2071888386097303552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDTgoOWUAAqE7F.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071888386097303552"
+          ],
+          "media_source_tweet_id": [
+            "2071888396360794595"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2072300624641765842",
+        "created_at": "2026-07-01T12:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T13:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072300624641765842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1970515784762859520",
+              "start": 3,
+              "username": "Semp1trnal_2345"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7seaCCzBc9",
+              "end": 44,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2071888396360794595/photo/1",
+              "media_key": "3_2071888386097303552",
+              "start": 21,
+              "url": "https://t.co/7seaCCzBc9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072300624641765842",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071888396360794595",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Semp1trnal_2345: https://t.co/7seaCCzBc9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071888386097303552"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2071888396360794595",
+        "created_at": "2026-06-30T09:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071888396360794595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7seaCCzBc9",
+              "end": 23,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2071888396360794595/photo/1",
+              "media_key": "3_2071888386097303552",
+              "start": 0,
+              "url": "https://t.co/7seaCCzBc9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071888396360794595",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 741,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7seaCCzBc9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 51,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 28,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 76,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 53,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 100,
+          "like_count": 13502,
+          "listed_count": 1,
+          "media_count": 474,
+          "tweet_count": 4469
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038177229772046336"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2038177241138688094",
+    "created_at": "2026-03-29T08:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T09:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038177241138688094"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zDvIFpHarR",
+          "end": 43,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2038177241138688094/photo/1",
+          "media_key": "3_2038177229772046336",
+          "start": 20,
+          "url": "https://t.co/zDvIFpHarR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038177241138688094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我今天穿的很帅 但是失策了 有点冷卧槽 https://t.co/zDvIFpHarR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038177229772046336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEkPZEnaQAAO3ue.jpg",
+        "width": 2014
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038177229772046336"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2038177241138688094",
+        "created_at": "2026-03-29T08:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T09:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038177241138688094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zDvIFpHarR",
+              "end": 43,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2038177241138688094/photo/1",
+              "media_key": "3_2038177229772046336",
+              "start": 20,
+              "url": "https://t.co/zDvIFpHarR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038177241138688094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天穿的很帅 但是失策了 有点冷卧槽 https://t.co/zDvIFpHarR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "我真的不会画画QwQ",
+        "pinned_tweet_id": "2037029023604498685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034491183356059648/QYnwDQiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 102,
+          "like_count": 9795,
+          "listed_count": 0,
+          "media_count": 280,
+          "tweet_count": 3136
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

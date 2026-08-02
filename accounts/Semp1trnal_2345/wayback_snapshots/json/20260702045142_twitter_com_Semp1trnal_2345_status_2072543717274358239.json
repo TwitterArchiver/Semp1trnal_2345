@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072543711058399232"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2072229563099185510",
+    "created_at": "2026-07-02T04:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T05:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072543717274358239"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "xhslink.com/m/AZfR5uKDwUw",
+          "end": 53,
+          "expanded_url": "https://xhslink.com/m/AZfR5uKDwUw",
+          "start": 30,
+          "unwound_url": "https://www.xiaohongshu.com/goods-detail/67da78c4b6efdb0001ab735b?xsec_token=XBXLmzUd7sCR3N9-tPdbrhI1w0yQSrE03PdBMifUkCCZI%3D&xsec_source=app_share&instation_link=xhsdiscover%3A%2F%2Fgoods_detail%2F67da78c4b6efdb0001ab735b%3Ftrade_ext%3DeyJjaGFubmVsSW5mbyI6bnVsbCwiZHNUb2tlbkluZm8iOm51bGwsInNoYXJlTGluayI6Imh0dHBzOi8vd3d3LnhpYW9ob25nc2h1LmNvbS9nb29kcy1kZXRhaWwvNjdkYTc4YzRiNmVmZGIwMDAxYWI3MzViP2FwcHVpZD02MDFkYWU1NDAwMDAwMDAwMDEwMGI5NzUiLCJzcHVJbmZvIjpudWxsLCJsaXZlSW5mbyI6bnVsbCwic2hvcEluZm8iOm51bGwsImdvb2RzTm90ZUluZm8iOm51bGwsImNoYXRJbmZvIjpudWxsLCJzZWFyY2hJbmZvIjpudWxsLCJwcmVmZXIiOm51bGx9%26rate_limit_meta%3DitemId%253D67da78c4b6efdb0001ab7348%26source%3D%26back_chain_id%3Dgoods_detail_share%26rn%3Dtrue&xhsshare=&appuid=601dae54000000000100b975&apptime=1782933152&share_id=244e9c93e6bc4879a875e4d790e3f5c9&share_channel=copy_link",
+          "url": "https://t.co/yqLSefhUaG"
+        },
+        {
+          "display_url": "pic.x.com/GnG8wOTIGM",
+          "end": 109,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2072543717274358239/photo/1",
+          "media_key": "3_2072543711058399232",
+          "start": 86,
+          "url": "https://t.co/GnG8wOTIGM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072543717274358239",
+    "in_reply_to_user_id": "1970515784762859520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072229563099185510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "【小红书】宽边螺纹低腰短裤 😆 3sCYe2BDwqG 😆 https://t.co/yqLSefhUaG 点击链接或者复制本条信息打开【小红书app】查看 HU7615 https://t.co/GnG8wOTIGM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072543711058399232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMnhj8bEAAyIDO.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072543711058399232"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2072229563099185510",
+        "created_at": "2026-07-02T04:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072543717274358239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "xhslink.com/m/AZfR5uKDwUw",
+              "end": 53,
+              "expanded_url": "https://xhslink.com/m/AZfR5uKDwUw",
+              "start": 30,
+              "unwound_url": "https://www.xiaohongshu.com/goods-detail/67da78c4b6efdb0001ab735b?xsec_token=XBXLmzUd7sCR3N9-tPdbrhI1w0yQSrE03PdBMifUkCCZI%3D&xsec_source=app_share&instation_link=xhsdiscover%3A%2F%2Fgoods_detail%2F67da78c4b6efdb0001ab735b%3Ftrade_ext%3DeyJjaGFubmVsSW5mbyI6bnVsbCwiZHNUb2tlbkluZm8iOm51bGwsInNoYXJlTGluayI6Imh0dHBzOi8vd3d3LnhpYW9ob25nc2h1LmNvbS9nb29kcy1kZXRhaWwvNjdkYTc4YzRiNmVmZGIwMDAxYWI3MzViP2FwcHVpZD02MDFkYWU1NDAwMDAwMDAwMDEwMGI5NzUiLCJzcHVJbmZvIjpudWxsLCJsaXZlSW5mbyI6bnVsbCwic2hvcEluZm8iOm51bGwsImdvb2RzTm90ZUluZm8iOm51bGwsImNoYXRJbmZvIjpudWxsLCJzZWFyY2hJbmZvIjpudWxsLCJwcmVmZXIiOm51bGx9%26rate_limit_meta%3DitemId%253D67da78c4b6efdb0001ab7348%26source%3D%26back_chain_id%3Dgoods_detail_share%26rn%3Dtrue&xhsshare=&appuid=601dae54000000000100b975&apptime=1782933152&share_id=244e9c93e6bc4879a875e4d790e3f5c9&share_channel=copy_link",
+              "url": "https://t.co/yqLSefhUaG"
+            },
+            {
+              "display_url": "pic.x.com/GnG8wOTIGM",
+              "end": 109,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2072543717274358239/photo/1",
+              "media_key": "3_2072543711058399232",
+              "start": 86,
+              "url": "https://t.co/GnG8wOTIGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072543717274358239",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072229563099185510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【小红书】宽边螺纹低腰短裤 😆 3sCYe2BDwqG 😆 https://t.co/yqLSefhUaG 点击链接或者复制本条信息打开【小红书app】查看 HU7615 https://t.co/GnG8wOTIGM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2072229563099185510",
+        "created_at": "2026-07-01T08:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T09:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072229563099185510"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072229563099185510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1440,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "求天使女孩们给我推荐一点短裤和吊带！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 51,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 28,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 76,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 53,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 100,
+          "like_count": 13515,
+          "listed_count": 1,
+          "media_count": 475,
+          "tweet_count": 4475
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

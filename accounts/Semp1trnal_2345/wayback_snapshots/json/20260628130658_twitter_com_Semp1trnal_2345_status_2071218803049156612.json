@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2071218803049156612",
+    "created_at": "2026-06-28T13:06:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T14:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071218803049156612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2060447695375044608",
+          "start": 3,
+          "username": "xiaotu088"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071218803049156612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070859062850515115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaotu088: 我真的好害怕那种长得又帅个子又高又给我花钱控制欲又强的男的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2071218803049156612",
+        "created_at": "2026-06-28T13:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071218803049156612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060447695375044608",
+              "start": 3,
+              "username": "xiaotu088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071218803049156612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070859062850515115",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaotu088: 我真的好害怕那种长得又帅个子又高又给我花钱控制欲又强的男的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060447695375044608",
+        "conversation_id": "2070859062850515115",
+        "created_at": "2026-06-27T13:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070859062850515115"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070859062850515115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 30218,
+          "like_count": 304,
+          "quote_count": 11,
+          "reply_count": 78,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "我真的好害怕那种长得又帅个子又高又给我花钱控制欲又强的男的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2056740509717250518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 100,
+          "like_count": 13380,
+          "listed_count": 1,
+          "media_count": 469,
+          "tweet_count": 4425
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-29T19:49:48.000Z",
+        "description": "随便倒点垃圾",
+        "id": "2060447695375044608",
+        "location": "老人机没有v",
+        "name": "two",
+        "pinned_tweet_id": "2065001271099314334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060448722698514432/_HVmp_Ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 9,
+          "like_count": 395,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 276
+        },
+        "url": "",
+        "username": "xiaotu088",
+        "verified": false
+      }
+    ]
+  }
+}

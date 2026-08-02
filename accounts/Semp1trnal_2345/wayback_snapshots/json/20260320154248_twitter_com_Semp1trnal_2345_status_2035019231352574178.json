@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035019222284476419"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2034992583118921793",
+    "created_at": "2026-03-20T15:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T16:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035019231352574178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1379398295043203073",
+          "start": 0,
+          "username": "saiboaimi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rPcbSf7F7k",
+          "end": 40,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2035019231352574178/photo/1",
+          "media_key": "3_2035019222284476419",
+          "start": 17,
+          "url": "https://t.co/rPcbSf7F7k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035019231352574178",
+    "in_reply_to_user_id": "1379398295043203073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035019021465395308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saiboaimi 快拿走吧。 https://t.co/rPcbSf7F7k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2035019222284476419",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD3XM19boAMt_ZK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035019222284476419"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2034992583118921793",
+        "created_at": "2026-03-20T15:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T16:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035019231352574178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1379398295043203073",
+              "start": 0,
+              "username": "saiboaimi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rPcbSf7F7k",
+              "end": 40,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2035019231352574178/photo/1",
+              "media_key": "3_2035019222284476419",
+              "start": 17,
+              "url": "https://t.co/rPcbSf7F7k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035019231352574178",
+        "in_reply_to_user_id": "1379398295043203073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035019021465395308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saiboaimi 快拿走吧。 https://t.co/rPcbSf7F7k"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1379398295043203073",
+        "conversation_id": "2034992583118921793",
+        "created_at": "2026-03-20T15:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T16:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035019021465395308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035019021465395308",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034992583118921793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 好想要对面那张图"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "我真的不会画画QwQ",
+        "pinned_tweet_id": "2032352051586613370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034491183356059648/QYnwDQiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 100,
+          "like_count": 9373,
+          "listed_count": 0,
+          "media_count": 265,
+          "tweet_count": 2969
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-06T11:39:31.000Z",
+        "description": "励志成为一名快乐的水晶矿工",
+        "id": "1379398295043203073",
+        "location": "我是赛博豚豚",
+        "name": "赛博坦智能仿生AI高级特工（天生倒霉扫把星圣体）",
+        "pinned_tweet_id": "1995733764819804363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905279601737142272/zf8lQzPS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 1460,
+          "like_count": 707,
+          "listed_count": 4,
+          "media_count": 261,
+          "tweet_count": 1936
+        },
+        "username": "saiboaimi",
+        "verified": false
+      }
+    ]
+  }
+}

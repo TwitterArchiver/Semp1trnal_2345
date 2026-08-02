@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2066182657038553299",
+    "created_at": "2026-06-15T02:01:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T03:01:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066340343822569822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1459551635101810690",
+          "start": 0,
+          "username": "justcion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066340343822569822",
+    "in_reply_to_user_id": "1459551635101810690",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066224226466725917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@justcion 我不行了呀！！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1092,
+        "media_key": "3_2066224217335660544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyz-nSaAAAKWSO.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1273,
+        "media_key": "3_2066224217335754752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyz-nSbcAAHepL.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2066182657038553299",
+        "created_at": "2026-06-15T02:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T03:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066340343822569822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1459551635101810690",
+              "start": 0,
+              "username": "justcion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066340343822569822",
+        "in_reply_to_user_id": "1459551635101810690",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066224226466725917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@justcion 我不行了呀！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066224217335660544",
+            "3_2066224217335754752"
+          ]
+        },
+        "author_id": "1459551635101810690",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066182657038553299",
+        "created_at": "2026-06-14T18:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066224226466725917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bqc2N3BYIZ",
+              "end": 42,
+              "expanded_url": "https://x.com/justcion/status/2066224226466725917/photo/1",
+              "media_key": "3_2066224217335660544",
+              "start": 19,
+              "url": "https://t.co/bqc2N3BYIZ"
+            },
+            {
+              "display_url": "pic.x.com/bqc2N3BYIZ",
+              "end": 42,
+              "expanded_url": "https://x.com/justcion/status/2066224226466725917/photo/1",
+              "media_key": "3_2066224217335754752",
+              "start": 19,
+              "url": "https://t.co/bqc2N3BYIZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066224226466725917",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066182657038553299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 🥲 https://t.co/bqc2N3BYIZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 101,
+          "like_count": 13005,
+          "listed_count": 1,
+          "media_count": 431,
+          "tweet_count": 4169
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-13T16:00:10.000Z",
+        "description": "原万fo大号@JDREAM_006已被封 06 switch \n已过大叔验证\n有想要电子烟的宝宝欢迎来找我咨询哦 🎂：6.26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "JDREAM_006"
+              }
+            ]
+          }
+        },
+        "id": "1459551635101810690",
+        "location": "深圳",
+        "name": "JUSTCION(攒钱买脱毛仪版）",
+        "pinned_tweet_id": "2065373550656303485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824270280598097921/dObGw0p3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3890,
+          "following_count": 863,
+          "like_count": 14749,
+          "listed_count": 19,
+          "media_count": 86,
+          "tweet_count": 289
+        },
+        "username": "justcion",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2072977482647851413",
+    "created_at": "2026-07-03T16:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T17:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073086808989303104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1875078708295561216",
+          "start": 0,
+          "username": "bgsnwss133956"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073086808989303104",
+    "in_reply_to_user_id": "1875078708295561216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073086078404460613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bgsnwss133956 懂我的人终于出现...特别是对方还是我不喜欢的人..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2072977482647851413",
+        "created_at": "2026-07-03T16:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073086808989303104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1875078708295561216",
+              "start": 0,
+              "username": "bgsnwss133956"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073086808989303104",
+        "in_reply_to_user_id": "1875078708295561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073086078404460613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bgsnwss133956 懂我的人终于出现...特别是对方还是我不喜欢的人..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875078708295561216",
+        "conversation_id": "2072977482647851413",
+        "created_at": "2026-07-03T16:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073086078404460613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073086078404460613",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072977482647851413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 我太懂了，尤其是我先发那个人后发，结果就是共友只能刷那个人的朋友圈然后只给他点了赞。我这种高敏感人真的会很在意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 51,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 28,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 76,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 53,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 101,
+          "like_count": 13646,
+          "listed_count": 1,
+          "media_count": 480,
+          "tweet_count": 4531
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T07:17:35.000Z",
+        "description": "",
+        "id": "1875078708295561216",
+        "name": "Christineee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030000350695137280/nB03Ymqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 7,
+          "like_count": 1665,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 191
+        },
+        "url": "",
+        "username": "bgsnwss133956",
+        "verified": false
+      }
+    ]
+  }
+}

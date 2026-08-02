@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2078110450512969733",
+    "created_at": "2026-07-17T13:51:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T14:51:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078115464635715731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1913160251551227904",
+          "start": 0,
+          "username": "ustgr6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078115464635715731",
+    "in_reply_to_user_id": "1913160251551227904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078110450512969733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ustgr6 好漂亮！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078110427821850624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbubH5bQAAWNj2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2078110450512969733",
+        "created_at": "2026-07-17T13:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078115464635715731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1913160251551227904",
+              "start": 0,
+              "username": "ustgr6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078115464635715731",
+        "in_reply_to_user_id": "1913160251551227904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078110450512969733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ustgr6 好漂亮！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078110427821850624"
+          ]
+        },
+        "author_id": "1913160251551227904",
+        "conversation_id": "2078110450512969733",
+        "created_at": "2026-07-17T13:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078110450512969733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QZrw2KkfdG",
+              "end": 23,
+              "expanded_url": "https://x.com/ustgr6/status/2078110450512969733/photo/1",
+              "media_key": "3_2078110427821850624",
+              "start": 0,
+              "url": "https://t.co/QZrw2KkfdG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078110450512969733",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 199,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QZrw2KkfdG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 90,
+          "like_count": 14079,
+          "listed_count": 1,
+          "media_count": 507,
+          "tweet_count": 4727
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-18T09:19:07.000Z",
+        "description": "惹我的出门摔进粪坑\nsw 不加v 只和喜欢的互关\n除了简介其他的话都不要信\n@Zz3_yne慎加",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "Zz3_yne"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ineedahug75835",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ineedahug75835",
+                "start": 0,
+                "url": "https://t.co/W0GgiQAFhE"
+              }
+            ]
+          }
+        },
+        "id": "1913160251551227904",
+        "location": "不认识不陪聊不加好友",
+        "name": "1",
+        "pinned_tweet_id": "2066504221864706367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072030178264387584/Q9VZyeRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2292,
+          "following_count": 624,
+          "like_count": 24084,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 2280
+        },
+        "url": "https://t.co/W0GgiQAFhE",
+        "username": "ustgr6",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2048053503596388771",
+    "created_at": "2026-04-26T02:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T03:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048220720451534926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1979980670656286720",
+          "start": 0,
+          "username": "xixi0715dd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048220720451534926",
+    "in_reply_to_user_id": "1979980670656286720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048214785087709344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixi0715dd 我知道惹！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2048053503596388771",
+        "created_at": "2026-04-26T02:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T03:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048220720451534926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1979980670656286720",
+              "start": 0,
+              "username": "xixi0715dd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048220720451534926",
+        "in_reply_to_user_id": "1979980670656286720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048214785087709344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixi0715dd 我知道惹！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979980670656286720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2048053503596388771",
+        "created_at": "2026-04-26T01:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T02:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048214785087709344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048214785087709344",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048053503596388771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 真的好瘦……宝宝你要多吃饭，太瘦也会不健康的，很容易磕碰到一下下就长淤青，我们这边风特别大，太瘦很容易被吹飞……是真的不夸张，因为我就被吹飞过，现在长胖了就好多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2039728281235423570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034491183356059648/QYnwDQiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 100,
+          "like_count": 10570,
+          "listed_count": 0,
+          "media_count": 317,
+          "tweet_count": 3484
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-19T18:39:25.000Z",
+        "description": "原账号@XCRF111被盗了😭 广告真假自辨 陪玩陪聊不免费不线下不约 有🚪无区别都是绿色陪聊 卖手绳 目前在仰光不飞国内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "XCRF111"
+              }
+            ]
+          }
+        },
+        "id": "1979980670656286720",
+        "location": "🚪88/199/289/520/1314/5200",
+        "name": "xi xi",
+        "pinned_tweet_id": "2043612697108123887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979980807637745664/oZoLSWHr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514,
+          "following_count": 158,
+          "like_count": 9461,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1088
+        },
+        "username": "xixi0715dd",
+        "verified": false
+      }
+    ]
+  }
+}

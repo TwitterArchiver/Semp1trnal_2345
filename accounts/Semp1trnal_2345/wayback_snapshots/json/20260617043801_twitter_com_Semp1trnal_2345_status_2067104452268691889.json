@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067104440092708864"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2067104452268691889",
+    "created_at": "2026-06-17T04:38:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T05:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067104452268691889"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XkmcBN99vM",
+          "end": 76,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2067104452268691889/photo/1",
+          "media_key": "3_2067104440092708864",
+          "start": 53,
+          "url": "https://t.co/XkmcBN99vM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067104452268691889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是美术生 我也考了美术类院校我也上了美术类院校  我之前指的是央美国美这种完全专业类呀！纯艺不适合人家 https://t.co/XkmcBN99vM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067104440092708864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_UiUlb0AAfW-r.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067104440092708864"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2067104452268691889",
+        "created_at": "2026-06-17T04:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067104452268691889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XkmcBN99vM",
+              "end": 76,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2067104452268691889/photo/1",
+              "media_key": "3_2067104440092708864",
+              "start": 53,
+              "url": "https://t.co/XkmcBN99vM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067104452268691889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是美术生 我也考了美术类院校我也上了美术类院校  我之前指的是央美国美这种完全专业类呀！纯艺不适合人家 https://t.co/XkmcBN99vM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 104,
+          "like_count": 13099,
+          "listed_count": 1,
+          "media_count": 440,
+          "tweet_count": 4209
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

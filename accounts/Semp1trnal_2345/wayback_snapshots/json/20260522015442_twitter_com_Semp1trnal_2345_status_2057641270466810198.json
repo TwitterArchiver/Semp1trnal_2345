@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057641261155414016"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2057641270466810198",
+    "created_at": "2026-05-22T01:54:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T02:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057641270466810198"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/svGLOrY8Vg",
+          "end": 38,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2057641270466810198/photo/1",
+          "media_key": "3_2057641261155414016",
+          "start": 15,
+          "url": "https://t.co/svGLOrY8Vg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057641270466810198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🤔两个人在一起不能只看脸吧！ https://t.co/svGLOrY8Vg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1257,
+        "media_key": "3_2057641261155414016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI410z5a8AA5z-B.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057641261155414016"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2057641270466810198",
+        "created_at": "2026-05-22T01:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T02:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057641270466810198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/svGLOrY8Vg",
+              "end": 38,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2057641270466810198/photo/1",
+              "media_key": "3_2057641261155414016",
+              "start": 15,
+              "url": "https://t.co/svGLOrY8Vg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057641270466810198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤔两个人在一起不能只看脸吧！ https://t.co/svGLOrY8Vg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 99,
+          "like_count": 11919,
+          "listed_count": 0,
+          "media_count": 393,
+          "tweet_count": 3872
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076663727072649216",
+        "3_2076663727076896768",
+        "3_2076663727110385665",
+        "3_2076663727081005056"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2076663734748209289",
+    "created_at": "2026-07-13T13:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T14:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076663734748209289"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VYfXaTxd8R",
+          "end": 34,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2076663734748209289/photo/1",
+          "media_key": "3_2076663727072649216",
+          "start": 11,
+          "url": "https://t.co/VYfXaTxd8R"
+        },
+        {
+          "display_url": "pic.x.com/VYfXaTxd8R",
+          "end": 34,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2076663734748209289/photo/1",
+          "media_key": "3_2076663727076896768",
+          "start": 11,
+          "url": "https://t.co/VYfXaTxd8R"
+        },
+        {
+          "display_url": "pic.x.com/VYfXaTxd8R",
+          "end": 34,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2076663734748209289/photo/1",
+          "media_key": "3_2076663727110385665",
+          "start": 11,
+          "url": "https://t.co/VYfXaTxd8R"
+        },
+        {
+          "display_url": "pic.x.com/VYfXaTxd8R",
+          "end": 34,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2076663734748209289/photo/1",
+          "media_key": "3_2076663727081005056",
+          "start": 11,
+          "url": "https://t.co/VYfXaTxd8R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076663734748209289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "墨在中国没有工作的天 https://t.co/VYfXaTxd8R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076663727072649216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHKqDoaoAAgpNp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076663727076896768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHKqDpbcAAyQms.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076663727110385665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHKqDxacAE3Wd8.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076663727081005056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHKqDqaIAAywbA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076663727072649216",
+            "3_2076663727076896768",
+            "3_2076663727110385665",
+            "3_2076663727081005056"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2076663734748209289",
+        "created_at": "2026-07-13T13:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076663734748209289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VYfXaTxd8R",
+              "end": 34,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2076663734748209289/photo/1",
+              "media_key": "3_2076663727072649216",
+              "start": 11,
+              "url": "https://t.co/VYfXaTxd8R"
+            },
+            {
+              "display_url": "pic.x.com/VYfXaTxd8R",
+              "end": 34,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2076663734748209289/photo/1",
+              "media_key": "3_2076663727076896768",
+              "start": 11,
+              "url": "https://t.co/VYfXaTxd8R"
+            },
+            {
+              "display_url": "pic.x.com/VYfXaTxd8R",
+              "end": 34,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2076663734748209289/photo/1",
+              "media_key": "3_2076663727110385665",
+              "start": 11,
+              "url": "https://t.co/VYfXaTxd8R"
+            },
+            {
+              "display_url": "pic.x.com/VYfXaTxd8R",
+              "end": 34,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2076663734748209289/photo/1",
+              "media_key": "3_2076663727081005056",
+              "start": 11,
+              "url": "https://t.co/VYfXaTxd8R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076663734748209289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "墨在中国没有工作的天 https://t.co/VYfXaTxd8R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 91,
+          "like_count": 14037,
+          "listed_count": 1,
+          "media_count": 504,
+          "tweet_count": 4700
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": true
+      }
+    ]
+  }
+}

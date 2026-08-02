@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2055948016595710256",
+    "created_at": "2026-05-17T09:46:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T10:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055948016595710256"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/semp1trnal_234…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/semp1trnal_2345/status/2054387643186905178",
+          "start": 16,
+          "url": "https://t.co/Gq1pdFCHdT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055948016595710256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054387643186905178",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯但是去店里看了一圈还是想买。 https://t.co/Gq1pdFCHdT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2055948016595710256",
+        "created_at": "2026-05-17T09:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055948016595710256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/semp1trnal_234…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/semp1trnal_2345/status/2054387643186905178",
+              "start": 16,
+              "url": "https://t.co/Gq1pdFCHdT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055948016595710256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054387643186905178",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯但是去店里看了一圈还是想买。 https://t.co/Gq1pdFCHdT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2054387643186905178",
+        "created_at": "2026-05-13T02:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T03:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054387643186905178"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054387643186905178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 500,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我拒绝西太后所有立体的球  因为我们这种无胸之人走路的时候那个球会狠狠的击打我胸中间的那个 呃 鞍部。嗯 很痛啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2039728281235423570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450,
+          "following_count": 100,
+          "like_count": 11568,
+          "listed_count": 0,
+          "media_count": 376,
+          "tweet_count": 3798
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

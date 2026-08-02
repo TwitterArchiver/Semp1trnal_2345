@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065382296627322880"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2065382310233677973",
+    "created_at": "2026-06-12T10:34:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:34:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065382310233677973"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vU2Fjb75pm",
+          "end": 44,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2065382310233677973/photo/1",
+          "media_key": "3_2065382296627322880",
+          "start": 21,
+          "url": "https://t.co/vU2Fjb75pm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065382310233677973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢但是哼哼哼哼哼哼哼我原相机真的好丑呀 https://t.co/vU2Fjb75pm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065382296627322880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKm2QYPaIAA7lfK.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065382296627322880"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2065382310233677973",
+        "created_at": "2026-06-12T10:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065382310233677973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vU2Fjb75pm",
+              "end": 44,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2065382310233677973/photo/1",
+              "media_key": "3_2065382296627322880",
+              "start": 21,
+              "url": "https://t.co/vU2Fjb75pm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065382310233677973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢但是哼哼哼哼哼哼哼我原相机真的好丑呀 https://t.co/vU2Fjb75pm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514,
+          "following_count": 102,
+          "like_count": 12822,
+          "listed_count": 1,
+          "media_count": 427,
+          "tweet_count": 4107
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2054111736878555219",
+    "created_at": "2026-05-12T09:32:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T10:32:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054132578287026398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1979251596501618688",
+          "start": 0,
+          "username": "foreverabbit77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054132578287026398",
+    "in_reply_to_user_id": "1979251596501618688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054111736878555219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foreverabbit77 太可爱。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5033,
+        "height": 1280,
+        "media_key": "13_2054111675838844928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054111675838844928/img/HTD1GChKbSrzhKri.jpg",
+        "public_metrics": {
+          "view_count": 111
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054111675838844928/vid/avc1/320x568/I_B5oonSF-pnrTTj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054111675838844928/vid/avc1/480x852/dVaoug7KIx608xll.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054111675838844928/vid/avc1/720x1280/n7CbT3mR7aGw5XTM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054111675838844928/pl/0Ass6f280-U3RB9R.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2054111736878555219",
+        "created_at": "2026-05-12T09:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T10:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054132578287026398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1979251596501618688",
+              "start": 0,
+              "username": "foreverabbit77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054132578287026398",
+        "in_reply_to_user_id": "1979251596501618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054111736878555219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foreverabbit77 太可爱。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054111675838844928"
+          ]
+        },
+        "author_id": "1979251596501618688",
+        "conversation_id": "2054111736878555219",
+        "created_at": "2026-05-12T08:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T09:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054111736878555219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kcJtZRhIPY",
+              "end": 27,
+              "expanded_url": "https://x.com/foreverabbit77/status/2054111736878555219/video/1",
+              "media_key": "13_2054111675838844928",
+              "start": 4,
+              "url": "https://t.co/kcJtZRhIPY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054111736878555219",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 573,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可是呢 https://t.co/kcJtZRhIPY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2039728281235423570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049504904532959232/XKSe-cbm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 98,
+          "like_count": 11243,
+          "listed_count": 0,
+          "media_count": 357,
+          "tweet_count": 3729
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T18:22:21.000Z",
+        "description": "只想留下最喜欢我和我最喜欢的人。",
+        "id": "1979251596501618688",
+        "location": "世界正中",
+        "name": "欺负一只兔子？",
+        "pinned_tweet_id": "2053671212694532261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053165792347435008/5zTJ7dNy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 130,
+          "like_count": 30672,
+          "listed_count": 1,
+          "media_count": 433,
+          "tweet_count": 10359
+        },
+        "username": "foreverabbit77",
+        "verified": false
+      }
+    ]
+  }
+}

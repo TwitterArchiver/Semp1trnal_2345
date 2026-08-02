@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2075473194467950970",
+    "created_at": "2026-07-10T12:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T13:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075557545000010206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057805638223216640",
+          "start": 0,
+          "username": "ZHANG437383"
+        },
+        {
+          "end": 23,
+          "id": "1682778677912965121",
+          "start": 13,
+          "username": "iluvTvT_7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075557545000010206",
+    "in_reply_to_user_id": "2057805638223216640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075556245960843576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZHANG437383 @iluvTvT_7 你是哪个 谁问你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2075473194467950970",
+        "created_at": "2026-07-10T12:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075557545000010206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057805638223216640",
+              "start": 0,
+              "username": "ZHANG437383"
+            },
+            {
+              "end": 23,
+              "id": "1682778677912965121",
+              "start": 13,
+              "username": "iluvTvT_7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075557545000010206",
+        "in_reply_to_user_id": "2057805638223216640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075556245960843576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZHANG437383 @iluvTvT_7 你是哪个 谁问你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057805638223216640",
+        "conversation_id": "2075473194467950970",
+        "created_at": "2026-07-10T12:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075556245960843576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            },
+            {
+              "end": 27,
+              "id": "1682778677912965121",
+              "start": 17,
+              "username": "iluvTvT_7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075556245960843576",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075555922886468087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 @iluvTvT_7 玩😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 94,
+          "like_count": 13942,
+          "listed_count": 1,
+          "media_count": 496,
+          "tweet_count": 4657
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-22T12:48:08.000Z",
+        "description": "",
+        "id": "2057805638223216640",
+        "name": "ZHANG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063431173674536960/LZhv09f5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 13,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "ZHANG437383",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T15:44:45.000Z",
+        "description": "许愿一个不会焦虑的明天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/chicken527ovo",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/chicken527ovo",
+                "start": 0,
+                "url": "https://t.co/7gMcs1ojHs"
+              }
+            ]
+          }
+        },
+        "id": "1682778677912965121",
+        "location": "匿名箱在",
+        "name": "世萌一",
+        "pinned_tweet_id": "2060021041888698741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054719011666239489/pxGq84m6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 95,
+          "like_count": 34777,
+          "listed_count": 3,
+          "media_count": 1044,
+          "tweet_count": 16343
+        },
+        "url": "https://t.co/7gMcs1ojHs",
+        "username": "iluvTvT_7",
+        "verified": true
+      }
+    ]
+  }
+}

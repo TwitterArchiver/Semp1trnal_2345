@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2064257662104338580",
+    "created_at": "2026-06-09T13:40:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T14:40:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064341966369001892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1997761628465676288",
+          "start": 0,
+          "username": "JessicaCla59959"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064341966369001892",
+    "in_reply_to_user_id": "1997761628465676288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064337414794227789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JessicaCla59959 没事 直到今天下午考完我也是个啥也没学的状态"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 503,
+        "media_key": "3_2064337412214644736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKX_8GeaYAAbpYc.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2064257662104338580",
+        "created_at": "2026-06-09T13:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064341966369001892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1997761628465676288",
+              "start": 0,
+              "username": "JessicaCla59959"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064341966369001892",
+        "in_reply_to_user_id": "1997761628465676288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064337414794227789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JessicaCla59959 没事 直到今天下午考完我也是个啥也没学的状态"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064337412214644736"
+          ]
+        },
+        "author_id": "1997761628465676288",
+        "conversation_id": "2064257662104338580",
+        "created_at": "2026-06-09T13:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064337414794227789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CTSxMj4m0d",
+              "end": 40,
+              "expanded_url": "https://x.com/JessicaCla59959/status/2064337414794227789/photo/1",
+              "media_key": "3_2064337412214644736",
+              "start": 17,
+              "url": "https://t.co/CTSxMj4m0d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064337414794227789",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064257662104338580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 https://t.co/CTSxMj4m0d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 102,
+          "like_count": 12728,
+          "listed_count": 1,
+          "media_count": 419,
+          "tweet_count": 4076
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T20:14:36.000Z",
+        "description": "https://t.co/DgXA9fJhLx    能和我说话吗？",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jessicacla5995…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jessicacla599591",
+                "start": 0,
+                "url": "https://t.co/DgXA9fJhLx"
+              }
+            ]
+          }
+        },
+        "id": "1997761628465676288",
+        "name": "空怀表",
+        "pinned_tweet_id": "2058326504820613507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063218811260801024/0rqEtRJR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 129,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 107
+        },
+        "username": "JessicaCla59959",
+        "verified": false
+      }
+    ]
+  }
+}

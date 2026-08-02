@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2039662683910553868",
+    "created_at": "2026-04-02T12:03:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T13:03:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039675140330668451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2024418995957616643",
+          "start": 0,
+          "username": "AasAa1237769"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039675140330668451",
+    "in_reply_to_user_id": "2024418995957616643",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039674966350671905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AasAa1237769 误入歧途很久了。！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2039662683910553868",
+        "created_at": "2026-04-02T12:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T13:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039675140330668451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2024418995957616643",
+              "start": 0,
+              "username": "AasAa1237769"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039675140330668451",
+        "in_reply_to_user_id": "2024418995957616643",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039674966350671905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AasAa1237769 误入歧途很久了。！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024418995957616643",
+        "conversation_id": "2039662683910553868",
+        "created_at": "2026-04-02T12:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T13:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039674966350671905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039674966350671905",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039662683910553868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 欢迎误入歧途（严肃）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "我真的不会画画QwQ",
+        "pinned_tweet_id": "2037029023604498685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034491183356059648/QYnwDQiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 101,
+          "like_count": 9859,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 3166
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-19T09:41:38.000Z",
+        "description": "一心一意过好自己的屌丝生活\nhttps://t.co/SU2kdPhYnC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hhh26209",
+                "end": 37,
+                "expanded_url": "https://ngl.link/hhh26209",
+                "start": 14,
+                "url": "https://t.co/SU2kdPhYnC"
+              }
+            ]
+          }
+        },
+        "id": "2024418995957616643",
+        "location": "距你250m",
+        "name": "没素质",
+        "pinned_tweet_id": "2028514876964901239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035709789779742720/_hH7q-Hf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 92,
+          "like_count": 1739,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1620
+        },
+        "username": "AasAa1237769",
+        "verified": false
+      }
+    ]
+  }
+}

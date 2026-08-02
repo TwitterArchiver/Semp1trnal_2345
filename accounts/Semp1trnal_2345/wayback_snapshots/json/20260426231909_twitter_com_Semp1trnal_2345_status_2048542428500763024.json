@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2048309638123364516",
+    "created_at": "2026-04-26T23:19:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T00:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048542428500763024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1825192601634668544",
+          "start": 0,
+          "username": "dzt76570"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048542428500763024",
+    "in_reply_to_user_id": "1825192601634668544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048450428938101014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dzt76570 看吧 我就说完蛋了吧 这种东西只能称之为普通。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1679,
+        "media_key": "3_2048450426362822656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2Oz0NagAAlKUe.jpg",
+        "width": 1210
+      },
+      {
+        "height": 1679,
+        "media_key": "3_2048450424815140864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2OzucawAANVtX.jpg",
+        "width": 831
+      },
+      {
+        "height": 1679,
+        "media_key": "3_2048450424886423552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2OzutacAAR_IQ.jpg",
+        "width": 831
+      },
+      {
+        "height": 1679,
+        "media_key": "3_2048450425658195968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2OzxlawAASkCn.jpg",
+        "width": 831
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2048309638123364516",
+        "created_at": "2026-04-26T23:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T00:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048542428500763024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1825192601634668544",
+              "start": 0,
+              "username": "dzt76570"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048542428500763024",
+        "in_reply_to_user_id": "1825192601634668544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048450428938101014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dzt76570 看吧 我就说完蛋了吧 这种东西只能称之为普通。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048450426362822656",
+            "3_2048450424815140864",
+            "3_2048450424886423552",
+            "3_2048450425658195968"
+          ]
+        },
+        "author_id": "1825192601634668544",
+        "conversation_id": "2048309638123364516",
+        "created_at": "2026-04-26T17:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048450428938101014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SVWTC9kT50",
+              "end": 69,
+              "expanded_url": "https://x.com/dzt76570/status/2048450428938101014/photo/1",
+              "media_key": "3_2048450426362822656",
+              "start": 46,
+              "url": "https://t.co/SVWTC9kT50"
+            },
+            {
+              "display_url": "pic.x.com/SVWTC9kT50",
+              "end": 69,
+              "expanded_url": "https://x.com/dzt76570/status/2048450428938101014/photo/1",
+              "media_key": "3_2048450424815140864",
+              "start": 46,
+              "url": "https://t.co/SVWTC9kT50"
+            },
+            {
+              "display_url": "pic.x.com/SVWTC9kT50",
+              "end": 69,
+              "expanded_url": "https://x.com/dzt76570/status/2048450428938101014/photo/1",
+              "media_key": "3_2048450424886423552",
+              "start": 46,
+              "url": "https://t.co/SVWTC9kT50"
+            },
+            {
+              "display_url": "pic.x.com/SVWTC9kT50",
+              "end": 69,
+              "expanded_url": "https://x.com/dzt76570/status/2048450428938101014/photo/1",
+              "media_key": "3_2048450425658195968",
+              "start": 46,
+              "url": "https://t.co/SVWTC9kT50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048450428938101014",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048309638123364516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 没那么不堪吧，你不去找好看的天天看那俩丑的就觉得完蛋了？ https://t.co/SVWTC9kT50"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034491183356059648/QYnwDQiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 100,
+          "like_count": 10758,
+          "listed_count": 0,
+          "media_count": 322,
+          "tweet_count": 3525
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T15:27:05.000Z",
+        "description": "",
+        "id": "1825192601634668544",
+        "name": "rano_723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044783504253411328/dw61GY_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 3,
+          "like_count": 74,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 235
+        },
+        "username": "dzt76570",
+        "verified": false
+      }
+    ]
+  }
+}

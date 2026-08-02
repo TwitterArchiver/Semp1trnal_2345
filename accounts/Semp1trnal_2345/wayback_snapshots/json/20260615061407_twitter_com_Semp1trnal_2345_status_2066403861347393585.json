@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2066362867939770402",
+    "created_at": "2026-06-15T06:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T07:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066403861347393585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "17235228",
+          "start": 0,
+          "username": "INP1458"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066403861347393585",
+    "in_reply_to_user_id": "17235228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066395736527536485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@INP1458 没敢看下去。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2066362867939770402",
+        "created_at": "2026-06-15T06:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066403861347393585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "17235228",
+              "start": 0,
+              "username": "INP1458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066403861347393585",
+        "in_reply_to_user_id": "17235228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066395736527536485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@INP1458 没敢看下去。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "17235228",
+        "conversation_id": "2066362867939770402",
+        "created_at": "2026-06-15T05:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066395736527536485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066395736527536485",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066362867939770402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 所以双方负什么责任？我真好奇😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 103,
+          "like_count": 13018,
+          "listed_count": 1,
+          "media_count": 435,
+          "tweet_count": 4176
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-07T17:53:43.000Z",
+        "description": "🌈",
+        "id": "17235228",
+        "name": "inp 🎀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004956808784609283/2Nfex4yM_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 462,
+          "like_count": 4387,
+          "listed_count": 3,
+          "media_count": 176,
+          "tweet_count": 2201
+        },
+        "username": "INP1458",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2054223543643320320"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2054223572777025726",
+    "created_at": "2026-05-12T15:34:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T16:34:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054223572777025726"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C7AleXe97I",
+          "end": 27,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2054223572777025726/photo/1",
+          "media_key": "16_2054223543643320320",
+          "start": 4,
+          "url": "https://t.co/C7AleXe97I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054223572777025726",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "心情： https://t.co/C7AleXe97I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 256,
+        "media_key": "16_2054223543643320320",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HIIRbeAasAALe3y.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HIIRbeAasAALe3y.mp4"
+          }
+        ],
+        "width": 256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2054223543643320320"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2054223572777025726",
+        "created_at": "2026-05-12T15:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054223572777025726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C7AleXe97I",
+              "end": 27,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2054223572777025726/photo/1",
+              "media_key": "16_2054223543643320320",
+              "start": 4,
+              "url": "https://t.co/C7AleXe97I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054223572777025726",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心情： https://t.co/C7AleXe97I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2039728281235423570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049504904532959232/XKSe-cbm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 98,
+          "like_count": 11256,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 3740
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2061454411969564914",
+    "created_at": "2026-06-01T23:08:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T00:08:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061585831488634968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1597960858436599811",
+          "start": 0,
+          "username": "wngzhrn52523637"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061585831488634968",
+    "in_reply_to_user_id": "1597960858436599811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061491660446712263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngzhrn52523637 诶哟不用嘛！！！！人家要把大学上了先。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2061454411969564914",
+        "created_at": "2026-06-01T23:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T00:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061585831488634968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1597960858436599811",
+              "start": 0,
+              "username": "wngzhrn52523637"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061585831488634968",
+        "in_reply_to_user_id": "1597960858436599811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061491660446712263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngzhrn52523637 诶哟不用嘛！！！！人家要把大学上了先。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597960858436599811",
+        "conversation_id": "2061454411969564914",
+        "created_at": "2026-06-01T16:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T17:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061491660446712263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061491660446712263",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061454411969564914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 别这样对我们小宝宝！！宝宝不行可以来找我！！我有能力养活我们两个到你能自己独立赚钱！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 99,
+          "like_count": 12488,
+          "listed_count": 1,
+          "media_count": 412,
+          "tweet_count": 4013
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-30T14:29:03.000Z",
+        "description": "春日青的碎碎念 ^_^",
+        "id": "1597960858436599811",
+        "name": "10086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057405306666455040/hPaNqCO2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 47,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 156
+        },
+        "username": "wngzhrn52523637",
+        "verified": false
+      }
+    ]
+  }
+}

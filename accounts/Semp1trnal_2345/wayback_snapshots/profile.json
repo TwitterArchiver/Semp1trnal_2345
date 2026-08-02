@@ -1,0 +1,29 @@
+{
+  "name": "喝不喝葡萄酒",
+  "username": "@Semp1trnal_2345",
+  "bio": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://tellonym.me/mo1ania或者https://ngl.link/mooo1ania1",
+  "location": "",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "urls": [
+      {
+        "display_url": "tellonym.me/mo1ania",
+        "end": 40,
+        "expanded_url": "https://tellonym.me/mo1ania",
+        "start": 17,
+        "url": "https://t.co/tJ7j3dfnPE"
+      },
+      {
+        "display_url": "ngl.link/mooo1ania1",
+        "end": 65,
+        "expanded_url": "https://ngl.link/mooo1ania1",
+        "start": 42,
+        "url": "https://t.co/K9ll2BLLcW"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg"
+}

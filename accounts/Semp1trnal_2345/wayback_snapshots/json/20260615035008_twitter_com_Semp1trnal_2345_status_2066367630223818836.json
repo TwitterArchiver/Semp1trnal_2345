@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2066367630223818836",
+    "created_at": "2026-06-15T03:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T04:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066367630223818836"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iluvtvt_7/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/iluvtvt_7/status/2066205645930701255",
+          "start": 12,
+          "url": "https://t.co/M1NeRPCn6h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066367630223818836",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066205645930701255",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我家蛋蛋今天生日！！！ https://t.co/M1NeRPCn6h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2066205561151193088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyjArlagAAbc7D.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2066367630223818836",
+        "created_at": "2026-06-15T03:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T04:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066367630223818836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iluvtvt_7/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/iluvtvt_7/status/2066205645930701255",
+              "start": 12,
+              "url": "https://t.co/M1NeRPCn6h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066367630223818836",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066205645930701255",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我家蛋蛋今天生日！！！ https://t.co/M1NeRPCn6h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066205561151193088"
+          ]
+        },
+        "author_id": "1682778677912965121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066205645930701255",
+        "created_at": "2026-06-14T17:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066205645930701255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E3dih5ctpd",
+              "end": 33,
+              "expanded_url": "https://x.com/iluvTvT_7/status/2066205645930701255/photo/1",
+              "media_key": "3_2066205561151193088",
+              "start": 10,
+              "url": "https://t.co/E3dih5ctpd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066205645930701255",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2452,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "My 20^ ^🎂 https://t.co/E3dih5ctpd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 103,
+          "like_count": 13012,
+          "listed_count": 1,
+          "media_count": 435,
+          "tweet_count": 4174
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T15:44:45.000Z",
+        "description": "心情是懒得理你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/chicken527ovo",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/chicken527ovo",
+                "start": 0,
+                "url": "https://t.co/7gMcs1ojHs"
+              }
+            ]
+          }
+        },
+        "id": "1682778677912965121",
+        "location": "匿名箱在",
+        "name": "世萌一",
+        "pinned_tweet_id": "2060969794363703460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054719011666239489/pxGq84m6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 103,
+          "like_count": 33755,
+          "listed_count": 2,
+          "media_count": 947,
+          "tweet_count": 15408
+        },
+        "url": "https://t.co/7gMcs1ojHs",
+        "username": "iluvTvT_7",
+        "verified": false
+      }
+    ]
+  }
+}

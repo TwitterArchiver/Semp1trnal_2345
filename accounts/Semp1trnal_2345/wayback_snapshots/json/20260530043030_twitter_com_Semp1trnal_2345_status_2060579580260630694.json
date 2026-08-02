@@ -1,0 +1,114 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060579570479456256"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2060579580260630694",
+    "created_at": "2026-05-30T04:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T05:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060579580260630694"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kzj0rfR3bL",
+          "end": 38,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2060579580260630694/photo/1",
+          "media_key": "3_2060579570479456256",
+          "start": 15,
+          "url": "https://t.co/kzj0rfR3bL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060579580260630694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗯呃呃呃有个女的一直扒我裤子 https://t.co/kzj0rfR3bL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2060579580260630694].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2060579580260630694",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2060579580260630694"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2060579570479456256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJimM7Ha4AAipOn.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466,
+          "following_count": 98,
+          "like_count": 12360,
+          "listed_count": 0,
+          "media_count": 403,
+          "tweet_count": 3964
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

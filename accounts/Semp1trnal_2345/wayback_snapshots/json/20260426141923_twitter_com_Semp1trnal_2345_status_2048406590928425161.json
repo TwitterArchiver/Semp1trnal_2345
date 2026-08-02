@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2048309638123364516",
+    "created_at": "2026-04-26T14:19:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T15:19:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048406590928425161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1092094062331453440",
+          "start": 0,
+          "username": "nSf5ytsCVj6MhkU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048406590928425161",
+    "in_reply_to_user_id": "1092094062331453440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048405475558150193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nSf5ytsCVj6MhkU 我也想去！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2048309638123364516",
+        "created_at": "2026-04-26T14:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048406590928425161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1092094062331453440",
+              "start": 0,
+              "username": "nSf5ytsCVj6MhkU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048406590928425161",
+        "in_reply_to_user_id": "1092094062331453440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048405475558150193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nSf5ytsCVj6MhkU 我也想去！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1092094062331453440",
+        "conversation_id": "2048309638123364516",
+        "created_at": "2026-04-26T14:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048405475558150193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048405475558150193",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048309638123364516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 艺术业已经完蛋了，，我现在转行去卖酱香饼来得及吗。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034491183356059648/QYnwDQiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 100,
+          "like_count": 10695,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 3510
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-03T16:14:49.000Z",
+        "description": "20↑⚠️无差，杂食，左右不固定！！全语言机翻\n留言评论转发非常欢迎！✨️✨️\n齐灾|银魂  私密→@darlena23562\nbl gb bg gl全部可以， 兄妹骨科No\n🔞→https://t.co/mNztdVRKx0\n密码是才窪的生日",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "darlena23562"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "poipiku.com/11776929/",
+                "end": 113,
+                "expanded_url": "https://poipiku.com/11776929/",
+                "start": 90,
+                "url": "https://t.co/mNztdVRKx0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/fdhj1qsajzzpsr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/fdhj1qsajzzpsre?t=MYfH9f&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/Am9MzwfwPt"
+              }
+            ]
+          }
+        },
+        "id": "1092094062331453440",
+        "name": "楸芭比母捏niu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046124812410691584/FGDt2kOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 171,
+          "like_count": 6937,
+          "listed_count": 1,
+          "media_count": 609,
+          "tweet_count": 2002
+        },
+        "url": "https://t.co/Am9MzwfwPt",
+        "username": "nSf5ytsCVj6MhkU",
+        "verified": false
+      }
+    ]
+  }
+}

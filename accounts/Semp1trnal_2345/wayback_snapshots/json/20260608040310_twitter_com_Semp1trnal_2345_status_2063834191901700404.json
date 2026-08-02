@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2063834191901700404",
+    "created_at": "2026-06-08T04:03:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T05:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063834191901700404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842093930722295808",
+          "start": 3,
+          "username": "cyyyyxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063834191901700404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063566284135256309",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cyyyyxu: 招聘一条狗 要求敏感多疑恋爱脑玻璃心有严重分离焦虑干嘛都要跟我讲 不跟我报备就会抑郁不安 离开我一会就天塌了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2063834191901700404",
+        "created_at": "2026-06-08T04:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063834191901700404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842093930722295808",
+              "start": 3,
+              "username": "cyyyyxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063834191901700404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063566284135256309",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cyyyyxu: 招聘一条狗 要求敏感多疑恋爱脑玻璃心有严重分离焦虑干嘛都要跟我讲 不跟我报备就会抑郁不安 离开我一会就天塌了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842093930722295808",
+        "conversation_id": "2063566284135256309",
+        "created_at": "2026-06-07T10:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063566284135256309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063566284135256309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 13946,
+          "like_count": 280,
+          "quote_count": 8,
+          "reply_count": 38,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "招聘一条狗 要求敏感多疑恋爱脑玻璃心有严重分离焦虑干嘛都要跟我讲 不跟我报备就会抑郁不安 离开我一会就天塌了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 102,
+          "like_count": 12690,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 4069
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T06:46:42.000Z",
+        "description": "一个非常脆弱的小女孩 ，不爱别伤害",
+        "id": "1842093930722295808",
+        "name": "11",
+        "pinned_tweet_id": "2046148067510923484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042486537644822528/Gmxxg8Ru_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3934,
+          "following_count": 36,
+          "like_count": 1599,
+          "listed_count": 4,
+          "media_count": 109,
+          "tweet_count": 994
+        },
+        "username": "cyyyyxu",
+        "verified": false
+      }
+    ]
+  }
+}

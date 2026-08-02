@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2067230985603932412",
+    "created_at": "2026-06-17T13:51:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T14:51:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067243738599174565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2054062631405924353",
+          "start": 0,
+          "username": "xxxxxxxxxt10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067243738599174565",
+    "in_reply_to_user_id": "2054062631405924353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067231691983224886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxxxxxxxt10 哼哼哼哼来嘛来嘛！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2067230985603932412",
+        "created_at": "2026-06-17T13:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067243738599174565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2054062631405924353",
+              "start": 0,
+              "username": "xxxxxxxxxt10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067243738599174565",
+        "in_reply_to_user_id": "2054062631405924353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067231691983224886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxxxxxxxt10 哼哼哼哼来嘛来嘛！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054062631405924353",
+        "conversation_id": "2067230985603932412",
+        "created_at": "2026-06-17T13:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067231691983224886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067231691983224886",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067230985603932412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 不是傻逼男的也不想吵架但是宝宝我路过亲亲你呀！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1545,
+          "following_count": 104,
+          "like_count": 13096,
+          "listed_count": 1,
+          "media_count": 440,
+          "tweet_count": 4216
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T04:55:02.000Z",
+        "description": "不约不加微不看屌照 现生刷到我拉黑好不卧槽好恐怖\n有没有高壮男推荐😋\n老的丑的穷的矮的恶臭的有口音的敢来死定了。\n不清楚啊我只是一个爱大仍子大肌肉爱口嗨的小女孩！",
+        "id": "2054062631405924353",
+        "location": "天堂",
+        "name": "该账户已注销",
+        "pinned_tweet_id": "2064271254660550903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066621123064692736/WT9bnpEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 103,
+          "like_count": 2399,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 505
+        },
+        "url": "",
+        "username": "xxxxxxxxxt10",
+        "verified": false
+      }
+    ]
+  }
+}

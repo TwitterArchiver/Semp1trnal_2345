@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2060580227261350216",
+    "created_at": "2026-05-30T04:33:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T05:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060580227261350216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1833884449752350720",
+          "start": 3,
+          "username": "boss_ismee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060580227261350216",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8548
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060202145002213391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @boss_ismee: 절대 자살하지 않겠다, 추해질때까지 바득바득 살아남아서 끝까지 세상에게 폐를 끼치겠노라"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2060580227261350216",
+        "created_at": "2026-05-30T04:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060580227261350216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1833884449752350720",
+              "start": 3,
+              "username": "boss_ismee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060580227261350216",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8548
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060202145002213391",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @boss_ismee: 절대 자살하지 않겠다, 추해질때까지 바득바득 살아남아서 끝까지 세상에게 폐를 끼치겠노라"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833884449752350720",
+        "conversation_id": "2060202145002213391",
+        "created_at": "2026-05-29T03:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060202145002213391"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060202145002213391",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2565,
+          "impression_count": 1099685,
+          "like_count": 28463,
+          "quote_count": 714,
+          "reply_count": 399,
+          "retweet_count": 8548
+        },
+        "reply_settings": "everyone",
+        "text": "절대 자살하지 않겠다, 추해질때까지 바득바득 살아남아서 끝까지 세상에게 폐를 끼치겠노라"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466,
+          "following_count": 98,
+          "like_count": 12361,
+          "listed_count": 0,
+          "media_count": 403,
+          "tweet_count": 3965
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T15:05:16.000Z",
+        "description": "지키고싶은 신념같은 건 없고, 지킬 수 있는 건 처녀밖에 없어.",
+        "id": "1833884449752350720",
+        "name": "펠릭스(도태된 사람)",
+        "pinned_tweet_id": "2060034613775569279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029934639180304386/kx2km-Jm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 64,
+          "like_count": 30019,
+          "listed_count": 0,
+          "media_count": 1088,
+          "tweet_count": 10427
+        },
+        "username": "boss_ismee",
+        "verified": false
+      }
+    ]
+  }
+}

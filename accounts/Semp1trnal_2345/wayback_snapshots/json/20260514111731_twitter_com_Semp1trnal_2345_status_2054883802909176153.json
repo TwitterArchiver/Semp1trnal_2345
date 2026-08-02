@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054802037708386304"
+      ],
+      "media_source_tweet_id": [
+        "2054802053751587272"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2054883802909176153",
+    "created_at": "2026-05-14T11:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T12:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054883802909176153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wvDWNiHAQO",
+          "end": 42,
+          "expanded_url": "https://x.com/hgds0/status/2054802053751587272/photo/1",
+          "media_key": "3_2054802037708386304",
+          "start": 19,
+          "url": "https://t.co/wvDWNiHAQO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054883802909176153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054802053751587272",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: 赌气的我就这样 https://t.co/wvDWNiHAQO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 986,
+        "media_key": "3_2054802037708386304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQfkQVbcAAiK8v.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054802037708386304"
+          ],
+          "media_source_tweet_id": [
+            "2054802053751587272"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2054883802909176153",
+        "created_at": "2026-05-14T11:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T12:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054883802909176153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wvDWNiHAQO",
+              "end": 42,
+              "expanded_url": "https://x.com/hgds0/status/2054802053751587272/photo/1",
+              "media_key": "3_2054802037708386304",
+              "start": 19,
+              "url": "https://t.co/wvDWNiHAQO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054883802909176153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054802053751587272",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: 赌气的我就这样 https://t.co/wvDWNiHAQO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054802037708386304"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "2054802053751587272",
+        "created_at": "2026-05-14T05:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T06:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054802053751587272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wvDWNiHAQO",
+              "end": 31,
+              "expanded_url": "https://x.com/hgds0/status/2054802053751587272/photo/1",
+              "media_key": "3_2054802037708386304",
+              "start": 8,
+              "url": "https://t.co/wvDWNiHAQO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054802053751587272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 9668,
+          "like_count": 518,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "赌气的我就这样 https://t.co/wvDWNiHAQO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2039728281235423570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 99,
+          "like_count": 11415,
+          "listed_count": 0,
+          "media_count": 362,
+          "tweet_count": 3764
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删/推广自辩‼️",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "2048632363241152830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97391,
+          "following_count": 2459,
+          "like_count": 44217,
+          "listed_count": 144,
+          "media_count": 4178,
+          "tweet_count": 8575
+        },
+        "username": "hgds0",
+        "verified": false
+      }
+    ]
+  }
+}

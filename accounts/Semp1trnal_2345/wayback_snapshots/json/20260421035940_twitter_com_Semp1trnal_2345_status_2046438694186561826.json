@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2046438694186561826",
+    "created_at": "2026-04-21T03:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T04:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046438694186561826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1734099314555703296",
+          "start": 3,
+          "username": "HThant27162"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046438694186561826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046096969702211842",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HThant27162: 我发现被人惯着会很舒服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2046438694186561826",
+        "created_at": "2026-04-21T03:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T04:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046438694186561826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1734099314555703296",
+              "start": 3,
+              "username": "HThant27162"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046438694186561826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046096969702211842",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HThant27162: 我发现被人惯着会很舒服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734099314555703296",
+        "conversation_id": "2046096969702211842",
+        "created_at": "2026-04-20T05:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T06:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046096969702211842"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046096969702211842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7222,
+          "like_count": 158,
+          "quote_count": 6,
+          "reply_count": 37,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "我发现被人惯着会很舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2039728281235423570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034491183356059648/QYnwDQiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 99,
+          "like_count": 10253,
+          "listed_count": 0,
+          "media_count": 310,
+          "tweet_count": 3400
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-11T06:34:30.000Z",
+        "description": "如果人生有真谛 我希望是美乐蒂",
+        "id": "1734099314555703296",
+        "location": "没有门不聊骚不加v",
+        "name": "如果数学和放屁一样简单",
+        "pinned_tweet_id": "2045464775040352320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039938472451178496/qmAKs_4H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2422,
+          "following_count": 77,
+          "like_count": 4874,
+          "listed_count": 9,
+          "media_count": 91,
+          "tweet_count": 1213
+        },
+        "username": "HThant27162",
+        "verified": false
+      }
+    ]
+  }
+}

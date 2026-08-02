@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2033864944614314009",
+    "created_at": "2026-03-17T11:46:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T12:46:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033872690705261023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2012520665312841728",
+          "start": 0,
+          "username": "cptbtptphhhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033872690705261023",
+    "in_reply_to_user_id": "2012520665312841728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033872435091792341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cptbtptphhhi 别啥都学好不！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2033864944614314009",
+        "created_at": "2026-03-17T11:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T12:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033872690705261023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2012520665312841728",
+              "start": 0,
+              "username": "cptbtptphhhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033872690705261023",
+        "in_reply_to_user_id": "2012520665312841728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033872435091792341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cptbtptphhhi 别啥都学好不！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012520665312841728",
+        "conversation_id": "2033864944614314009",
+        "created_at": "2026-03-17T11:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T12:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033872435091792341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033872435091792341",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033864944614314009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 呃我刚在私信收到了一个此手法拍摄的小屌呀..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "我真的不会画画QwQ",
+        "pinned_tweet_id": "2032352051586613370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026501500391034880/hy0e5UuC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 100,
+          "like_count": 8789,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 2740
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T13:41:48.000Z",
+        "description": "₍ᐢ..ᐢ₎💭",
+        "id": "2012520665312841728",
+        "location": "United States",
+        "name": "dudu",
+        "pinned_tweet_id": "2027405467367149849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026546190947606528/SSz4YjDR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 43,
+          "like_count": 1453,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 514
+        },
+        "username": "cptbtptphhhi",
+        "verified": false
+      }
+    ]
+  }
+}

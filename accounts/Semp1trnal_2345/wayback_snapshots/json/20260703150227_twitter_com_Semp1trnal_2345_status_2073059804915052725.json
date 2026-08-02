@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2072977482647851413",
+    "created_at": "2026-07-03T15:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T16:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073059804915052725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2041146061750956032",
+          "start": 0,
+          "username": "Liqwfe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073059804915052725",
+    "in_reply_to_user_id": "2041146061750956032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073059366283124797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liqwfe 我白天在外面一秒都待不了..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2073059358435692544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMT8gMHb0AA0o8A.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2072977482647851413",
+        "created_at": "2026-07-03T15:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073059804915052725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2041146061750956032",
+              "start": 0,
+              "username": "Liqwfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073059804915052725",
+        "in_reply_to_user_id": "2041146061750956032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073059366283124797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liqwfe 我白天在外面一秒都待不了..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073059358435692544"
+          ]
+        },
+        "author_id": "2041146061750956032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072977482647851413",
+        "created_at": "2026-07-03T15:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073059366283124797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tAGtzy6x3V",
+              "end": 58,
+              "expanded_url": "https://x.com/Liqwfe/status/2073059366283124797/photo/1",
+              "media_key": "3_2073059358435692544",
+              "start": 35,
+              "url": "https://t.co/tAGtzy6x3V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073059366283124797",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072977482647851413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 现在稍微好点了，白天是真的又闷又热 https://t.co/tAGtzy6x3V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 51,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 28,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 76,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 53,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 101,
+          "like_count": 13620,
+          "listed_count": 1,
+          "media_count": 480,
+          "tweet_count": 4520
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T13:29:04.000Z",
+        "description": "07 喜欢星露谷🩵🐈\n只和同样珍视的人保持联系就好！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liqwerty",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liqwerty",
+                "start": 0,
+                "url": "https://t.co/81pGsqSmAO"
+              }
+            ]
+          }
+        },
+        "id": "2041146061750956032",
+        "location": "雨天",
+        "name": "悲伤的雨🌧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069786751200018433/u864rkmf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 40,
+          "like_count": 765,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 439
+        },
+        "url": "https://t.co/81pGsqSmAO",
+        "username": "Liqwfe",
+        "verified": true
+      }
+    ]
+  }
+}

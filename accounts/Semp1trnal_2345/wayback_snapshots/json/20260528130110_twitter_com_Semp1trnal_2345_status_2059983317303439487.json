@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2059653460929499368",
+    "created_at": "2026-05-28T13:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059983317303439487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1999869438393556992",
+          "start": 0,
+          "username": "Haki1019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059983317303439487",
+    "in_reply_to_user_id": "1999869438393556992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059653460929499368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haki1019 我给你最直接、最客观、最正确、最不绕弯、最扎心、最硬核、最干脆、最不墨迹、最戳痛点、最不留情面、最一针见血、最开门见山、最不客套、最不废话、最不拐弯、最不磨叽、最不装、最不端着、最不啰嗦、最不拖沓、最不委婉、最不掩饰、最直白、最露骨、最实在的结论：她没错是你的问题换我我也这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2059653460929499368",
+        "created_at": "2026-05-28T13:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059983317303439487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1999869438393556992",
+              "start": 0,
+              "username": "Haki1019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059983317303439487",
+        "in_reply_to_user_id": "1999869438393556992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059653460929499368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haki1019 我给你最直接、最客观、最正确、最不绕弯、最扎心、最硬核、最干脆、最不墨迹、最戳痛点、最不留情面、最一针见血、最开门见山、最不客套、最不废话、最不拐弯、最不磨叽、最不装、最不端着、最不啰嗦、最不拖沓、最不委婉、最不掩饰、最直白、最露骨、最实在的结论：她没错是你的问题换我我也这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999869438393556992",
+        "conversation_id": "2059653460929499368",
+        "created_at": "2026-05-27T15:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059653460929499368"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059653460929499368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1858,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 83,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我之前提过说有一个一直没有解决问题的朋友。当时好多人鼓励我去沟通处理掉，但是每次打开聊天框我就焉巴了。\n因为对方回了一个“好感度过低 无法回复”的表情包\n我不是想挂人的意思，，会这样的原因也是我造成的\n只是好难过。我打不出来字了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1444,
+          "following_count": 98,
+          "like_count": 12215,
+          "listed_count": 0,
+          "media_count": 402,
+          "tweet_count": 3940
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T15:50:16.000Z",
+        "description": "Nonsense 06/顺直男",
+        "id": "1999869438393556992",
+        "name": "Hakiiiii！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030494424955015168/mvsUPdbB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 292,
+          "like_count": 39056,
+          "listed_count": 2,
+          "media_count": 778,
+          "tweet_count": 10169
+        },
+        "username": "Haki1019",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054576103759699968",
+        "3_2054576103747190784"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2054576115323466012",
+    "created_at": "2026-05-13T14:54:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T15:54:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054576115323466012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 22,
+          "id": "1682778677912965121",
+          "start": 12,
+          "username": "iluvTvT_7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kxvlX0PbfG",
+          "end": 46,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2054576115323466012/photo/1",
+          "media_key": "3_2054576103759699968",
+          "start": 23,
+          "url": "https://t.co/kxvlX0PbfG"
+        },
+        {
+          "display_url": "pic.x.com/kxvlX0PbfG",
+          "end": 46,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2054576115323466012/photo/1",
+          "media_key": "3_2054576103747190784",
+          "start": 23,
+          "url": "https://t.co/kxvlX0PbfG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054576115323466012",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "蛋蛋给我买的呀呵呵呵呵呵@iluvTvT_7 https://t.co/kxvlX0PbfG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054576103759699968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HINSFKyaYAAxTsv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054576103747190784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HINSFKvbgAAqe-C.jpg",
+        "width": 1895
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054576103759699968",
+            "3_2054576103747190784"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2054576115323466012",
+        "created_at": "2026-05-13T14:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054576115323466012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1682778677912965121",
+              "start": 12,
+              "username": "iluvTvT_7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kxvlX0PbfG",
+              "end": 46,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2054576115323466012/photo/1",
+              "media_key": "3_2054576103759699968",
+              "start": 23,
+              "url": "https://t.co/kxvlX0PbfG"
+            },
+            {
+              "display_url": "pic.x.com/kxvlX0PbfG",
+              "end": 46,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2054576115323466012/photo/1",
+              "media_key": "3_2054576103747190784",
+              "start": 23,
+              "url": "https://t.co/kxvlX0PbfG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054576115323466012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蛋蛋给我买的呀呵呵呵呵呵@iluvTvT_7 https://t.co/kxvlX0PbfG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07 ｜一些唠唠叨叨😋 欢迎小宝宝们找我玩！敢给我发吊你就死了。匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 62,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 39,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 87,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 64,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2039728281235423570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049504904532959232/XKSe-cbm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 98,
+          "like_count": 11373,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 3760
+        },
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T15:44:45.000Z",
+        "description": "小心事@EricCole13",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "EricCole13"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/chicken527ovo",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/chicken527ovo",
+                "start": 0,
+                "url": "https://t.co/7gMcs1ojHs"
+              }
+            ]
+          }
+        },
+        "id": "1682778677912965121",
+        "location": "匿名箱在",
+        "name": "世萌一",
+        "pinned_tweet_id": "2019986953467515083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049505156841304065/Q_wYpjcg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 111,
+          "like_count": 32010,
+          "listed_count": 2,
+          "media_count": 824,
+          "tweet_count": 14072
+        },
+        "url": "https://t.co/7gMcs1ojHs",
+        "username": "iluvTvT_7",
+        "verified": false
+      }
+    ]
+  }
+}
