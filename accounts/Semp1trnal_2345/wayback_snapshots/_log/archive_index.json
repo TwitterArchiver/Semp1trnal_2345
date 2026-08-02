@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T00:58:31",
+  "last_updated": "2026-08-02T01:00:45",
   "html": {
     "https://web.archive.org/web/20260317100108if_/https://twitter.com/Semp1trnal_2345/status/2033846087136776642": {
       "status": "done",
@@ -14444,18 +14444,18 @@
       "referenced_by": [
         "20260318043326_twitter_com_Semp1trnal_2345_status_2034126003908599990.json"
       ],
-      "last_updated": "2026-08-02T00:36:12",
+      "last_updated": "2026-08-02T01:00:33",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260318043326/https://video.twimg.com/amplify_video/2033792836450258944/vid/avc1/1280x720/4FqKFQBzXZKv60WN.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/2035223547011112960/pu/vid/avc1/720x1280/gftdYmnye5sEIeCm.mp4?tag=12": {
       "status": "failed_all",
       "referenced_by": [
         "20260321051818_twitter_com_Semp1trnal_2345_status_2035224458127188274.json"
       ],
-      "last_updated": "2026-08-02T00:36:12",
+      "last_updated": "2026-08-02T01:00:35",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260321051818/https://video.twimg.com/ext_tw_video/2035223547011112960/pu/vid/avc1/720x1280/gftdYmnye5sEIeCm.mp4?tag=12",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2036046190996058112/vid/avc1/592x1280/mRqjJE2SLkKItdHz.mp4": {
       "status": "done",
@@ -14483,9 +14483,9 @@
       "referenced_by": [
         "20260419160309_twitter_com_Semp1trnal_2345_status_2045895991006728393.json"
       ],
-      "last_updated": "2026-08-02T00:36:13",
+      "last_updated": "2026-08-02T01:00:39",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260419160309/https://video.twimg.com/ext_tw_video/2045881397278339072/pu/vid/avc1/576x1280/BP_NAd0oi6pTw1sv.mp4?tag=12",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2054111675838844928/vid/avc1/720x1280/n7CbT3mR7aGw5XTM.mp4": {
       "status": "done",
@@ -14520,9 +14520,9 @@
       "referenced_by": [
         "20260531133201_twitter_com_Semp1trnal_2345_status_2061078247950152033.json"
       ],
-      "last_updated": "2026-08-02T00:10:53",
+      "last_updated": "2026-08-02T01:00:41",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260531133201/https://video.twimg.com/tweet_video/HJo4YwZakAA_zew.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2061811902708391936/vid/avc1/720x1280/_JzYMNOjpcfa_t74.mp4": {
       "status": "done",
@@ -14560,13 +14560,13 @@
       "last_updated": "2026-08-02T00:10:50"
     },
     "https://video.twimg.com/amplify_video/2078729251680043008/vid/avc1/720x960/Ad1Q9skCtp4jRaFj.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260719071311_twitter_com_Semp1trnal_2345_status_2078739916809478497.json"
       ],
-      "last_updated": "2026-08-02T00:10:52",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260719071311/https://video.twimg.com/amplify_video/2078729251680043008/vid/avc1/720x960/Ad1Q9skCtp4jRaFj.mp4",
-      "miss_count": 1
+      "last_updated": "2026-08-02T01:00:45",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260719071311im_/https://video.twimg.com/amplify_video/2078729251680043008/vid/avc1/720x960/Ad1Q9skCtp4jRaFj.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbe172ff890>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     }
   },
   "avatars": {
@@ -47461,7 +47461,7 @@
       "last_updated": "2026-08-02T00:11:44"
     },
     "20260719071311_twitter_com_Semp1trnal_2345_status_2078739916809478497.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -47472,7 +47472,7 @@
           "https://pbs.twimg.com/profile_images/2071290001489534976/uIABNmxz_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T00:11:44"
+      "last_updated": "2026-08-02T01:00:45"
     },
     "20260719113915_twitter_com_Semp1trnal_2345_status_2078806873890054178.json": {
       "status": "done",
