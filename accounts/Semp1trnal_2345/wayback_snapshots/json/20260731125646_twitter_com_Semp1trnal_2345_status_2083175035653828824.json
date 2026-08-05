@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2083078712799707473",
+    "created_at": "2026-07-31T12:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T13:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083175035653828824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2038792815405142016",
+          "start": 0,
+          "username": "GoodbyApathy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083175035653828824",
+    "in_reply_to_user_id": "2038792815405142016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083172727721181253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GoodbyApathy 我爸妈有点吧！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2083078712799707473",
+        "created_at": "2026-07-31T12:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083175035653828824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2038792815405142016",
+              "start": 0,
+              "username": "GoodbyApathy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083175035653828824",
+        "in_reply_to_user_id": "2038792815405142016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083172727721181253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GoodbyApathy 我爸妈有点吧！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038792815405142016",
+        "conversation_id": "2083078712799707473",
+        "created_at": "2026-07-31T12:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083172727721181253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083172727721181253",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083152749303378342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 啊不不没有说你社会化程度低的意思（），出门艺考集训的人没几个缺乏社会化的，我是说父母的教育意识，老把小孩当婴儿，我高中的时候我妈也爱这样巴不得一口一口给我喂饭。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 89,
+          "like_count": 14740,
+          "listed_count": 2,
+          "media_count": 543,
+          "tweet_count": 4983
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T01:38:02.000Z",
+        "description": "⚠️：🔞🩸☠️💩🗣️🕷️\n由春天将我的心分开，像是昼夜，像枚橙子那样，有哪位先知会从中走来？他不必告诉我幸福在哪里，但它是谁的、到底是什么，会是什么呢？",
+        "id": "2038792815405142016",
+        "location": "辽阔的虚无",
+        "name": "好不容易等到放晴，阳光努力地拨开云雾，又时不时被掩盖，你却早已习惯这漫长的雨季，抬手遮挡洒下的温暖。",
+        "pinned_tweet_id": "2042382365490888873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038794320804024320/BDW_iUzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 476,
+          "like_count": 12426,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 1757
+        },
+        "url": "",
+        "username": "GoodbyApathy",
+        "verified": false
+      }
+    ]
+  }
+}

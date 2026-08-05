@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2083593725247177141",
+    "created_at": "2026-08-02T12:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T13:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083888356048699875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2036346188061089792",
+          "start": 0,
+          "username": "Res1st_4"
+        },
+        {
+          "end": 25,
+          "id": "1667611905278750720",
+          "start": 10,
+          "username": "chenyuh0315431"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083888356048699875",
+    "in_reply_to_user_id": "2036346188061089792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083818769231855640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Res1st_4 @chenyuh0315431 每日帅哥分享"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2083593725247177141",
+        "created_at": "2026-08-02T12:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083888356048699875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2036346188061089792",
+              "start": 0,
+              "username": "Res1st_4"
+            },
+            {
+              "end": 25,
+              "id": "1667611905278750720",
+              "start": 10,
+              "username": "chenyuh0315431"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083888356048699875",
+        "in_reply_to_user_id": "2036346188061089792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083818769231855640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Res1st_4 @chenyuh0315431 每日帅哥分享"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036346188061089792",
+        "conversation_id": "2083593725247177141",
+        "created_at": "2026-08-02T07:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083818769231855640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1667611905278750720",
+              "start": 0,
+              "username": "chenyuh0315431"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083818769231855640",
+        "in_reply_to_user_id": "1667611905278750720",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1663,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083593725247177141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenyuh0315431 ，。。。。。。。，，，666"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 89,
+          "like_count": 14776,
+          "listed_count": 2,
+          "media_count": 544,
+          "tweet_count": 5000
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T07:36:39.000Z",
+        "description": "186/82 我是直男，就上来发发照片，本人挺装的，但是不卖，谢谢大家",
+        "id": "2036346188061089792",
+        "location": "杭州",
+        "name": "年轻的丈夫",
+        "pinned_tweet_id": "2080415800578707524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036350278639960064/59nN_f4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63495,
+          "following_count": 18,
+          "like_count": 1437,
+          "listed_count": 90,
+          "media_count": 264,
+          "tweet_count": 1382
+        },
+        "url": "",
+        "username": "Res1st_4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T19:17:25.000Z",
+        "description": "每日帅哥分享，致力于分享各种高颜值帅哥。",
+        "id": "1667611905278750720",
+        "location": "NanTong",
+        "name": "每日帅哥分享",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763802284562231296/J6NAr3tt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14212,
+          "following_count": 813,
+          "like_count": 5181,
+          "listed_count": 36,
+          "media_count": 1252,
+          "tweet_count": 1276
+        },
+        "url": "",
+        "username": "chenyuh0315431",
+        "verified": false
+      }
+    ]
+  }
+}

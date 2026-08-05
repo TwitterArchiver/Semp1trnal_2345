@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2084290704784961778",
+    "created_at": "2026-08-04T02:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T03:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084459789896257928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1729424462846803968",
+          "start": 0,
+          "username": "Aoniwa_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084459789896257928",
+    "in_reply_to_user_id": "1729424462846803968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084329949511758201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aoniwa_ 哦哦哦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2084290704784961778",
+        "created_at": "2026-08-04T02:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T03:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084459789896257928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1729424462846803968",
+              "start": 0,
+              "username": "Aoniwa_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084459789896257928",
+        "in_reply_to_user_id": "1729424462846803968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084329949511758201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aoniwa_ 哦哦哦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729424462846803968",
+        "conversation_id": "2084290704784961778",
+        "created_at": "2026-08-03T17:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084329949511758201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084329949511758201",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084290704784961778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 那是吸血鬼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1557,
+          "following_count": 89,
+          "like_count": 14798,
+          "listed_count": 2,
+          "media_count": 546,
+          "tweet_count": 5015
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T08:58:28.000Z",
+        "description": "苦逼建筑生\n尝试在推卖专辑，有感兴趣的可以私聊或者咸🐟看品相\n其他问题直接问得了，只要别是片姐月抛什么就行",
+        "id": "1729424462846803968",
+        "location": "🛏️",
+        "name": "Aoniwa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082874623629393920/ZWwahR4Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 260,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 557
+        },
+        "url": "",
+        "username": "Aoniwa_",
+        "verified": false
+      }
+    ]
+  }
+}
