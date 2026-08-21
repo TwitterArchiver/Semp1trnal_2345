@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2087420975357039029",
+    "created_at": "2026-08-12T23:25:12.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T00:25:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087681840656322804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2003731218848972803",
+          "start": 0,
+          "username": "nin1580611"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087681840656322804",
+    "in_reply_to_user_id": "2003731218848972803",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087641029726044416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nin1580611 我先跑嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2087420975357039029",
+        "created_at": "2026-08-12T23:25:12.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T00:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087681840656322804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2003731218848972803",
+              "start": 0,
+              "username": "nin1580611"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087681840656322804",
+        "in_reply_to_user_id": "2003731218848972803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087641029726044416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nin1580611 我先跑嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003731218848972803",
+        "conversation_id": "2087420975357039029",
+        "created_at": "2026-08-12T20:43:02.000Z",
+        "display_text_range": [
+          17,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T21:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087641029726044416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087641029726044416",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087420975357039029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 待会那群人就打过来了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087681840656322804",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1777691076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085214874792300544/amOVzGHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 85,
+          "like_count": 15339,
+          "listed_count": 2,
+          "media_count": 565,
+          "tweet_count": 5161
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-24T07:35:37.000Z",
+        "description": "",
+        "id": "2003731218848972803",
+        "is_identity_verified": false,
+        "location": "礼山郡",
+        "most_recent_tweet_id": "2087645588640968879",
+        "name": "嫩嫩",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2003731218848972803/1766561892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087637293461082112/n6AsNQE5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "nin1580611",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

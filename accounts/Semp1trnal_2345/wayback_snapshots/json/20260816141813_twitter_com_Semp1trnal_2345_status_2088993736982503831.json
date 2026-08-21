@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2088979255929536813",
+    "created_at": "2026-08-16T14:18:13.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T15:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088993736982503831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1782645140575989760",
+          "start": 0,
+          "username": "woxihuandaMdou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088993736982503831",
+    "in_reply_to_user_id": "1782645140575989760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088979255929536813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woxihuandaMdou 卧槽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2088979255929536813",
+        "created_at": "2026-08-16T14:18:13.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088993736982503831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1782645140575989760",
+              "start": 0,
+              "username": "woxihuandaMdou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088993736982503831",
+        "in_reply_to_user_id": "1782645140575989760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088979255929536813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woxihuandaMdou 卧槽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782645140575989760",
+        "conversation_id": "2088979255929536813",
+        "created_at": "2026-08-16T13:20:40.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088979255929536813"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088979255929536813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1165,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "气死我了真的敢封我号。互关回家。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3deQ06或者https://t.co/K9ll2BLdno",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3deQ06"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLdno"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2088993736982503831",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1777691076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085214874792300544/amOVzGHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 88,
+          "like_count": 15659,
+          "listed_count": 2,
+          "media_count": 570,
+          "tweet_count": 5233
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-23T05:38:24.000Z",
+        "description": "这里是红色小M🫘👁️👅👁️ 只过互关 在这里po一些黄色M豆不会po的东西👁️🫦👁️🤟",
+        "id": "1782645140575989760",
+        "is_identity_verified": false,
+        "location": "M星",
+        "most_recent_tweet_id": "2088985601215279178",
+        "name": "红色小M🫘",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782645140575989760/1771967727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026405593326518272/JLRC1Ej8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 83,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "woxihuandaMdou",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

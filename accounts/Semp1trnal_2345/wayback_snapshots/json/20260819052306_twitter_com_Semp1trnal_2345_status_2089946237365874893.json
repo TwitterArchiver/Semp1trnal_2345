@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2089689918167736466",
+    "created_at": "2026-08-19T05:23:06.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T06:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089946237365874893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2038792815405142016",
+          "start": 0,
+          "username": "GoodbyApathy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089946237365874893",
+    "in_reply_to_user_id": "2038792815405142016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089945136847536468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GoodbyApathy 再说我哭了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2089689918167736466",
+        "created_at": "2026-08-19T05:23:06.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T06:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089946237365874893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2038792815405142016",
+              "start": 0,
+              "username": "GoodbyApathy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089946237365874893",
+        "in_reply_to_user_id": "2038792815405142016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089945136847536468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GoodbyApathy 再说我哭了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038792815405142016",
+        "conversation_id": "2089689918167736466",
+        "created_at": "2026-08-19T05:18:44.000Z",
+        "display_text_range": [
+          17,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T06:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089945136847536468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089945136847536468",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089689918167736466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 你这条的评论区也同样令人心酸。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3deQ06或者https://t.co/K9ll2BLdno",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3deQ06"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLdno"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2089946237365874893",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1777691076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085214874792300544/amOVzGHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 94,
+          "like_count": 15822,
+          "listed_count": 2,
+          "media_count": 581,
+          "tweet_count": 5301
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-31T01:38:02.000Z",
+        "description": "⚠️：🔞🩸☠️💩🗣️🕷️\n由春天将我的心分开，像是昼夜，像枚橙子那样，有哪位先知会从中走来？他不必告诉我幸福在哪里，但它是谁的、到底是什么，会是什么呢？",
+        "id": "2038792815405142016",
+        "is_identity_verified": false,
+        "location": "辽阔的虚无",
+        "most_recent_tweet_id": "2089945136847536468",
+        "name": "好不容易等到放晴，阳光努力地拨开云雾，又时不时被掩盖，你却早已习惯这漫长的雨季，抬手遮挡洒下的温暖。",
+        "pinned_tweet_id": "2042382365490888873",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2038792815405142016/1775893453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038794320804024320/BDW_iUzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 512,
+          "like_count": 14157,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 1941
+        },
+        "url": "",
+        "username": "GoodbyApathy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

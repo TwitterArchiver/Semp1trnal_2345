@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2084981908140917184",
+    "created_at": "2026-08-06T06:54:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T07:54:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085258278750376409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1890633501021724672",
+          "start": 0,
+          "username": "annnnnny_z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085258278750376409",
+    "in_reply_to_user_id": "1890633501021724672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084981908140917184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@annnnnny_z 西村力有妄之灾 西村力嘴贱 西村力全责￼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2084981908140917184",
+        "created_at": "2026-08-06T06:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085258278750376409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1890633501021724672",
+              "start": 0,
+              "username": "annnnnny_z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085258278750376409",
+        "in_reply_to_user_id": "1890633501021724672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084981908140917184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@annnnnny_z 西村力有妄之灾 西村力嘴贱 西村力全责￼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890633501021724672",
+        "conversation_id": "2084981908140917184",
+        "created_at": "2026-08-05T12:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084981908140917184"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084981908140917184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 67907,
+          "like_count": 2427,
+          "quote_count": 3,
+          "reply_count": 139,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "西村力到底哪里无妄之灾了...？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085214874792300544/amOVzGHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 90,
+          "like_count": 14919,
+          "listed_count": 2,
+          "media_count": 553,
+          "tweet_count": 5052
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T05:25:40.000Z",
+        "description": "- 讨厌那份不可名状的悲伤.                                           \nINTJ｜纯绿｜备考淡推｜不接推广不礼貌回关近期不回私信｜🈚🚪 🎺只过互关｜🎺@seemeinthefire",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 97,
+                "username": "seemeinthefire"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/annnnnny",
+                "end": 23,
+                "expanded_url": "https://ngl.link/annnnnny",
+                "start": 0,
+                "url": "https://t.co/pXdP6FRMLX"
+              }
+            ]
+          }
+        },
+        "id": "1890633501021724672",
+        "location": "꒪ˊ꒳ˋ꒪",
+        "name": "案泥",
+        "pinned_tweet_id": "1964581489934553223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980310389922353152/7Qn2xJcM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 100,
+          "like_count": 4803,
+          "listed_count": 1,
+          "media_count": 303,
+          "tweet_count": 4958
+        },
+        "url": "https://t.co/pXdP6FRMLX",
+        "username": "annnnnny_z",
+        "verified": false
+      }
+    ]
+  }
+}

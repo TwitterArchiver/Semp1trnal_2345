@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2085677156978565150",
+    "created_at": "2026-08-07T16:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T17:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085763166437511611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1972186340348526592",
+          "start": 0,
+          "username": "Triokeshark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085763166437511611",
+    "in_reply_to_user_id": "1972186340348526592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085762688358264867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Triokeshark 世界让我幸福一点吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2085677156978565150",
+        "created_at": "2026-08-07T16:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T17:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085763166437511611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972186340348526592",
+              "start": 0,
+              "username": "Triokeshark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085763166437511611",
+        "in_reply_to_user_id": "1972186340348526592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085762688358264867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Triokeshark 世界让我幸福一点吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972186340348526592",
+        "conversation_id": "2085677156978565150",
+        "created_at": "2026-08-07T16:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T17:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085762688358264867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085762688358264867",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085677156978565150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 世界对这个女孩好一些吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085214874792300544/amOVzGHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 89,
+          "like_count": 15099,
+          "listed_count": 2,
+          "media_count": 552,
+          "tweet_count": 5087
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-28T06:27:47.000Z",
+        "description": "小滞/dom/s/泛/同类互fo/底线取决于你/我需要很多很多钱和很多爱/滞空与凝固太阳系的微小颗粒",
+        "id": "1972186340348526592",
+        "name": "Trioko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972186580233424896/zZMGLwmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 12,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "Triokeshark",
+        "verified": false
+      }
+    ]
+  }
+}

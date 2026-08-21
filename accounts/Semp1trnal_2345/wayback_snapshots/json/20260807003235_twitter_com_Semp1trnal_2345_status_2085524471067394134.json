@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2084982992800473444",
+    "created_at": "2026-08-07T00:32:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T01:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085524471067394134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2027429322060140545",
+          "start": 0,
+          "username": "GiaCarangi25412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085524471067394134",
+    "in_reply_to_user_id": "2027429322060140545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085405925553451153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GiaCarangi25412 卧槽原来是因为这个吗。！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2084982992800473444",
+        "created_at": "2026-08-07T00:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T01:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085524471067394134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2027429322060140545",
+              "start": 0,
+              "username": "GiaCarangi25412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085524471067394134",
+        "in_reply_to_user_id": "2027429322060140545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085405925553451153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GiaCarangi25412 卧槽原来是因为这个吗。！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027429322060140545",
+        "conversation_id": "2084982992800473444",
+        "created_at": "2026-08-06T16:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T17:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085405925553451153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085405925553451153",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 460,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084982992800473444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 还有胸一大一小😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085214874792300544/amOVzGHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 86,
+          "like_count": 14989,
+          "listed_count": 2,
+          "media_count": 553,
+          "tweet_count": 5067
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T17:05:28.000Z",
+        "description": "",
+        "id": "2027429322060140545",
+        "name": "^鳕鱼饼.^୭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027610586435997696/WvxXHu5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 29,
+          "like_count": 1544,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "GiaCarangi25412",
+        "verified": false
+      }
+    ]
+  }
+}

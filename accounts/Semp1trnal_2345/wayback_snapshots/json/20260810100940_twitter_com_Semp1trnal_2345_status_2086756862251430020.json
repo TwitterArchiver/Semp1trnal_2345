@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2086719875884720571",
+    "created_at": "2026-08-10T10:09:40.000Z",
+    "display_text_range": [
+      11,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T11:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086756862251430020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1802515893374894080",
+          "start": 0,
+          "username": "17the8Jos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086756862251430020",
+    "in_reply_to_user_id": "1802515893374894080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086719875884720571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@17the8Jos 我有点喜欢你姐姐。。欧尼。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1795,
+        "media_key": "3_2086719867282206720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWEqdMbMAAJt3R.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086719867290599424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWEqdObQAAO6C8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086719867290578944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWEqdOa8AAvFIk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2086719875884720571",
+        "created_at": "2026-08-10T10:09:40.000Z",
+        "display_text_range": [
+          11,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T11:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086756862251430020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1802515893374894080",
+              "start": 0,
+              "username": "17the8Jos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086756862251430020",
+        "in_reply_to_user_id": "1802515893374894080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086719875884720571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17the8Jos 我有点喜欢你姐姐。。欧尼。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086719867282206720",
+            "3_2086719867290599424",
+            "3_2086719867290578944"
+          ]
+        },
+        "author_id": "1802515893374894080",
+        "conversation_id": "2086719875884720571",
+        "created_at": "2026-08-10T07:42:42.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T08:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086719875884720571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D2Hs2q3Ajf",
+              "end": 35,
+              "expanded_url": "https://x.com/17the8Jos/status/2086719875884720571/photo/1",
+              "media_key": "3_2086719867282206720",
+              "start": 12,
+              "url": "https://t.co/D2Hs2q3Ajf"
+            },
+            {
+              "display_url": "pic.x.com/D2Hs2q3Ajf",
+              "end": 35,
+              "expanded_url": "https://x.com/17the8Jos/status/2086719875884720571/photo/1",
+              "media_key": "3_2086719867290599424",
+              "start": 12,
+              "url": "https://t.co/D2Hs2q3Ajf"
+            },
+            {
+              "display_url": "pic.x.com/D2Hs2q3Ajf",
+              "end": 35,
+              "expanded_url": "https://x.com/17the8Jos/status/2086719875884720571/photo/1",
+              "media_key": "3_2086719867290578944",
+              "start": 12,
+              "url": "https://t.co/D2Hs2q3Ajf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086719875884720571",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086719867282206720"
+          },
+          {
+            "media_key": "3_2086719867290599424"
+          },
+          {
+            "media_key": "3_2086719867290578944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 423,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太依恋姐姐是我的错么。 https://t.co/D2Hs2q3Ajf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086756862251430020",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1777691076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085214874792300544/amOVzGHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 87,
+          "like_count": 15245,
+          "listed_count": 2,
+          "media_count": 559,
+          "tweet_count": 5128
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-17T01:37:41.000Z",
+        "description": "大号@AugustJos_22 直男 07 🇬🇧留 坐标江苏 小号碎碎念 随便乱发 ONCE💙💜 匿名https://t.co/hQFdVj9A4I",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "AugustJos_22"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/august_jos0822",
+                "end": 74,
+                "expanded_url": "https://ngl.link/august_jos0822",
+                "start": 51,
+                "url": "https://t.co/hQFdVj9A4I"
+              }
+            ]
+          }
+        },
+        "id": "1802515893374894080",
+        "is_identity_verified": false,
+        "location": "Manchester, England",
+        "most_recent_tweet_id": "2086736692124541040",
+        "name": "藤原拓海",
+        "pinned_tweet_id": "2086719875884720571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1802515893374894080/1786106224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950098382288277505/hPU_dZc6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 40,
+          "like_count": 77,
+          "listed_count": 3,
+          "media_count": 5,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "17the8Jos",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

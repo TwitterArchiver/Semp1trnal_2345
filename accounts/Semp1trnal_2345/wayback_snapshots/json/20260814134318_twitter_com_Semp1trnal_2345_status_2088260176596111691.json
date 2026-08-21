@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088260168568221696"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2088260176596111691",
+    "created_at": "2026-08-14T13:43:18.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T14:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088260176596111691"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ebDrfq7q5j",
+          "end": 50,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2088260176596111691/photo/1",
+          "media_key": "3_2088260168568221696",
+          "start": 27,
+          "url": "https://t.co/ebDrfq7q5j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088260176596111691",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088260168568221696"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "诶呀我要笑哭了她说的小臂和大臂为啥转文字出来是这样啊 https://t.co/ebDrfq7q5j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2088260168568221696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPr9jyobMAAUgpJ.jpg",
+        "width": 1154
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088260168568221696"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2088260176596111691",
+        "created_at": "2026-08-14T13:43:18.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T14:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088260176596111691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ebDrfq7q5j",
+              "end": 50,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2088260176596111691/photo/1",
+              "media_key": "3_2088260168568221696",
+              "start": 27,
+              "url": "https://t.co/ebDrfq7q5j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088260176596111691",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088260168568221696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶呀我要笑哭了她说的小臂和大臂为啥转文字出来是这样啊 https://t.co/ebDrfq7q5j"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088260176596111691",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1777691076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085214874792300544/amOVzGHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 85,
+          "like_count": 15451,
+          "listed_count": 2,
+          "media_count": 568,
+          "tweet_count": 5180
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

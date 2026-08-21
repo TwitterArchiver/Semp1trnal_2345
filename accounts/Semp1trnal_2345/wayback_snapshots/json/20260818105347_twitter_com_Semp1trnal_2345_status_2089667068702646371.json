@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2089655974634439080",
+    "created_at": "2026-08-18T10:53:47.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T11:53:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089667068702646371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1802515893374894080",
+          "start": 0,
+          "username": "17the8Jos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089667068702646371",
+    "in_reply_to_user_id": "1802515893374894080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089655974634439080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@17the8Jos 欢迎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2089655974634439080",
+        "created_at": "2026-08-18T10:53:47.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089667068702646371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1802515893374894080",
+              "start": 0,
+              "username": "17the8Jos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089667068702646371",
+        "in_reply_to_user_id": "1802515893374894080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089655974634439080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17the8Jos 欢迎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802515893374894080",
+        "conversation_id": "2089655974634439080",
+        "created_at": "2026-08-18T10:09:42.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089655974634439080"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089655974634439080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hiahiahia 我又回来了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3deQ06或者https://t.co/K9ll2BLdno",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3deQ06"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLdno"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2089667068702646371",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1777691076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085214874792300544/amOVzGHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 92,
+          "like_count": 15753,
+          "listed_count": 2,
+          "media_count": 577,
+          "tweet_count": 5285
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-17T01:37:41.000Z",
+        "description": "大号@luvy1_ff 直男 07 🇬🇧留 ONCE💙 小号碎碎念 随便乱发（原号已炸）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "luvy1_ff"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/august_jos0822",
+                "end": 23,
+                "expanded_url": "https://ngl.link/august_jos0822",
+                "start": 0,
+                "url": "https://t.co/hQFdVj9A4I"
+              }
+            ]
+          }
+        },
+        "id": "1802515893374894080",
+        "is_identity_verified": false,
+        "location": "Manchester, England",
+        "most_recent_tweet_id": "2089656038228459536",
+        "name": "藤原拓海",
+        "pinned_tweet_id": "2086719875884720571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1802515893374894080/1786106224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950098382288277505/hPU_dZc6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 98
+        },
+        "url": "https://t.co/hQFdVj9A4I",
+        "username": "17the8Jos",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

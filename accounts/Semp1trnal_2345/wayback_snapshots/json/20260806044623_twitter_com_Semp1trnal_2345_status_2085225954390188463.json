@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085225947754835968"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2085225954390188463",
+    "created_at": "2026-08-06T04:46:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T05:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085225954390188463"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KvslXbS6uH",
+          "end": 67,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2085225954390188463/photo/1",
+          "media_key": "3_2085225947754835968",
+          "start": 44,
+          "url": "https://t.co/KvslXbS6uH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085225954390188463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我俩就是推推上认识的呀！现在也能算现实中的好朋友了！要不是太太太热我真的很想去找她玩呀 https://t.co/KvslXbS6uH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085225947754835968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPA185RasAArAjc.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085225947754835968"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2085225954390188463",
+        "created_at": "2026-08-06T04:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085225954390188463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KvslXbS6uH",
+              "end": 67,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2085225954390188463/photo/1",
+              "media_key": "3_2085225947754835968",
+              "start": 44,
+              "url": "https://t.co/KvslXbS6uH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085225954390188463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我俩就是推推上认识的呀！现在也能算现实中的好朋友了！要不是太太太热我真的很想去找她玩呀 https://t.co/KvslXbS6uH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085214874792300544/amOVzGHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 90,
+          "like_count": 14874,
+          "listed_count": 2,
+          "media_count": 552,
+          "tweet_count": 5047
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

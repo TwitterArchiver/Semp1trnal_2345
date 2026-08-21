@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2088876881349316933",
+    "created_at": "2026-08-16T07:40:34.000Z",
+    "display_text_range": [
+      23,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T08:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088893667931279793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1855647297084043265",
+          "start": 0,
+          "username": "luvy1_ff"
+        },
+        {
+          "end": 22,
+          "id": "1897631340172058625",
+          "start": 10,
+          "username": "LinBarca129"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088893667931279793",
+    "in_reply_to_user_id": "1855647297084043265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088876881349316933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luvy1_ff @LinBarca129 到底要干啥。。。和互关的关系就是号一没我们就永别了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1584,
+        "media_key": "3_2088876868888051712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0uceWaQAAae8T.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2088876881349316933",
+        "created_at": "2026-08-16T07:40:34.000Z",
+        "display_text_range": [
+          23,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088893667931279793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1855647297084043265",
+              "start": 0,
+              "username": "luvy1_ff"
+            },
+            {
+              "end": 22,
+              "id": "1897631340172058625",
+              "start": 10,
+              "username": "LinBarca129"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088893667931279793",
+        "in_reply_to_user_id": "1855647297084043265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088876881349316933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luvy1_ff @LinBarca129 到底要干啥。。。和互关的关系就是号一没我们就永别了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088876868888051712"
+          ]
+        },
+        "author_id": "1855647297084043265",
+        "conversation_id": "2088876881349316933",
+        "created_at": "2026-08-16T06:33:52.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088876881349316933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1897631340172058625",
+              "start": 18,
+              "username": "LinBarca129"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/76pgjivoN9",
+              "end": 54,
+              "expanded_url": "https://x.com/luvy1_ff/status/2088876881349316933/photo/1",
+              "media_key": "3_2088876868888051712",
+              "start": 31,
+              "url": "https://t.co/76pgjivoN9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088876881349316933",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088876868888051712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 527,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又封我一个小号 我还有小号你气不气？@LinBarca129 https://t.co/76pgjivoN9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3deQ06或者https://t.co/K9ll2BLdno",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3deQ06"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLdno"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2088893667931279793",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1777691076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085214874792300544/amOVzGHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 85,
+          "like_count": 15631,
+          "listed_count": 2,
+          "media_count": 570,
+          "tweet_count": 5227
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-10T16:22:55.000Z",
+        "description": "小号@17the8Jos｜直男｜07｜🇬🇧英留｜sw｜颜控｜🎮农铲瓦等等等｜twice重度依赖 kpop博爱｜有🚪 （互关可以直接加）｜欢迎私信骚扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "17the8Jos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/august_jos0822",
+                "end": 23,
+                "expanded_url": "https://ngl.link/august_jos0822",
+                "start": 0,
+                "url": "https://t.co/HOncCtVqpN"
+              }
+            ]
+          }
+        },
+        "id": "1855647297084043265",
+        "is_identity_verified": false,
+        "location": "在想你",
+        "most_recent_tweet_id": "2088890347925737959",
+        "name": "枫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1855647297084043265/1755839594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855647466374459393/yGBBTLFY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24241,
+          "following_count": 393,
+          "like_count": 3386,
+          "listed_count": 47,
+          "media_count": 78,
+          "tweet_count": 2177
+        },
+        "url": "https://t.co/HOncCtVqpN",
+        "username": "luvy1_ff",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-06T12:52:29.000Z",
+        "description": "打不死的小枫",
+        "id": "1897631340172058625",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088882805988266068",
+        "name": "Jos",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897631470161686528/sLRkAZRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 9,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "LinBarca129",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

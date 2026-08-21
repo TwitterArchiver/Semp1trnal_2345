@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2088696186748465657",
+    "created_at": "2026-08-16T05:03:49.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T06:03:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088854217117298701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1646972643206365184",
+          "start": 0,
+          "username": "yanyannbcwx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088854217117298701",
+    "in_reply_to_user_id": "1646972643206365184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088696186748465657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanyannbcwx 你要干啥？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2088696186748465657",
+        "created_at": "2026-08-16T05:03:49.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T06:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088854217117298701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1646972643206365184",
+              "start": 0,
+              "username": "yanyannbcwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088854217117298701",
+        "in_reply_to_user_id": "1646972643206365184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088696186748465657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanyannbcwx 你要干啥？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646972643206365184",
+        "conversation_id": "2088696186748465657",
+        "created_at": "2026-08-15T18:35:51.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T19:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088696186748465657"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088696186748465657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 316,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要做爱，我要做爱，我要做爱\n\n我要做爱，我要做爱，我要做爱\n\n我要做爱，我要做爱，我要做爱\n\n我要做爱，我要做爱，我要做爱\n\n我要做爱，我要做爱，我要做爱\n\n我要做爱，我要做爱，我要做爱\n\n我要做爱，我要做爱，我要做爱\n\n我要做爱，我要做爱，我要做爱\n\n我要做爱，我要做爱，我要做爱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3deQ06或者https://t.co/K9ll2BLdno",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3deQ06"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLdno"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2088854217117298701",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1777691076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085214874792300544/amOVzGHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 88,
+          "like_count": 15604,
+          "listed_count": 2,
+          "media_count": 569,
+          "tweet_count": 5223
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-14T20:24:24.000Z",
+        "description": "以前枷锁太多，现在我顺从自己。\n地陪服务在小号 @jiangzhonwen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "jiangzhonwen"
+              }
+            ]
+          }
+        },
+        "id": "1646972643206365184",
+        "is_identity_verified": false,
+        "location": "🚪好友位88-188-288",
+        "most_recent_tweet_id": "2088696186748465657",
+        "name": "𝓐𝖕𝖕",
+        "pinned_tweet_id": "2058162530888114474",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1646972643206365184/1773330500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032121230170734595/UutBtkMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4882,
+          "following_count": 81,
+          "like_count": 13268,
+          "listed_count": 13,
+          "media_count": 136,
+          "tweet_count": 2653
+        },
+        "url": "",
+        "username": "yanyannbcwx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

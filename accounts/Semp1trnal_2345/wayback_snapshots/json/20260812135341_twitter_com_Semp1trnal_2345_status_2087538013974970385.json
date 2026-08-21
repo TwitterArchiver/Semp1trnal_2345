@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2087528220879163404",
+    "created_at": "2026-08-12T13:53:41.000Z",
+    "display_text_range": [
+      17,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T14:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087538013974970385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1659699719474667521",
+          "start": 0,
+          "username": "Exzuannett66089"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087538013974970385",
+    "in_reply_to_user_id": "1659699719474667521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087537030918205495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Exzuannett66089 暑假正是弯道超车的时候 你不努力别人都在努力你就落下了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2087528220879163404",
+        "created_at": "2026-08-12T13:53:41.000Z",
+        "display_text_range": [
+          17,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087538013974970385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1659699719474667521",
+              "start": 0,
+              "username": "Exzuannett66089"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087538013974970385",
+        "in_reply_to_user_id": "1659699719474667521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087537030918205495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Exzuannett66089 暑假正是弯道超车的时候 你不努力别人都在努力你就落下了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659699719474667521",
+        "conversation_id": "2087528220879163404",
+        "created_at": "2026-08-12T13:49:47.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087537030918205495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087537030918205495",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087528220879163404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 为什么有这么多作业"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087538013974970385",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1777691076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085214874792300544/amOVzGHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 85,
+          "like_count": 15334,
+          "listed_count": 2,
+          "media_count": 564,
+          "tweet_count": 5159
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-19T23:17:59.000Z",
+        "description": "",
+        "id": "1659699719474667521",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087537030918205495",
+        "name": "小E",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036121968152555520/VFMQHj88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 362,
+          "like_count": 7835,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 697
+        },
+        "url": "",
+        "username": "Exzuannett66089",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

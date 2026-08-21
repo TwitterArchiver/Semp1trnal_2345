@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2088484093558505489",
+    "created_at": "2026-08-15T04:45:16.000Z",
+    "display_text_range": [
+      14,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T05:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088487164841701721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1491064050985291776",
+          "start": 0,
+          "username": "nora14525742"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088487164841701721",
+    "in_reply_to_user_id": "1491064050985291776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088484093558505489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nora14525742 我小升初的时候大家平均都是英语四六级的水平 奥赛要拿很多奖 现在卷得更严重。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2088484093558505489",
+        "created_at": "2026-08-15T04:45:16.000Z",
+        "display_text_range": [
+          14,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T05:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088487164841701721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1491064050985291776",
+              "start": 0,
+              "username": "nora14525742"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088487164841701721",
+        "in_reply_to_user_id": "1491064050985291776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088484093558505489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nora14525742 我小升初的时候大家平均都是英语四六级的水平 奥赛要拿很多奖 现在卷得更严重。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491064050985291776",
+        "conversation_id": "2088484093558505489",
+        "created_at": "2026-08-15T04:33:04.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T05:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088484093558505489"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088484093558505489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "海淀区小孩好好好好恐怖哇 我过马路听见一个小学生说今天补课学微积分 我他妈大一微积分打了22"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088487164841701721",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1777691076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085214874792300544/amOVzGHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 87,
+          "like_count": 15499,
+          "listed_count": 2,
+          "media_count": 568,
+          "tweet_count": 5191
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-08T15:00:06.000Z",
+        "description": "love u guys^ ^",
+        "id": "1491064050985291776",
+        "is_identity_verified": false,
+        "location": "London, England",
+        "most_recent_tweet_id": "2088484093558505489",
+        "name": "小尾狐",
+        "pinned_tweet_id": "2069747229951406211",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491064050985291776/1774727226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036466043896692736/X-2GDs8Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3054,
+          "following_count": 66,
+          "like_count": 574,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 271
+        },
+        "url": "",
+        "username": "nora14525742",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

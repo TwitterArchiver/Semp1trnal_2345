@@ -1,0 +1,114 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2085312149623353681",
+    "created_at": "2026-08-06T10:28:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T11:28:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085312149623353681"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085312149623353681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "过两天风向又变了 又是我比流言蜚语更早认识你 又是从此眼泪向下你向上 又是xcl我保证你是天使\n好想看hybe这个破公司怎么说这件事 毕竟hybe处理事情的能力堪比一个三岁小孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2085312149623353681",
+        "created_at": "2026-08-06T10:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T11:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085312149623353681"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085312149623353681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "过两天风向又变了 又是我比流言蜚语更早认识你 又是从此眼泪向下你向上 又是xcl我保证你是天使\n好想看hybe这个破公司怎么说这件事 毕竟hybe处理事情的能力堪比一个三岁小孩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085214874792300544/amOVzGHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 90,
+          "like_count": 14985,
+          "listed_count": 2,
+          "media_count": 553,
+          "tweet_count": 5058
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

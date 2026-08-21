@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086371375615471616"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2086371384243147153",
+    "created_at": "2026-08-09T08:37:55.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T09:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086371384243147153"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/L7cprD7PQL",
+          "end": 40,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2086371384243147153/photo/1",
+          "media_key": "3_2086371375615471616",
+          "start": 17,
+          "url": "https://t.co/L7cprD7PQL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086371384243147153",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086371375615471616"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "牛逼吗 我玩了六个小时弱者小游戏 https://t.co/L7cprD7PQL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086371375615471616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRHtkkacAAzh3o.jpg",
+        "width": 1258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086371375615471616"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2086371384243147153",
+        "created_at": "2026-08-09T08:37:55.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T09:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086371384243147153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L7cprD7PQL",
+              "end": 40,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2086371384243147153/photo/1",
+              "media_key": "3_2086371375615471616",
+              "start": 17,
+              "url": "https://t.co/L7cprD7PQL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086371384243147153",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086371375615471616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牛逼吗 我玩了六个小时弱者小游戏 https://t.co/L7cprD7PQL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086371384243147153",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1777691076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085214874792300544/amOVzGHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 87,
+          "like_count": 15183,
+          "listed_count": 2,
+          "media_count": 556,
+          "tweet_count": 5120
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

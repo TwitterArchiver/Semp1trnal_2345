@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2089353735567036490",
+    "created_at": "2026-08-17T14:39:49.000Z",
+    "display_text_range": [
+      15,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T15:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089361561764929641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1914662050204409887",
+          "start": 0,
+          "username": "JudyeeeeeeZzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089361561764929641",
+    "in_reply_to_user_id": "1914662050204409887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089359920789639661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JudyeeeeeeZzz 抖音本来就是这样。特别莫名其妙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2089353735567036490",
+        "created_at": "2026-08-17T14:39:49.000Z",
+        "display_text_range": [
+          15,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T15:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089361561764929641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1914662050204409887",
+              "start": 0,
+              "username": "JudyeeeeeeZzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089361561764929641",
+        "in_reply_to_user_id": "1914662050204409887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089359920789639661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JudyeeeeeeZzz 抖音本来就是这样。特别莫名其妙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914662050204409887",
+        "conversation_id": "2089353735567036490",
+        "created_at": "2026-08-17T14:33:18.000Z",
+        "display_text_range": [
+          17,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T15:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089359920789639661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089359920789639661",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089359362917908705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 哎那个抖音给我弄的气死了，我发视频发了快二十分钟，0个浏览量，我真服了，一个视频的浏览量能到两百我都谢天谢地了。这抖音太烂了，难受了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3deQ06或者https://t.co/K9ll2BLdno",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3deQ06"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLdno"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2089361561764929641",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1777691076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085214874792300544/amOVzGHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 91,
+          "like_count": 15749,
+          "listed_count": 2,
+          "media_count": 575,
+          "tweet_count": 5273
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-22T12:46:51.000Z",
+        "description": "纯绿🚪99/520｜07｜一个普通人｜防丢：ig🆔@ judyeezzz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.JudyeeeZzz",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/user.JudyeeeZzz",
+                "start": 0,
+                "url": "https://t.co/VH8m8bKwOc"
+              }
+            ]
+          }
+        },
+        "id": "1914662050204409887",
+        "is_identity_verified": false,
+        "location": "Jiangsu/California",
+        "most_recent_tweet_id": "2089360108988039343",
+        "name": "JZzz💤",
+        "pinned_tweet_id": "2001301301620244563",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1914662050204409887/1765424317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073414665963819008/j0cZewvV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 86,
+          "like_count": 28438,
+          "listed_count": 3,
+          "media_count": 334,
+          "tweet_count": 4327
+        },
+        "url": "https://t.co/VH8m8bKwOc",
+        "username": "JudyeeeeeeZzz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
