@@ -1,13 +1,20 @@
 {
   "name": "喝不喝葡萄酒",
   "username": "@Semp1trnal_2345",
-  "bio": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://tellonym.me/mo1ania或者https://ngl.link/mooo1ania1",
+  "bio": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://tellonym.me/mo1ania或者https://ngl.link/mooo1ania1\n\n我的影子@666huanwohao",
   "location": "0.1km",
   "link": "",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2071154984469893393",
   "bio_entities": {
+    "mentions": [
+      {
+        "end": 84,
+        "start": 71,
+        "username": "666huanwohao"
+      }
+    ],
     "urls": [
       {
         "display_url": "tellonym.me/mo1ania",
@@ -25,5 +32,5 @@
       }
     ]
   },
-  "_avatar_source": "https://pbs.twimg.com/profile_images/2085214874792300544/amOVzGHu_normal.jpg"
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2092253436129796096/3TAKIKRv_normal.jpg"
 }
