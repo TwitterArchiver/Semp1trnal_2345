@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095348487932235776"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2095348496631263322",
+    "created_at": "2026-09-03T03:09:45.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T04:09:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095348496631263322"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rtBQ3uJr4R",
+          "end": 46,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2095348496631263322/photo/1",
+          "media_key": "3_2095348487932235776",
+          "start": 23,
+          "url": "https://t.co/rtBQ3uJr4R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095348496631263322",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095348487932235776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗯......唯一一个打勾的也是咬咬牙打的。 https://t.co/rtBQ3uJr4R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1392,
+        "media_key": "3_2095348487932235776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRQsWR_aUAA5Yhq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095348487932235776"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2095348496631263322",
+        "created_at": "2026-09-03T03:09:45.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T04:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095348496631263322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rtBQ3uJr4R",
+              "end": 46,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2095348496631263322/photo/1",
+              "media_key": "3_2095348487932235776",
+              "start": 23,
+              "url": "https://t.co/rtBQ3uJr4R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095348496631263322",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095348487932235776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯......唯一一个打勾的也是咬咬牙打的。 https://t.co/rtBQ3uJr4R"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3deQ06或者https://t.co/K9ll2BLdno\n\n我的影子@666huanwohao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "666huanwohao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3deQ06"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLdno"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095348496631263322",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2092182232534581509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1787667077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092253436129796096/3TAKIKRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 82,
+          "like_count": 16304,
+          "listed_count": 2,
+          "media_count": 608,
+          "tweet_count": 5545
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

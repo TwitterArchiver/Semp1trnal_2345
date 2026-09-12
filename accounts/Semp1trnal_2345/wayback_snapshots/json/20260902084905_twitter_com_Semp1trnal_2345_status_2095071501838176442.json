@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2095071501838176442",
+    "created_at": "2026-09-02T08:49:05.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T09:49:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095071501838176442"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhendehaoe_/st…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/zhendehaoe_/status/2094979143238844822",
+          "start": 51,
+          "url": "https://t.co/GmyVf3YIGx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095071501838176442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094979143238844822",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完全不会啊啊啊啊其实正常说话的时候就可以看到钉子的 除非朋友要求我给她看看不然谁会莫名其妙突然吐舌头 https://t.co/GmyVf3YIGx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2095071501838176442",
+        "created_at": "2026-09-02T08:49:05.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T09:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095071501838176442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhendehaoe_/st…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/zhendehaoe_/status/2094979143238844822",
+              "start": 51,
+              "url": "https://t.co/GmyVf3YIGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095071501838176442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094979143238844822",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完全不会啊啊啊啊其实正常说话的时候就可以看到钉子的 除非朋友要求我给她看看不然谁会莫名其妙突然吐舌头 https://t.co/GmyVf3YIGx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756475847400431616",
+        "conversation_id": "2094979143238844822",
+        "created_at": "2026-09-02T02:42:05.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T03:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094979143238844822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094979143238844822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1941,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "穿过几个孔了 还是理解不了舌钉 先不说嘴里头舒不舒服 光是看着别人聊天聊着聊着就把舌头吐出来展示给别人看 自拍也要把舌头吐出来 我还是不行了😅"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3deQ06或者https://t.co/K9ll2BLdno\n\n我的影子@666huanwohao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "666huanwohao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3deQ06"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLdno"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095071501838176442",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2092182232534581509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1787667077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092253436129796096/3TAKIKRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 82,
+          "like_count": 16284,
+          "listed_count": 2,
+          "media_count": 606,
+          "tweet_count": 5530
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-11T00:31:01.000Z",
+        "description": "随便发发",
+        "id": "1756475847400431616",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094989018169798817",
+        "name": "饿了吧唧",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967308812282646528/ebU7lXbp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4811,
+          "following_count": 36,
+          "like_count": 1390,
+          "listed_count": 17,
+          "media_count": 41,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "zhendehaoe_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

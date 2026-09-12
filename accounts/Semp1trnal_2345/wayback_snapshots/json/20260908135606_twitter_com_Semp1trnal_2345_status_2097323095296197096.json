@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2097213001212518838",
+    "created_at": "2026-09-08T13:56:06.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T14:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097323095296197096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1914662050204409887",
+          "start": 0,
+          "username": "JudyeeeeeeZzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097323095296197096",
+    "in_reply_to_user_id": "1914662050204409887",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097321622218981630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JudyeeeeeeZzz 天堂吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2097213001212518838",
+        "created_at": "2026-09-08T13:56:06.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T14:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097323095296197096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1914662050204409887",
+              "start": 0,
+              "username": "JudyeeeeeeZzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097323095296197096",
+        "in_reply_to_user_id": "1914662050204409887",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097321622218981630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JudyeeeeeeZzz 天堂吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914662050204409887",
+        "conversation_id": "2097213001212518838",
+        "created_at": "2026-09-08T13:50:15.000Z",
+        "display_text_range": [
+          17,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T14:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097321622218981630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097321622218981630",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097213001212518838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 哇"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3deQ06或者https://t.co/K9ll2BLdno\n\n我的影子@666huanwohao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "666huanwohao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3deQ06"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLdno"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097323095296197096",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2080200731177705707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1787667077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092253436129796096/3TAKIKRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 84,
+          "like_count": 16562,
+          "listed_count": 2,
+          "media_count": 638,
+          "tweet_count": 5666
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-22T12:46:51.000Z",
+        "description": "07｜一个普通人｜防丢：ig🆔@ judyeezzz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.JudyeeeZzz",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/user.JudyeeeZzz",
+                "start": 0,
+                "url": "https://t.co/VH8m8bL4DK"
+              }
+            ]
+          }
+        },
+        "id": "1914662050204409887",
+        "is_identity_verified": false,
+        "location": "Jiangsu/California   有🚪",
+        "most_recent_tweet_id": "2097321622218981630",
+        "name": "JZzz💤",
+        "pinned_tweet_id": "2001301301620244563",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1914662050204409887/1765424317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073414665963819008/j0cZewvV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 89,
+          "like_count": 30057,
+          "listed_count": 3,
+          "media_count": 361,
+          "tweet_count": 4575
+        },
+        "url": "https://t.co/VH8m8bL4DK",
+        "username": "JudyeeeeeeZzz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

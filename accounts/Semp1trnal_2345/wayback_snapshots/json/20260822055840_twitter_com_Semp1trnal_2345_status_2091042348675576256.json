@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2090756316746977473",
+    "created_at": "2026-08-22T05:58:40.000Z",
+    "display_text_range": [
+      20,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T06:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091042348675576256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1823839889361633280",
+          "start": 0,
+          "username": "Yucc0214"
+        },
+        {
+          "end": 19,
+          "id": "1621126532084416514",
+          "start": 10,
+          "username": "jirnqng1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091042348675576256",
+    "in_reply_to_user_id": "1823839889361633280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090832133019644045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yucc0214 @jirnqng1 这种脑子小的没啥救了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2090756316746977473",
+        "created_at": "2026-08-22T05:58:40.000Z",
+        "display_text_range": [
+          20,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T06:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091042348675576256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1823839889361633280",
+              "start": 0,
+              "username": "Yucc0214"
+            },
+            {
+              "end": 19,
+              "id": "1621126532084416514",
+              "start": 10,
+              "username": "jirnqng1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091042348675576256",
+        "in_reply_to_user_id": "1823839889361633280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090832133019644045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yucc0214 @jirnqng1 这种脑子小的没啥救了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823839889361633280",
+        "conversation_id": "2090756316746977473",
+        "created_at": "2026-08-21T16:03:20.000Z",
+        "display_text_range": [
+          27,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T17:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090832133019644045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            },
+            {
+              "end": 26,
+              "id": "1621126532084416514",
+              "start": 17,
+              "username": "jirnqng1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090832133019644045",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090808857480278067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 @jirnqng1 那很小了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3deQ06或者https://t.co/K9ll2BLdno",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3deQ06"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLdno"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2091042348675576256",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1777691076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085214874792300544/amOVzGHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 85,
+          "like_count": 16004,
+          "listed_count": 2,
+          "media_count": 588,
+          "tweet_count": 5359
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-14T21:51:41.000Z",
+        "description": "我的手臂铺满悲伤",
+        "id": "1823839889361633280",
+        "is_identity_verified": false,
+        "location": "home",
+        "most_recent_tweet_id": "2090835611225866424",
+        "name": "鱼草",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823839889361633280/1723893731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089903494283284480/ZqUiv_BG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 7,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "Yucc0214",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-02T12:41:28.000Z",
+        "description": "",
+        "id": "1621126532084416514",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091014409946853540",
+        "name": "ssssssss",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1621126532084416514/1785940629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085012186754416641/4jmp7yVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "jirnqng1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

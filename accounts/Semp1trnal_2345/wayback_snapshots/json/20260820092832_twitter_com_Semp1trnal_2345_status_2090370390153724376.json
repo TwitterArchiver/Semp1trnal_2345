@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2090370390153724376",
+    "created_at": "2026-08-20T09:28:32.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T10:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090370390153724376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1820407160830083072",
+          "start": 3,
+          "username": "png064518925431"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090370390153724376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2644
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089818619282952263",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @png064518925431: 如果死了就好了\n死了家里就不用为我花钱了\n死了就不用处理复杂的关系\n死了就不用被抛弃了\n死了就不用哭到半夜了\n死了就不用考虑明天\n死了就不用在意别人看法了\n死了就不用焦虑了\n死了就不害怕一个人\n死了就不用被别人讨厌\n死了就不用想烦心事了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2090370390153724376",
+        "created_at": "2026-08-20T09:28:32.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T10:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090370390153724376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1820407160830083072",
+              "start": 3,
+              "username": "png064518925431"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090370390153724376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2644
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089818619282952263",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @png064518925431: 如果死了就好了\n死了家里就不用为我花钱了\n死了就不用处理复杂的关系\n死了就不用被抛弃了\n死了就不用哭到半夜了\n死了就不用考虑明天\n死了就不用在意别人看法了\n死了就不用焦虑了\n死了就不害怕一个人\n死了就不用被别人讨厌\n死了就不用想烦心事了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820407160830083072",
+        "conversation_id": "2089818619282952263",
+        "created_at": "2026-08-18T20:56:00.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T21:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089818619282952263"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089818619282952263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 936,
+          "impression_count": 241573,
+          "like_count": 9137,
+          "quote_count": 229,
+          "reply_count": 128,
+          "retweet_count": 2644
+        },
+        "reply_settings": "everyone",
+        "text": "如果死了就好了\n死了家里就不用为我花钱了\n死了就不用处理复杂的关系\n死了就不用被抛弃了\n死了就不用哭到半夜了\n死了就不用考虑明天\n死了就不用在意别人看法了\n死了就不用焦虑了\n死了就不害怕一个人\n死了就不用被别人讨厌\n死了就不用想烦心事了\n死了就不用听别人说我坏话\n死了就不用因为喜欢而乱想太多"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3deQ06或者https://t.co/K9ll2BLdno",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3deQ06"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLdno"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2090370390153724376",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1777691076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085214874792300544/amOVzGHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 88,
+          "like_count": 15876,
+          "listed_count": 2,
+          "media_count": 583,
+          "tweet_count": 5318
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-05T10:31:36.000Z",
+        "description": "🚪13.14",
+        "id": "1820407160830083072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090152259434991692",
+        "name": "萍",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085058645696630784/nyUomDx1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 42,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "png064518925431",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

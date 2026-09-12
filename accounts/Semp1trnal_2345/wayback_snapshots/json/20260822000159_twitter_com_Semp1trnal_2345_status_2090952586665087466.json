@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090952581157969920"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2090756316746977473",
+    "created_at": "2026-08-22T00:01:59.000Z",
+    "display_text_range": [
+      14,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T01:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090952586665087466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1725701795144675328",
+          "start": 0,
+          "username": "LEashme_Oppa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kDnnPIEblH",
+          "end": 53,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2090952586665087466/photo/1",
+          "media_key": "3_2090952581157969920",
+          "start": 30,
+          "url": "https://t.co/kDnnPIEblH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090952586665087466",
+    "in_reply_to_user_id": "1725701795144675328",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2090952581157969920"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090857381601415348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LEashme_Oppa 等一下等一下 D？？？！！！！ https://t.co/kDnnPIEblH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1419,
+        "media_key": "3_2090952581157969920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQSOS1IbYAA0JKI.jpg",
+        "width": 1073
+      },
+      {
+        "height": 789,
+        "media_key": "3_2090857369391783936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQ3sxqa4AAmEAM.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090952581157969920"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2090756316746977473",
+        "created_at": "2026-08-22T00:01:59.000Z",
+        "display_text_range": [
+          14,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T01:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090952586665087466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1725701795144675328",
+              "start": 0,
+              "username": "LEashme_Oppa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kDnnPIEblH",
+              "end": 53,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2090952586665087466/photo/1",
+              "media_key": "3_2090952581157969920",
+              "start": 30,
+              "url": "https://t.co/kDnnPIEblH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090952586665087466",
+        "in_reply_to_user_id": "1725701795144675328",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090952581157969920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090857381601415348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LEashme_Oppa 等一下等一下 D？？？！！！！ https://t.co/kDnnPIEblH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090857369391783936"
+          ]
+        },
+        "author_id": "1725701795144675328",
+        "conversation_id": "2090756316746977473",
+        "created_at": "2026-08-21T17:43:40.000Z",
+        "display_text_range": [
+          17,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T18:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090857381601415348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZEsDtYnQJH",
+              "end": 93,
+              "expanded_url": "https://x.com/LEashme_Oppa/status/2090857381601415348/photo/1",
+              "media_key": "3_2090857369391783936",
+              "start": 70,
+              "url": "https://t.co/ZEsDtYnQJH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090857381601415348",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090857369391783936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 354,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090756316746977473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 蜜子我买过一款个人感觉还蛮好穿的！我d cup它罩杯不会压胸导致有分界线，然后也没有很厚夏天穿和很合适！ https://t.co/ZEsDtYnQJH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3deQ06或者https://t.co/K9ll2BLdno",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3deQ06"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLdno"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2090952586665087466",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1777691076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085214874792300544/amOVzGHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 89,
+          "like_count": 15959,
+          "listed_count": 2,
+          "media_count": 587,
+          "tweet_count": 5355
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-18T02:25:55.000Z",
+        "description": "随便踩踩，到处踩踩",
+        "id": "1725701795144675328",
+        "is_identity_verified": false,
+        "location": "anywhere",
+        "most_recent_tweet_id": "2090857381601415348",
+        "name": "blossom",
+        "pinned_tweet_id": "2037585818777526640",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1725701795144675328/1776646383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976380944039936004/Pi9jUlBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 163,
+          "like_count": 2138,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 355
+        },
+        "url": "",
+        "username": "LEashme_Oppa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096559895856529408"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2096559905692176626",
+    "created_at": "2026-09-06T11:23:28.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T12:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096559905692176626"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TjXXXVXcBa",
+          "end": 36,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2096559905692176626/photo/1",
+          "media_key": "3_2096559895856529408",
+          "start": 13,
+          "url": "https://t.co/TjXXXVXcBa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096559905692176626",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096559895856529408"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎呀谢谢你们关心我呀🥹🥹 https://t.co/TjXXXVXcBa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096559895856529408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRh6HgLbwAA2VQX.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096559895856529408"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2096559905692176626",
+        "created_at": "2026-09-06T11:23:28.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096559905692176626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TjXXXVXcBa",
+              "end": 36,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2096559905692176626/photo/1",
+              "media_key": "3_2096559895856529408",
+              "start": 13,
+              "url": "https://t.co/TjXXXVXcBa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096559905692176626",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096559895856529408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呀谢谢你们关心我呀🥹🥹 https://t.co/TjXXXVXcBa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3deQ06或者https://t.co/K9ll2BLdno\n\n我的影子@666huanwohao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "666huanwohao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3deQ06"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLdno"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096559905692176626",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2092182232534581509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1787667077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092253436129796096/3TAKIKRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 82,
+          "like_count": 16457,
+          "listed_count": 2,
+          "media_count": 628,
+          "tweet_count": 5622
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

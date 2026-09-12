@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2092297146326462490",
+    "created_at": "2026-08-26T00:47:29.000Z",
+    "display_text_range": [
+      12,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T01:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092413591278506369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "95025391",
+          "start": 0,
+          "username": "EricCole13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092413591278506369",
+    "in_reply_to_user_id": "95025391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092297146326462490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EricCole13 我明天想吃你复刻的薛记红薯条"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2092297146326462490",
+        "created_at": "2026-08-26T00:47:29.000Z",
+        "display_text_range": [
+          12,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T01:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092413591278506369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "95025391",
+              "start": 0,
+              "username": "EricCole13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092413591278506369",
+        "in_reply_to_user_id": "95025391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092297146326462490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EricCole13 我明天想吃你复刻的薛记红薯条"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "95025391",
+        "conversation_id": "2092297146326462490",
+        "created_at": "2026-08-25T17:04:47.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T18:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092297146326462490"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092297146326462490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我明天想复刻薛记的红薯条"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3deQ06或者https://t.co/K9ll2BLdno",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3deQ06"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLdno"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2092413591278506369",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2092182232534581509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1787667077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092253436129796096/3TAKIKRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 87,
+          "like_count": 16190,
+          "listed_count": 2,
+          "media_count": 592,
+          "tweet_count": 5434
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-12-06T16:19:54.000Z",
+        "description": "———唉 我也想成為你的宇宙 仅此而已———",
+        "id": "95025391",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2082869637881172470",
+        "name": "你的21世紀裡有我的一席之地嗎",
+        "pinned_tweet_id": "2089916771629445439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/95025391/1787661398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092229662508552192/u3Zp8Znm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 17,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "EricCole13",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

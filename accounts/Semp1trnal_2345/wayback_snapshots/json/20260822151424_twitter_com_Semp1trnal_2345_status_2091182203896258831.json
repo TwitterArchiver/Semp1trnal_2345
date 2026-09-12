@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2091158147914461215",
+    "created_at": "2026-08-22T15:14:24.000Z",
+    "display_text_range": [
+      10,
+      111
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T16:14:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091182203896258831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1671885752823861248",
+          "start": 0,
+          "username": "Vvan1514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091182203896258831",
+    "in_reply_to_user_id": "1671885752823861248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091158147914461215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vvan1514 我就是那个异性朋友 我和我朋友认识七年了 我朋友和他对象因为这个闹过矛盾 我完全可以理解他女朋友 因为换了我我也会这样的  男生我觉得也一样嘛 还是看你朋友怎么处理！解释清楚然后互相认识一下会好很多吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2091158147914461215",
+        "created_at": "2026-08-22T15:14:24.000Z",
+        "display_text_range": [
+          10,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T16:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091182203896258831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1671885752823861248",
+              "start": 0,
+              "username": "Vvan1514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091182203896258831",
+        "in_reply_to_user_id": "1671885752823861248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091158147914461215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vvan1514 我就是那个异性朋友 我和我朋友认识七年了 我朋友和他对象因为这个闹过矛盾 我完全可以理解他女朋友 因为换了我我也会这样的  男生我觉得也一样嘛 还是看你朋友怎么处理！解释清楚然后互相认识一下会好很多吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671885752823861248",
+        "conversation_id": "2091158147914461215",
+        "created_at": "2026-08-22T13:38:48.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T14:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091158147914461215"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091158147914461215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1990,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "假如你们伴侣有一个很好的异性朋友 你们会接受不了嘛。就觉得不开心"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3deQ06或者https://t.co/K9ll2BLdno",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3deQ06"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLdno"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2091182203896258831",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1777691076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085214874792300544/amOVzGHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 85,
+          "like_count": 16034,
+          "listed_count": 2,
+          "media_count": 588,
+          "tweet_count": 5375
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-22T14:20:20.000Z",
+        "description": "我的po都是基于我觉得好看的 无不良嗜好 问问题在 https://t.co/mDTzVZCJrl 直男\n不给看看 不约 不当黄推\n会删内容",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvan88416",
+                "end": 49,
+                "expanded_url": "https://ngl.link/vvan88416",
+                "start": 26,
+                "url": "https://t.co/mDTzVZCJrl"
+              }
+            ]
+          }
+        },
+        "id": "1671885752823861248",
+        "is_identity_verified": false,
+        "location": "中国",
+        "most_recent_tweet_id": "2091172787327263088",
+        "name": "MovIvan",
+        "pinned_tweet_id": "2089379067212795944",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1671885752823861248/1767324038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019703549400379392/6lO-f8_X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10289,
+          "following_count": 41,
+          "like_count": 1472,
+          "listed_count": 40,
+          "media_count": 80,
+          "tweet_count": 540
+        },
+        "url": "",
+        "username": "Vvan1514",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

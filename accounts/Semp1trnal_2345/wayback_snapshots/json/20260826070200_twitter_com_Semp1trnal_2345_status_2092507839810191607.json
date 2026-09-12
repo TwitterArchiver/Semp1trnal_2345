@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2092507839810191607",
+    "created_at": "2026-08-26T07:02:00.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T08:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092507839810191607"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 27,
+          "tag": "tellonym"
+        }
+      ],
+      "urls": [
+        {
+          "description": "你跟另一半的朋友都玩得来吗？",
+          "display_url": "tellonym.me/mo1ania/answer…",
+          "end": 61,
+          "expanded_url": "https://tellonym.me/mo1ania/answer/7309047568",
+          "images": [
+            {
+              "height": 628,
+              "url": "https://pbs.twimg.com/news_img/2092507842062450688/73IM7HWG?format=png&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2092507842062450688/73IM7HWG?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 38,
+          "status": 200,
+          "title": "Send me Anonymous Questions! - @mo1ania",
+          "unwound_url": "https://tellonym.me/mo1ania/answer/7309047568",
+          "url": "https://t.co/UOehsSZvWs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092507839810191607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "❓ 你跟另一半的朋友都玩得来吗？\n💬 我没有另一半。 #tellonym  https://t.co/UOehsSZvWs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2092507839810191607",
+        "created_at": "2026-08-26T07:02:00.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T08:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092507839810191607"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 27,
+              "tag": "tellonym"
+            }
+          ],
+          "urls": [
+            {
+              "description": "你跟另一半的朋友都玩得来吗？",
+              "display_url": "tellonym.me/mo1ania/answer…",
+              "end": 61,
+              "expanded_url": "https://tellonym.me/mo1ania/answer/7309047568",
+              "images": [
+                {
+                  "height": 628,
+                  "url": "https://pbs.twimg.com/news_img/2092507842062450688/73IM7HWG?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2092507842062450688/73IM7HWG?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 38,
+              "status": 200,
+              "title": "Send me Anonymous Questions! - @mo1ania",
+              "unwound_url": "https://tellonym.me/mo1ania/answer/7309047568",
+              "url": "https://t.co/UOehsSZvWs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092507839810191607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "❓ 你跟另一半的朋友都玩得来吗？\n💬 我没有另一半。 #tellonym  https://t.co/UOehsSZvWs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3deQ06或者https://t.co/K9ll2BLdno",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3deQ06"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLdno"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2092507839810191607",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2092182232534581509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1787667077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092253436129796096/3TAKIKRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 87,
+          "like_count": 16213,
+          "listed_count": 2,
+          "media_count": 594,
+          "tweet_count": 5440
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

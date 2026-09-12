@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2095552416842383558",
+    "created_at": "2026-09-04T00:29:42.000Z",
+    "display_text_range": [
+      11,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T01:29:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095670605765111840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1802515893374894080",
+          "start": 0,
+          "username": "17the8Jos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095670605765111840",
+    "in_reply_to_user_id": "1802515893374894080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095552416842383558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@17the8Jos 真正的老手艺人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 413,
+        "media_key": "3_2095552404376915968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTlzx8aEAAkUGJ.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2095552416842383558",
+        "created_at": "2026-09-04T00:29:42.000Z",
+        "display_text_range": [
+          11,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T01:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095670605765111840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1802515893374894080",
+              "start": 0,
+              "username": "17the8Jos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095670605765111840",
+        "in_reply_to_user_id": "1802515893374894080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095552416842383558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17the8Jos 真正的老手艺人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095552404376915968"
+          ]
+        },
+        "author_id": "1802515893374894080",
+        "conversation_id": "2095552416842383558",
+        "created_at": "2026-09-03T16:40:04.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T17:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095552416842383558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kdH5fXYf48",
+              "end": 33,
+              "expanded_url": "https://x.com/17the8Jos/status/2095552416842383558/photo/1",
+              "media_key": "3_2095552404376915968",
+              "start": 10,
+              "url": "https://t.co/kdH5fXYf48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095552416842383558",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095552404376915968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5957,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有这方面的经验。 https://t.co/kdH5fXYf48"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3deQ06或者https://t.co/K9ll2BLdno\n\n我的影子@666huanwohao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "666huanwohao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3deQ06"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLdno"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095670605765111840",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2092182232534581509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1787667077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092253436129796096/3TAKIKRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 81,
+          "like_count": 16347,
+          "listed_count": 2,
+          "media_count": 614,
+          "tweet_count": 5564
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-17T01:37:41.000Z",
+        "description": "大号@luvy1_ff 直男 07 🇬🇧留 坐标江苏 ONCE💙 小号碎碎念 随便乱发（原号已炸）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "luvy1_ff"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/august_jos0822",
+                "end": 23,
+                "expanded_url": "https://ngl.link/august_jos0822",
+                "start": 0,
+                "url": "https://t.co/hQFdVj9A4I"
+              }
+            ]
+          }
+        },
+        "id": "1802515893374894080",
+        "is_identity_verified": false,
+        "location": "Manchester, England",
+        "most_recent_tweet_id": "2095559557003260305",
+        "name": "藤原拓海",
+        "pinned_tweet_id": "2086719875884720571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1802515893374894080/1786106224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950098382288277505/hPU_dZc6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1412,
+          "following_count": 67,
+          "like_count": 382,
+          "listed_count": 3,
+          "media_count": 27,
+          "tweet_count": 231
+        },
+        "url": "https://t.co/hQFdVj9A4I",
+        "username": "17the8Jos",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

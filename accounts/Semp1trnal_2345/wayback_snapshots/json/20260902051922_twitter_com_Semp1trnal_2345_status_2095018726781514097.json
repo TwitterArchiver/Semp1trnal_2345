@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2094993872304910683",
+    "created_at": "2026-09-02T05:19:22.000Z",
+    "display_text_range": [
+      17,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T06:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095018726781514097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1662757137997778944",
+          "start": 0,
+          "username": "six919303018180"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095018726781514097",
+    "in_reply_to_user_id": "1662757137997778944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094993872304910683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@six919303018180 超级无敌贵好吗 每个月在卫生巾上要花好大一笔钱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1685,
+        "media_key": "3_2094993861756280832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLp0UibYAAzUXo.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2094993872304910683",
+        "created_at": "2026-09-02T05:19:22.000Z",
+        "display_text_range": [
+          17,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T06:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095018726781514097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1662757137997778944",
+              "start": 0,
+              "username": "six919303018180"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095018726781514097",
+        "in_reply_to_user_id": "1662757137997778944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094993872304910683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@six919303018180 超级无敌贵好吗 每个月在卫生巾上要花好大一笔钱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094993861756280832"
+          ]
+        },
+        "author_id": "1662757137997778944",
+        "conversation_id": "2094993872304910683",
+        "created_at": "2026-09-02T03:40:36.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T04:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094993872304910683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KCD3i8Fjnv",
+              "end": 50,
+              "expanded_url": "https://x.com/six919303018180/status/2094993872304910683/photo/1",
+              "media_key": "3_2094993861756280832",
+              "start": 27,
+              "url": "https://t.co/KCD3i8Fjnv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094993872304910683",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094993861756280832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5426,
+          "like_count": 141,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你中的卫生巾就是很贵啊又贵又难用还不让人说了吗😭🙌🏻 https://t.co/KCD3i8Fjnv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3deQ06或者https://t.co/K9ll2BLdno\n\n我的影子@666huanwohao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "666huanwohao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3deQ06"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLdno"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095018726781514097",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2092182232534581509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1787667077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092253436129796096/3TAKIKRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 83,
+          "like_count": 16280,
+          "listed_count": 2,
+          "media_count": 606,
+          "tweet_count": 5527
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-28T09:46:45.000Z",
+        "description": "不看几把\n匿名https://t.co/T2NSTzG20a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/six919303018180",
+                "end": 30,
+                "expanded_url": "https://ngl.link/six919303018180",
+                "start": 7,
+                "url": "https://t.co/T2NSTzG20a"
+              }
+            ]
+          }
+        },
+        "id": "1662757137997778944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095012273098305750",
+        "name": "woo",
+        "pinned_tweet_id": "2020021850320064684",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662757137997778944/1770211558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019039678645833728/-PZPVIy6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 84,
+          "like_count": 2787,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 985
+        },
+        "url": "",
+        "username": "six919303018180",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

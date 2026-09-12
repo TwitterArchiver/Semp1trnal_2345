@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2090756316746977473",
+    "created_at": "2026-08-21T23:59:56.000Z",
+    "display_text_range": [
+      19,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T00:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090952070933487688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1887893037365559296",
+          "start": 0,
+          "username": "k4p6mj"
+        },
+        {
+          "end": 18,
+          "id": "2000060779056492544",
+          "start": 8,
+          "username": "kakou0026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090952070933487688",
+    "in_reply_to_user_id": "1887893037365559296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090842936217149752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k4p6mj @kakou0026 我恨他。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2090756316746977473",
+        "created_at": "2026-08-21T23:59:56.000Z",
+        "display_text_range": [
+          19,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T00:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090952070933487688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1887893037365559296",
+              "start": 0,
+              "username": "k4p6mj"
+            },
+            {
+              "end": 18,
+              "id": "2000060779056492544",
+              "start": 8,
+              "username": "kakou0026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090952070933487688",
+        "in_reply_to_user_id": "1887893037365559296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090842936217149752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k4p6mj @kakou0026 我恨他。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887893037365559296",
+        "conversation_id": "2090756316746977473",
+        "created_at": "2026-08-21T16:46:16.000Z",
+        "display_text_range": [
+          28,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T17:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090842936217149752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            },
+            {
+              "end": 27,
+              "id": "2000060779056492544",
+              "start": 17,
+              "username": "kakou0026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090842936217149752",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090756316746977473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 @kakou0026 到底谁设计的…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3deQ06或者https://t.co/K9ll2BLdno",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3deQ06"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLdno"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2090952070933487688",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1777691076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085214874792300544/amOVzGHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 89,
+          "like_count": 15952,
+          "listed_count": 2,
+          "media_count": 586,
+          "tweet_count": 5354
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-07T15:56:06.000Z",
+        "description": "人乖圈小脾气好",
+        "id": "1887893037365559296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090847715727192125",
+        "name": "化合物",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887893037365559296/1768819196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079175734430781440/aNsbV0R4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 79,
+          "like_count": 7560,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 6915
+        },
+        "url": "",
+        "username": "k4p6mj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-14T04:30:32.000Z",
+        "description": "匿名💬 https://t.co/5EKyiiCQQf\n小可可豆在这里@Cocoa_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "Cocoa_0v0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/Kakou0026",
+                "end": 27,
+                "expanded_url": "https://tellonym.me/Kakou0026",
+                "start": 4,
+                "url": "https://t.co/5EKyiiCQQf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kakou36409",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kakou36409",
+                "start": 0,
+                "url": "https://t.co/HmMHXfIDkT"
+              }
+            ]
+          }
+        },
+        "id": "2000060779056492544",
+        "is_identity_verified": false,
+        "location": "这里是Kakou 喜欢你来＞_＜",
+        "most_recent_tweet_id": "2090840596047151498",
+        "name": "Kakou",
+        "pinned_tweet_id": "2070203795892801839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000060779056492544/1768232898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066913704390930432/ZSCvVdr5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5420,
+          "following_count": 190,
+          "like_count": 6379,
+          "listed_count": 10,
+          "media_count": 378,
+          "tweet_count": 5332
+        },
+        "url": "https://t.co/HmMHXfIDkT",
+        "username": "kakou0026",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
