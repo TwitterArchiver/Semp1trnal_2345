@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101865717683609600",
+        "3_2101865717679403008"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2101865736331530683",
+    "created_at": "2026-09-21T02:46:56.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T03:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101865736331530683"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iBc8g7ZsmP",
+          "end": 35,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2101865736331530683/photo/1",
+          "media_key": "3_2101865717683609600",
+          "start": 12,
+          "url": "https://t.co/iBc8g7ZsmP"
+        },
+        {
+          "display_url": "pic.x.com/iBc8g7ZsmP",
+          "end": 35,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2101865736331530683/photo/1",
+          "media_key": "3_2101865717679403008",
+          "start": 12,
+          "url": "https://t.co/iBc8g7ZsmP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101865736331530683",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101865717683609600"
+      },
+      {
+        "media_key": "3_2101865717679403008"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们别对我这么坏好不。 https://t.co/iBc8g7ZsmP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 555,
+        "media_key": "3_2101865717683609600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HStTu-waYAA7EBB.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2101865717679403008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HStTu-vaMAAj42i.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101865717683609600",
+            "3_2101865717679403008"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2101865736331530683",
+        "created_at": "2026-09-21T02:46:56.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T03:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101865736331530683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iBc8g7ZsmP",
+              "end": 35,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2101865736331530683/photo/1",
+              "media_key": "3_2101865717683609600",
+              "start": 12,
+              "url": "https://t.co/iBc8g7ZsmP"
+            },
+            {
+              "display_url": "pic.x.com/iBc8g7ZsmP",
+              "end": 35,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2101865736331530683/photo/1",
+              "media_key": "3_2101865717679403008",
+              "start": 12,
+              "url": "https://t.co/iBc8g7ZsmP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101865736331530683",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101865717683609600"
+          },
+          {
+            "media_key": "3_2101865717679403008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们别对我这么坏好不。 https://t.co/iBc8g7ZsmP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖07｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW\n\n我的影子@666huanwohao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "666huanwohao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 42,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 19,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 67,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 44,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101865736331530683",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2092182232534581509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1787667077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092253436129796096/3TAKIKRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 89,
+          "like_count": 17122,
+          "listed_count": 3,
+          "media_count": 665,
+          "tweet_count": 5841
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

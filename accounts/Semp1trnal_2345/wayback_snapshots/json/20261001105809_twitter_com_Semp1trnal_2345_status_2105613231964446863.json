@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2105509766407864773",
+    "created_at": "2026-10-01T10:58:09.000Z",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T11:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105613231964446863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2090111841947320320",
+          "start": 0,
+          "username": "WanoYoruuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105613231964446863",
+    "in_reply_to_user_id": "2090111841947320320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105509766407864773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WanoYoruuu 卧槽我他妈笑哭了要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 298,
+        "media_key": "3_2105509748514713600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HThF9fdXcAAsSzT.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2105509766407864773",
+        "created_at": "2026-10-01T10:58:09.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T11:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105613231964446863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2090111841947320320",
+              "start": 0,
+              "username": "WanoYoruuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105613231964446863",
+        "in_reply_to_user_id": "2090111841947320320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105509766407864773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WanoYoruuu 卧槽我他妈笑哭了要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105509748514713600"
+          ]
+        },
+        "author_id": "2090111841947320320",
+        "conversation_id": "2105509766407864773",
+        "created_at": "2026-10-01T04:07:01.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T05:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105509766407864773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z8kc5KQiqp",
+              "end": 39,
+              "expanded_url": "https://x.com/WanoYoruuu/status/2105509766407864773/photo/1",
+              "media_key": "3_2105509748514713600",
+              "start": 16,
+              "url": "https://t.co/z8kc5KQiqp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105509766407864773",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105509748514713600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2802,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "taylorswift 会中文 https://t.co/z8kc5KQiqp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖07｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW\n\n我的影子@666huanwohao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "666huanwohao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 42,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 19,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 67,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 44,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105613231964446863",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2092182232534581509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1790329959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103326067314556928/SUv6AqOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 92,
+          "like_count": 18257,
+          "listed_count": 3,
+          "media_count": 713,
+          "tweet_count": 6163
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T16:27:04.000Z",
+        "description": "小号：@Whotfiswano\n小小号：@Wanoyoruuuu\nig：https://t.co/3qErZZWqqm\nngl：https://t.co/9sypNegmqk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Whotfiswano"
+              },
+              {
+                "end": 32,
+                "start": 20,
+                "username": "Wanoyoruuuu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/wanoyoru?igsi=…",
+                "end": 59,
+                "expanded_url": "https://www.instagram.com/wanoyoru?igsi=emc0dmZyYmNmdWc0&utm_source=qr",
+                "start": 36,
+                "url": "https://t.co/3qErZZWqqm"
+              },
+              {
+                "display_url": "ngl.link/wanoyoru",
+                "end": 87,
+                "expanded_url": "https://ngl.link/wanoyoru",
+                "start": 64,
+                "url": "https://t.co/9sypNegmqk"
+              }
+            ]
+          }
+        },
+        "id": "2090111841947320320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105612473965629727",
+        "name": "Wano",
+        "pinned_tweet_id": "2103066125068275716",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090113729774096384/zD8bvaDp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 142,
+          "like_count": 5813,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 2279
+        },
+        "url": "",
+        "username": "WanoYoruuu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

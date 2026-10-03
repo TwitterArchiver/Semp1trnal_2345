@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2100810509675319486",
+    "created_at": "2026-09-18T04:53:51.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T05:53:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100810509675319486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1609183710330630145",
+          "start": 3,
+          "username": "XZdRbRugCrJNzRD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100810509675319486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100622548287508660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XZdRbRugCrJNzRD: 不要说我情感漠视了 我的情感几乎全被漠视了 我漠视所有人不是很正常吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2100810509675319486",
+        "created_at": "2026-09-18T04:53:51.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T05:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100810509675319486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1609183710330630145",
+              "start": 3,
+              "username": "XZdRbRugCrJNzRD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100810509675319486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100622548287508660",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XZdRbRugCrJNzRD: 不要说我情感漠视了 我的情感几乎全被漠视了 我漠视所有人不是很正常吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609183710330630145",
+        "conversation_id": "2100622548287508660",
+        "created_at": "2026-09-17T16:26:57.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T17:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100622548287508660"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100622548287508660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 6188,
+          "like_count": 301,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "不要说我情感漠视了 我的情感几乎全被漠视了 我漠视所有人不是很正常吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖07｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW\n\n我的影子@666huanwohao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "666huanwohao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 42,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 19,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 67,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 44,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100810509675319486",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2092182232534581509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1787667077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092253436129796096/3TAKIKRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 88,
+          "like_count": 16947,
+          "listed_count": 3,
+          "media_count": 657,
+          "tweet_count": 5777
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-31T13:45:12.000Z",
+        "description": "脑子不好，抑郁症，智力低下",
+        "id": "1609183710330630145",
+        "is_identity_verified": false,
+        "location": "unknown",
+        "most_recent_tweet_id": "2100622548287508660",
+        "name": ".942",
+        "pinned_tweet_id": "2100167231774883905",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1609183710330630145/1776523119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059314305045270528/dfVEkO0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 839,
+          "like_count": 21593,
+          "listed_count": 1,
+          "media_count": 726,
+          "tweet_count": 9327
+        },
+        "url": "",
+        "username": "XZdRbRugCrJNzRD",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

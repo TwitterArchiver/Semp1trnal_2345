@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2103903161991995686",
+    "created_at": "2026-09-26T22:55:02.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T23:55:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103981700791599357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1577781285371531264",
+          "start": 0,
+          "username": "Tt777xx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103981700791599357",
+    "in_reply_to_user_id": "1577781285371531264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103903161991995686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tt777xx 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2103903161991995686",
+        "created_at": "2026-09-26T22:55:02.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T23:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103981700791599357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1577781285371531264",
+              "start": 0,
+              "username": "Tt777xx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103981700791599357",
+        "in_reply_to_user_id": "1577781285371531264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103903161991995686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tt777xx 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577781285371531264",
+        "conversation_id": "2103903161991995686",
+        "created_at": "2026-09-26T17:42:57.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T18:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103903161991995686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103903161991995686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1347,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "还是裸睡自在"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖07｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW\n\n我的影子@666huanwohao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "666huanwohao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 42,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 19,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 67,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 44,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103981700791599357",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2092182232534581509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1790329959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103326067314556928/SUv6AqOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1568,
+          "following_count": 90,
+          "like_count": 17815,
+          "listed_count": 3,
+          "media_count": 693,
+          "tweet_count": 6032
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-05T22:02:38.000Z",
+        "description": "我就是一个理想主义产下的矛盾体 在大环境下无感能否吸引你\ngay离我远点 想了解我看完我的帖子吧 私信找我玩 不定时暴露癖慎关",
+        "id": "1577781285371531264",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103903161991995686",
+        "name": "Tt7",
+        "pinned_tweet_id": "2059548986835693571",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100453039824072704/ns0nezMC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 339,
+          "like_count": 3292,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1522
+        },
+        "url": "",
+        "username": "Tt777xx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

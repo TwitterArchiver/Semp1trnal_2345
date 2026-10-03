@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2104069012112159085",
+    "created_at": "2026-09-28T05:49:13.000Z",
+    "display_text_range": [
+      10,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T06:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104448322048258417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2030985132367396864",
+          "start": 0,
+          "username": "fo_xlove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104448322048258417",
+    "in_reply_to_user_id": "2030985132367396864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104069012112159085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fo_xlove 我还是那个办法。跟着蛋蛋喝一天。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2104069012112159085",
+        "created_at": "2026-09-28T05:49:13.000Z",
+        "display_text_range": [
+          10,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T06:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104448322048258417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2030985132367396864",
+              "start": 0,
+              "username": "fo_xlove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104448322048258417",
+        "in_reply_to_user_id": "2030985132367396864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104069012112159085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fo_xlove 我还是那个办法。跟着蛋蛋喝一天。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030985132367396864",
+        "conversation_id": "2104069012112159085",
+        "created_at": "2026-09-27T04:41:58.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T05:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104069012112159085"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104069012112159085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥我的尿这么黄。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖07｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW\n\n我的影子@666huanwohao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "666huanwohao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 42,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 19,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 67,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 44,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104448322048258417",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2092182232534581509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1790329959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103326067314556928/SUv6AqOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1564,
+          "following_count": 88,
+          "like_count": 17947,
+          "listed_count": 3,
+          "media_count": 697,
+          "tweet_count": 6064
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-09T12:33:06.000Z",
+        "description": "我叫小物。",
+        "id": "2030985132367396864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104214645133500782",
+        "name": "不知名的小盐堆",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2030985132367396864/1790346746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103411592239136768/ZfdVwXdL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 19,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 80
+        },
+        "url": "",
+        "username": "fo_xlove",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

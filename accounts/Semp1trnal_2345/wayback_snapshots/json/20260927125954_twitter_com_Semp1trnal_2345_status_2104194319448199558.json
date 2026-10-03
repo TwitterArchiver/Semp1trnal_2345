@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2104166269817930162",
+    "created_at": "2026-09-27T12:59:54.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T13:59:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104194319448199558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1939704603882504193",
+          "start": 0,
+          "username": "bushi11f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104194319448199558",
+    "in_reply_to_user_id": "1939704603882504193",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104166269817930162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bushi11f 喵。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104166262398201856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOAETqbMAAMYsz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2104166269817930162",
+        "created_at": "2026-09-27T12:59:54.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104194319448199558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1939704603882504193",
+              "start": 0,
+              "username": "bushi11f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104194319448199558",
+        "in_reply_to_user_id": "1939704603882504193",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104166269817930162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bushi11f 喵。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104166262398201856"
+          ]
+        },
+        "author_id": "1939704603882504193",
+        "conversation_id": "2104166269817930162",
+        "created_at": "2026-09-27T11:08:26.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T12:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104166269817930162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XeSH9gLyb8",
+              "end": 28,
+              "expanded_url": "https://x.com/bushi11f/status/2104166269817930162/photo/1",
+              "media_key": "3_2104166262398201856",
+              "start": 5,
+              "url": "https://t.co/XeSH9gLyb8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104166269817930162",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104166262398201856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小猫咪🐱 https://t.co/XeSH9gLyb8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖07｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW\n\n我的影子@666huanwohao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "666huanwohao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 42,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 19,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 67,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 44,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104194319448199558",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2092182232534581509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1790329959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103326067314556928/SUv6AqOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565,
+          "following_count": 89,
+          "like_count": 17894,
+          "listed_count": 3,
+          "media_count": 696,
+          "tweet_count": 6048
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-30T15:17:06.000Z",
+        "description": "该用户是个angel https://t.co/3CL6uxUqMB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/11f50097",
+                "end": 34,
+                "expanded_url": "https://ngl.link/11f50097",
+                "start": 11,
+                "url": "https://t.co/3CL6uxUqMB"
+              }
+            ]
+          }
+        },
+        "id": "1939704603882504193",
+        "is_identity_verified": false,
+        "location": "in Kun's heart",
+        "most_recent_tweet_id": "2104184719302934966",
+        "name": "11f",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939704603882504193/1775408063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103551697524346880/HP4i1LEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4643,
+          "following_count": 77,
+          "like_count": 1491,
+          "listed_count": 8,
+          "media_count": 656,
+          "tweet_count": 4072
+        },
+        "url": "",
+        "username": "bushi11f",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

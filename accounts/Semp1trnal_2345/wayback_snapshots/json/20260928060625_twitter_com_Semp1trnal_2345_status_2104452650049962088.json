@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2104449192093745182",
+    "created_at": "2026-09-28T06:06:25.000Z",
+    "display_text_range": [
+      9,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T07:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104452650049962088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1478809787752091648",
+          "start": 0,
+          "username": "liosHe1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104452650049962088",
+    "in_reply_to_user_id": "1478809787752091648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104449192093745182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liosHe1 闺蜜好实用呀我最近正好想买假发。。。。！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2104449181666648064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSBYYEaIAALSzm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104449181679308800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSBYYHbUAAvXMR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104449181691826176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSBYYKaUAACwuc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2104449192093745182",
+        "created_at": "2026-09-28T06:06:25.000Z",
+        "display_text_range": [
+          9,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T07:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104452650049962088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1478809787752091648",
+              "start": 0,
+              "username": "liosHe1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104452650049962088",
+        "in_reply_to_user_id": "1478809787752091648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104449192093745182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liosHe1 闺蜜好实用呀我最近正好想买假发。。。。！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104449181666648064",
+            "3_2104449181679308800",
+            "3_2104449181691826176"
+          ]
+        },
+        "author_id": "1478809787752091648",
+        "conversation_id": "2104449192093745182",
+        "created_at": "2026-09-28T05:52:40.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T06:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104449192093745182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0oEslxNS3I",
+              "end": 166,
+              "expanded_url": "https://x.com/liosHe1/status/2104449192093745182/photo/1",
+              "media_key": "3_2104449181666648064",
+              "start": 143,
+              "url": "https://t.co/0oEslxNS3I"
+            },
+            {
+              "display_url": "pic.x.com/0oEslxNS3I",
+              "end": 166,
+              "expanded_url": "https://x.com/liosHe1/status/2104449192093745182/photo/1",
+              "media_key": "3_2104449181679308800",
+              "start": 143,
+              "url": "https://t.co/0oEslxNS3I"
+            },
+            {
+              "display_url": "pic.x.com/0oEslxNS3I",
+              "end": 166,
+              "expanded_url": "https://x.com/liosHe1/status/2104449192093745182/photo/1",
+              "media_key": "3_2104449181691826176",
+              "start": 143,
+              "url": "https://t.co/0oEslxNS3I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104449192093745182",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104449181666648064"
+          },
+          {
+            "media_key": "3_2104449181679308800"
+          },
+          {
+            "media_key": "3_2104449181691826176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "p1第一款这个榛果灰棕色调的特别好，刘海是非常少见的轻薄款空气刘海，不是常规的大波浪会偏蛋卷一点，完全不显头大很轻薄；第二款刘海会偏厚重，发量很多我拍照的时候从旁边分了两绺扎起来了，这款很适合这种公主头。p2颜色和款式所见即所得，只有左下角的香槟金按商家的视频醒了发，我真的手残瞎拿吹风机吹两下就很有效果了！这个卷特别漂亮呀......其他三款都是蛋卷头，发质最真的是第一款浅金色。p3是两款盘发，都是直接下单送到手就是盘好的我非常需要！左边这款各种角度都看不出来是假发，尤其是盘起来的头发还有一绺小啾啾特别灵动......也是鬓角最完美的盘发。右边款很雷同但是鬓角会更修脸！颜色也会偏冷。盘发款我也觉得很耐用因为完全不会散.....店家拿了很多一字夹固定的很牢固。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 194,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1第一款这个榛果灰棕色调的特别好，刘海是非常少见的轻薄款空气刘海，不是常规的大波浪会偏蛋卷一点，完全不显头大很轻薄；第二款刘海会偏厚重，发量很多我拍照的时候从旁边分了两绺扎起来了，这款很适合这种公主头。p2颜色和款式所见即所得，只有左下角的香槟金按商家的视频醒了发，我真的手残瞎拿吹 https://t.co/0oEslxNS3I"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖07｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW\n\n我的影子@666huanwohao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "666huanwohao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 42,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 19,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 67,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 44,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104452650049962088",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2092182232534581509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1790329959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103326067314556928/SUv6AqOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1564,
+          "following_count": 88,
+          "like_count": 17959,
+          "listed_count": 3,
+          "media_count": 697,
+          "tweet_count": 6066
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-05T19:25:16.000Z",
+        "description": "只是一位用户。\n不加v不闲聊。谢谢你喜欢我的灵魂。\n匿名提问：https://t.co/hXG9WXY41c\n防走丢：@Helios0915a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "Helios0915a"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lioshe1/bit",
+                "end": 54,
+                "expanded_url": "https://ngl.link/lioshe1/bit",
+                "start": 31,
+                "url": "https://t.co/hXG9WXY41c"
+              }
+            ]
+          }
+        },
+        "id": "1478809787752091648",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104452119269192172",
+        "name": "用户0915a",
+        "pinned_tweet_id": "2103964011675127906",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1478809787752091648/1785680547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083921276868177920/UX4fY9va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 411,
+          "like_count": 6522,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 3938
+        },
+        "url": "",
+        "username": "liosHe1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

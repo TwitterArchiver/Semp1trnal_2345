@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2104886992370884904",
+    "created_at": "2026-09-30T09:22:56.000Z",
+    "display_text_range": [
+      11,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T10:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105226882333696401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1445761454288740361",
+          "start": 0,
+          "username": "ttyynxzhc"
+        },
+        {
+          "end": 23,
+          "id": "2100559458388811776",
+          "start": 14,
+          "username": "chi77egg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105226882333696401",
+    "in_reply_to_user_id": "1445761454288740361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105225253572223060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttyynxzhc 我靠 @chi77egg 是三个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2104886992370884904",
+        "created_at": "2026-09-30T09:22:56.000Z",
+        "display_text_range": [
+          11,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T10:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105226882333696401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1445761454288740361",
+              "start": 0,
+              "username": "ttyynxzhc"
+            },
+            {
+              "end": 23,
+              "id": "2100559458388811776",
+              "start": 14,
+              "username": "chi77egg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105226882333696401",
+        "in_reply_to_user_id": "1445761454288740361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105225253572223060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttyynxzhc 我靠 @chi77egg 是三个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445761454288740361",
+        "conversation_id": "2104886992370884904",
+        "created_at": "2026-09-30T09:16:28.000Z",
+        "display_text_range": [
+          17,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T10:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105225253572223060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105225253572223060",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104886992370884904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 两个猪猪头像好巧呀！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖07｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW\n\n我的影子@666huanwohao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "666huanwohao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 42,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 19,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 67,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 44,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105226882333696401",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2092182232534581509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1790329959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103326067314556928/SUv6AqOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1567,
+          "following_count": 91,
+          "like_count": 18123,
+          "listed_count": 3,
+          "media_count": 707,
+          "tweet_count": 6131
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-06T14:43:05.000Z",
+        "description": "求一夜暴富教程",
+        "id": "1445761454288740361",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105225883531477432",
+        "name": "不猪豆",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1445761454288740361/1790269625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103169359514677248/QcW9D-gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 23,
+          "like_count": 726,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 105
+        },
+        "url": "",
+        "username": "ttyynxzhc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-17T12:18:23.000Z",
+        "description": "我是蛋蛋呀？！",
+        "id": "2100559458388811776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105131879691341898",
+        "name": "山雀",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2100559458388811776/1790483386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103315786991538176/yIh_rbQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 12,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "chi77egg",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

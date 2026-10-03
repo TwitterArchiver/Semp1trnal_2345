@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2104718428464710017",
+    "created_at": "2026-09-28T23:42:31.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T00:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104718428464710017"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seny_0629/stat…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/seny_0629/status/2104611661432934408",
+          "start": 19,
+          "url": "https://t.co/Ols1wIMLvs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104718428464710017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104611661432934408",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "万一有人看完我所有推文爱上我了怎么办 https://t.co/Ols1wIMLvs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2104718428464710017",
+        "created_at": "2026-09-28T23:42:31.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T00:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104718428464710017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seny_0629/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/seny_0629/status/2104611661432934408",
+              "start": 19,
+              "url": "https://t.co/Ols1wIMLvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104718428464710017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104611661432934408",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "万一有人看完我所有推文爱上我了怎么办 https://t.co/Ols1wIMLvs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497112492601978880",
+        "conversation_id": "2104611661432934408",
+        "created_at": "2026-09-28T16:38:16.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T17:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104611661432934408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zaykee7nom/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/zaykee7nom/status/2104579798362439745",
+              "start": 19,
+              "url": "https://t.co/ipRmirt0h5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104611661432934408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7116,
+          "like_count": 27,
+          "quote_count": 16,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104579798362439745",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "万一有人看完我所有推文爱上我了怎么办 https://t.co/ipRmirt0h5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖07｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW\n\n我的影子@666huanwohao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "666huanwohao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 42,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 19,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 67,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 44,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104718428464710017",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2092182232534581509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1790329959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103326067314556928/SUv6AqOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1563,
+          "following_count": 90,
+          "like_count": 18001,
+          "listed_count": 3,
+          "media_count": 698,
+          "tweet_count": 6077
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-25T07:33:40.000Z",
+        "description": "听歌 三角洲 对标普好感max 发点符合自己xp的 dom/switch 纯享版直接点视频栏就可以啦\n把我当一个不会消失只是用来取悦自己的物品就好\n匿名：https://t.co/Qcur9c9Ksr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/loading30604",
+                "end": 100,
+                "expanded_url": "https://ngl.link/loading30604",
+                "start": 77,
+                "url": "https://t.co/Qcur9c9Ksr"
+              }
+            ]
+          }
+        },
+        "id": "1497112492601978880",
+        "is_identity_verified": false,
+        "location": "2.1公里",
+        "most_recent_tweet_id": "2104611661432934408",
+        "name": "今天喝可乐",
+        "pinned_tweet_id": "2082394273916633234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1497112492601978880/1647078210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920531228861620224/fIoi2My2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 31,
+          "like_count": 478,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 288
+        },
+        "url": "",
+        "username": "Seny_0629",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

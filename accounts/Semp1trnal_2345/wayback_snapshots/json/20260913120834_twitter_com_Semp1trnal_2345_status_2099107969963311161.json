@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099107950426230784",
+        "3_2099107950472347649"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2099107969963311161",
+    "created_at": "2026-09-13T12:08:34.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T13:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099107969963311161"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A1cFl2q34l",
+          "end": 159,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2099107969963311161/photo/1",
+          "media_key": "3_2099107950426230784",
+          "start": 136,
+          "url": "https://t.co/A1cFl2q34l"
+        },
+        {
+          "display_url": "pic.x.com/A1cFl2q34l",
+          "end": 159,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2099107969963311161/photo/1",
+          "media_key": "3_2099107950472347649",
+          "start": 136,
+          "url": "https://t.co/A1cFl2q34l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099107969963311161",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099107950426230784"
+      },
+      {
+        "media_key": "3_2099107950472347649"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个男生高中的时候和很漂亮的一个女孩谈恋爱 结果完全吃软饭 花人家的吃人家的还骂人家 把女生怼楼道里扇她耳光 分手之后又去求复合 还把女生反锁在家里 要不是同学家长经过听到女生喊还不知道会怎么样 觉得自己画的天下第一牛逼 今年复读了还谈恋爱 我们有玄学的考前谈恋爱考不上 https://t.co/A1cFl2q34l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1246,
+        "media_key": "3_2099107950426230784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGHjzJakAAAzDA.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2099107950472347649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGHjzUaQAEX5P2.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099107950426230784",
+            "3_2099107950472347649"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099107969963311161",
+        "created_at": "2026-09-13T12:08:34.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T13:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099107969963311161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A1cFl2q34l",
+              "end": 159,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2099107969963311161/photo/1",
+              "media_key": "3_2099107950426230784",
+              "start": 136,
+              "url": "https://t.co/A1cFl2q34l"
+            },
+            {
+              "display_url": "pic.x.com/A1cFl2q34l",
+              "end": 159,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2099107969963311161/photo/1",
+              "media_key": "3_2099107950472347649",
+              "start": 136,
+              "url": "https://t.co/A1cFl2q34l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099107969963311161",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099107950426230784"
+          },
+          {
+            "media_key": "3_2099107950472347649"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个男生高中的时候和很漂亮的一个女孩谈恋爱 结果完全吃软饭 花人家的吃人家的还骂人家 把女生怼楼道里扇她耳光 分手之后又去求复合 还把女生反锁在家里 要不是同学家长经过听到女生喊还不知道会怎么样 觉得自己画的天下第一牛逼 今年复读了还谈恋爱 我们有玄学的考前谈恋爱考不上 https://t.co/A1cFl2q34l"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖07｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW\n\n我的影子@666huanwohao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "666huanwohao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 42,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 19,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 67,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 44,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099107969963311161",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2080200731177705707",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1787667077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092253436129796096/3TAKIKRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1560,
+          "following_count": 86,
+          "like_count": 16710,
+          "listed_count": 2,
+          "media_count": 651,
+          "tweet_count": 5724
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

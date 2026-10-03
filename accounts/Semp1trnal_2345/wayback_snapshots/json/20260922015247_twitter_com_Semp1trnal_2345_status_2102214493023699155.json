@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2102214493023699155",
+    "created_at": "2026-09-22T01:52:47.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T02:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102214493023699155"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 41,
+          "tag": "tellonym"
+        }
+      ],
+      "urls": [
+        {
+          "description": "被不喜欢的人喜欢的话你会怎么办",
+          "display_url": "tellonym.me/mo1ania/answer…",
+          "end": 75,
+          "expanded_url": "https://tellonym.me/mo1ania/answer/7366990090",
+          "images": [
+            {
+              "height": 628,
+              "url": "https://pbs.twimg.com/news_img/2102214493669597184/_K0Qv5mH?format=png&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2102214493669597184/_K0Qv5mH?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 52,
+          "status": 200,
+          "title": "Send me Anonymous Questions! - @mo1ania",
+          "unwound_url": "https://tellonym.me/mo1ania/answer/7366990090",
+          "url": "https://t.co/Bv9LxQOePw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102214493023699155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "❓ 被不喜欢的人喜欢的话你会怎么办\n💬 这有啥咋办的 只要不困扰我我就没啥关系呀 #tellonym  https://t.co/Bv9LxQOePw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2102214493023699155",
+        "created_at": "2026-09-22T01:52:47.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T02:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102214493023699155"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 41,
+              "tag": "tellonym"
+            }
+          ],
+          "urls": [
+            {
+              "description": "被不喜欢的人喜欢的话你会怎么办",
+              "display_url": "tellonym.me/mo1ania/answer…",
+              "end": 75,
+              "expanded_url": "https://tellonym.me/mo1ania/answer/7366990090",
+              "images": [
+                {
+                  "height": 628,
+                  "url": "https://pbs.twimg.com/news_img/2102214493669597184/_K0Qv5mH?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2102214493669597184/_K0Qv5mH?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 52,
+              "status": 200,
+              "title": "Send me Anonymous Questions! - @mo1ania",
+              "unwound_url": "https://tellonym.me/mo1ania/answer/7366990090",
+              "url": "https://t.co/Bv9LxQOePw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102214493023699155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "❓ 被不喜欢的人喜欢的话你会怎么办\n💬 这有啥咋办的 只要不困扰我我就没啥关系呀 #tellonym  https://t.co/Bv9LxQOePw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖07｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW\n\n我的影子@666huanwohao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "666huanwohao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 42,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 19,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 67,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 44,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102214493023699155",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2092182232534581509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1787667077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092253436129796096/3TAKIKRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 89,
+          "like_count": 17206,
+          "listed_count": 3,
+          "media_count": 671,
+          "tweet_count": 5876
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2102036304636805232",
+    "created_at": "2026-09-21T14:04:43.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T15:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102036304636805232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1624932967234818048",
+          "start": 3,
+          "username": "Neiivii7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102036304636805232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101983003862008081",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Neiivii7: 我都给你点赞了。这和表白有什么区别。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2102036304636805232",
+        "created_at": "2026-09-21T14:04:43.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T15:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102036304636805232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1624932967234818048",
+              "start": 3,
+              "username": "Neiivii7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102036304636805232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101983003862008081",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Neiivii7: 我都给你点赞了。这和表白有什么区别。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624932967234818048",
+        "conversation_id": "2101983003862008081",
+        "created_at": "2026-09-21T10:32:55.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T11:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101983003862008081"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101983003862008081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1944,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我都给你点赞了。这和表白有什么区别。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖07｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW\n\n我的影子@666huanwohao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "666huanwohao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 42,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 19,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 67,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 44,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102036304636805232",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2092182232534581509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1787667077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092253436129796096/3TAKIKRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 89,
+          "like_count": 17185,
+          "listed_count": 3,
+          "media_count": 670,
+          "tweet_count": 5862
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-13T00:46:40.000Z",
+        "description": "04/172/54/c/switch/k8/双 可以叫我小奈 半绿😇 聊的好会回关 提问📪⬇️ 喜欢小猫小狗 不是🚪不加私联",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/neiivii7",
+                "end": 23,
+                "expanded_url": "https://ngl.link/neiivii7",
+                "start": 0,
+                "url": "https://t.co/wpWH3h30t8"
+              }
+            ]
+          }
+        },
+        "id": "1624932967234818048",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102031932393467939",
+        "name": "Neiivii",
+        "pinned_tweet_id": "2061835338440495108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1624932967234818048/1763814137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958760285701120001/cR8hkZXe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1907,
+          "following_count": 237,
+          "like_count": 1656,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 1336
+        },
+        "url": "https://t.co/wpWH3h30t8",
+        "username": "Neiivii7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

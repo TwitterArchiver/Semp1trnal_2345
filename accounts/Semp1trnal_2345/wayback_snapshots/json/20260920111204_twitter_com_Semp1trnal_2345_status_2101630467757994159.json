@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2101630467757994159",
+    "created_at": "2026-09-20T11:12:04.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T12:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101630467757994159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1975185633951076353",
+          "start": 3,
+          "username": "xiiesyyii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101630467757994159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101497085376041194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiiesyyii: 豆包帮我生成一个天天黏着我给我发消息给我报备离开我一分钟就会死的小男孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2101630467757994159",
+        "created_at": "2026-09-20T11:12:04.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T12:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101630467757994159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1975185633951076353",
+              "start": 3,
+              "username": "xiiesyyii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101630467757994159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101497085376041194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiiesyyii: 豆包帮我生成一个天天黏着我给我发消息给我报备离开我一分钟就会死的小男孩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975185633951076353",
+        "conversation_id": "2101497085376041194",
+        "created_at": "2026-09-20T02:22:03.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T03:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101497085376041194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101497085376041194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2444,
+          "like_count": 65,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "豆包帮我生成一个天天黏着我给我发消息给我报备离开我一分钟就会死的小男孩"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖07｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW\n\n我的影子@666huanwohao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "666huanwohao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 42,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 19,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 67,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 44,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101630467757994159",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2092182232534581509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1787667077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092253436129796096/3TAKIKRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 89,
+          "like_count": 17111,
+          "listed_count": 3,
+          "media_count": 663,
+          "tweet_count": 5834
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-06T13:05:36.000Z",
+        "description": "后会无期",
+        "id": "1975185633951076353",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101615328035995758",
+        "name": "llx_xll",
+        "pinned_tweet_id": "2024167204024185087",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1975185633951076353/1770383527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057681733466664960/jmOMq60__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 56,
+          "like_count": 3022,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 193
+        },
+        "url": "",
+        "username": "xiiesyyii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

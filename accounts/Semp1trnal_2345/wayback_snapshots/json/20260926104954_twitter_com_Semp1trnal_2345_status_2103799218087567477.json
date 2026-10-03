@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103799197057359872"
+      ]
+    },
+    "author_id": "1970515784762859520",
+    "conversation_id": "2103799218087567477",
+    "created_at": "2026-09-26T10:49:54.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T11:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103799218087567477"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zN5r41TNwp",
+          "end": 55,
+          "expanded_url": "https://x.com/Semp1trnal_2345/status/2103799218087567477/photo/1",
+          "media_key": "3_2103799197057359872",
+          "start": 32,
+          "url": "https://t.co/zN5r41TNwp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103799218087567477",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103799197057359872"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一直在找一条和这个一样的裙子。夏天都过去了我也没有买到呵呵哒 https://t.co/zN5r41TNwp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103799197057359872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTIyOStbIAAAUoA.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103799197057359872"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2103799218087567477",
+        "created_at": "2026-09-26T10:49:54.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T11:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103799218087567477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zN5r41TNwp",
+              "end": 55,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2103799218087567477/photo/1",
+              "media_key": "3_2103799197057359872",
+              "start": 32,
+              "url": "https://t.co/zN5r41TNwp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103799218087567477",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103799197057359872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在找一条和这个一样的裙子。夏天都过去了我也没有买到呵呵哒 https://t.co/zN5r41TNwp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖07｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW\n\n我的影子@666huanwohao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "666huanwohao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 42,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 19,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 67,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 44,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103799218087567477",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2092182232534581509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1790329959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103326067314556928/SUv6AqOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1564,
+          "following_count": 89,
+          "like_count": 17756,
+          "listed_count": 3,
+          "media_count": 693,
+          "tweet_count": 6015
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

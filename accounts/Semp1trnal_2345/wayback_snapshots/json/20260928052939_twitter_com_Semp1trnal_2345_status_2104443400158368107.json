@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1970515784762859520",
+    "conversation_id": "2104443400158368107",
+    "created_at": "2026-09-28T05:29:39.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T06:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104443400158368107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1674833364564725760",
+          "start": 3,
+          "username": "InfectQWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104443400158368107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104241398677471498",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @InfectQWQ: 好困啊，我要是大网黄就好了。累了也不用自己手洗袜子内裤，直接当原味卖了还能赚点零花钱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970515784762859520",
+        "conversation_id": "2104443400158368107",
+        "created_at": "2026-09-28T05:29:39.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T06:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104443400158368107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1674833364564725760",
+              "start": 3,
+              "username": "InfectQWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104443400158368107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104241398677471498",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @InfectQWQ: 好困啊，我要是大网黄就好了。累了也不用自己手洗袜子内裤，直接当原味卖了还能赚点零花钱。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674833364564725760",
+        "conversation_id": "2104241398677471498",
+        "created_at": "2026-09-27T16:06:59.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T17:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104241398677471498"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104241398677471498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 30147,
+          "like_count": 475,
+          "quote_count": 10,
+          "reply_count": 32,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "好困啊，我要是大网黄就好了。累了也不用自己手洗袜子内裤，直接当原味卖了还能赚点零花钱。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖07｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW\n\n我的影子@666huanwohao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "666huanwohao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 42,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 19,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 67,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 44,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104443400158368107",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2092182232534581509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1790329959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103326067314556928/SUv6AqOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1564,
+          "following_count": 88,
+          "like_count": 17940,
+          "listed_count": 3,
+          "media_count": 697,
+          "tweet_count": 6060
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-30T17:32:58.000Z",
+        "description": "感染   大一  在这里的口嗨内容全都是我的第二人格发的，和墙内本人无关。",
+        "id": "1674833364564725760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104410263860523048",
+        "name": "Infect",
+        "pinned_tweet_id": "1926234855957782665",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674833364564725760/1744305096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817853589014065152/aQ4d9Hu0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 689,
+          "like_count": 3653,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 4168
+        },
+        "url": "",
+        "username": "InfectQWQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
